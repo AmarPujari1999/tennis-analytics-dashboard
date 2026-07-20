@@ -1,0 +1,1001 @@
+venue_id,venue_name,city_name,country_name,timezone,complex_name,complex_id
+sr:venue:1008,"Estadio Monumental",Lima,PERU,America/Lima,"Club Tennis Las Terrazas de Miraflores",sr:complex:35290
+sr:venue:10390,Stadium,Shenzhen,CHINA,Asia/Shanghai,"Shenzhen International Tennis Center",sr:complex:38603
+sr:venue:10394,"Court 2",Shenzhen,CHINA,Asia/Shanghai,"Shenzhen Longgang Sports Center",sr:complex:33334
+sr:venue:10472,"Court 7",Sydney,AUSTRALIA,Australia/Sydney,"Olympic Park Tennis Center",sr:complex:33244
+sr:venue:10536,"Court 20",Melbourne,AUSTRALIA,Australia/Melbourne,"Melbourne Park",sr:complex:33196
+sr:venue:10538,"Court 22",Melbourne,AUSTRALIA,Australia/Melbourne,"Melbourne Park",sr:complex:33196
+sr:venue:10582,"Estadio Ivan Elias Moreno",Lima,PERU,America/Lima,"Club Tennis Las Terrazas de Miraflores",sr:complex:35290
+sr:venue:10644,"Stade Numa-Daly Magenta",Noumea,"NEW CALEDONIA",Pacific/Noumea,"Complexe Tennistique Marie-Louise Lhuillier",sr:complex:49635
+sr:venue:11388,"Cancha 5",Acapulco,MEXICO,America/Mexico_City,"Acapulco Princess Mundo Imperial",sr:complex:33298
+sr:venue:11486,"Court 13","Indian Wells","UNITED STATES",America/Los_Angeles,"Indian Wells Tennis Garden",sr:complex:38419
+sr:venue:11661,"Center Court",Marrakech,MOROCCO,Africa/Casablanca,"Royal Tennis Club de Marrakech",sr:complex:33278
+sr:venue:11663,"Court 1",Marrakech,MOROCCO,Africa/Casablanca,"Royal Tennis Club de Marrakech",sr:complex:33278
+sr:venue:11665,"Court 2",Marrakech,MOROCCO,Africa/Casablanca,"Royal Tennis Club de Marrakech",sr:complex:33278
+sr:venue:11667,"Court 4",Marrakech,MOROCCO,Africa/Casablanca,"Royal Tennis Club de Marrakech",sr:complex:33278
+sr:venue:11735,"SZ Court",Munich,GERMANY,Europe/Berlin,"MTTC Iphitos e.V.",sr:complex:33368
+sr:venue:11741,"Court 1",Oeiras,PORTUGAL,Europe/Lisbon,"Complexo De Tenis Do Jamor",sr:complex:77763
+sr:venue:11985,"Center Court",Nuremberg,GERMANY,Europe/Berlin,"Tennis Club 1.FCN",sr:complex:33280
+sr:venue:11987,"Show Court",Nuremberg,GERMANY,Europe/Berlin,"Tennis Club 1.FCN",sr:complex:33280
+sr:venue:11989,"Court 1",Nuremberg,GERMANY,Europe/Berlin,"Tennis Club 1.FCN",sr:complex:33280
+sr:venue:11995,"Court 2",Nuremberg,GERMANY,Europe/Berlin,"Tennis Club 1.FCN",sr:complex:33280
+sr:venue:12005,"Court 9",Palermo,ITALY,Europe/Rome,"Country Time Club",sr:complex:33446
+sr:venue:1203,"Estadio Alejandro Villanueva",Lima,PERU,America/Lima,"Club Tennis Las Terrazas de Miraflores",sr:complex:35290
+sr:venue:12045,"Court 11",Palermo,ITALY,Europe/Rome,"Country Time Club",sr:complex:33446
+sr:venue:12245,"Halle des Sports",Quimper,FRANCE,Europe/Paris,"Parc des Expositions Quimper Cornouaille",sr:complex:38045
+sr:venue:1308,"Court 4","New York","UNITED STATES",America/New_York,"USTA Billie Jean King National Tennis Center",sr:complex:33808
+sr:venue:1310,"Arthur Ashe Stadium","New York","UNITED STATES",America/New_York,"USTA Billie Jean King National Tennis Center",sr:complex:33808
+sr:venue:1311,"Court 5","New York","UNITED STATES",America/New_York,"USTA Billie Jean King National Tennis Center",sr:complex:33808
+sr:venue:1312,"Court 6","New York","UNITED STATES",America/New_York,"USTA Billie Jean King National Tennis Center",sr:complex:33808
+sr:venue:1313,"Court 7","New York","UNITED STATES",America/New_York,"USTA Billie Jean King National Tennis Center",sr:complex:33808
+sr:venue:1314,"Court 8","New York","UNITED STATES",America/New_York,"USTA Billie Jean King National Tennis Center",sr:complex:33808
+sr:venue:1315,"Court 9","New York","UNITED STATES",America/New_York,"USTA Billie Jean King National Tennis Center",sr:complex:33808
+sr:venue:1316,"Court 10","New York","UNITED STATES",America/New_York,"USTA Billie Jean King National Tennis Center",sr:complex:33808
+sr:venue:1317,"Court 11","New York","UNITED STATES",America/New_York,"USTA Billie Jean King National Tennis Center",sr:complex:33808
+sr:venue:1318,"Court 12","New York","UNITED STATES",America/New_York,"USTA Billie Jean King National Tennis Center",sr:complex:33808
+sr:venue:1319,"Court 13","New York","UNITED STATES",America/New_York,"USTA Billie Jean King National Tennis Center",sr:complex:33808
+sr:venue:13196,"Court A",Shanghai,CHINA,Asia/Shanghai,"Qi Zhong Tennis Center",sr:complex:44518
+sr:venue:13198,"Court B",Shanghai,CHINA,Asia/Shanghai,"Qi Zhong Tennis Center",sr:complex:44518
+sr:venue:1320,"Court 14","New York","UNITED STATES",America/New_York,"USTA Billie Jean King National Tennis Center",sr:complex:33808
+sr:venue:13200,"Court C",Shanghai,CHINA,Asia/Shanghai,"Qi Zhong Tennis Center",sr:complex:44518
+sr:venue:1321,"Court 15","New York","UNITED STATES",America/New_York,"USTA Billie Jean King National Tennis Center",sr:complex:33808
+sr:venue:13212,"Cancha 10","Buenos Aires",ARGENTINA,America/Argentina/Buenos_Aires,"Buenos Aires Lawn Tennis Club",sr:complex:33222
+sr:venue:13214,"Cancha 11","Buenos Aires",ARGENTINA,America/Argentina/Buenos_Aires,"Buenos Aires Lawn Tennis Club",sr:complex:33222
+sr:venue:13216,"Cancha 2","Buenos Aires",ARGENTINA,America/Argentina/Buenos_Aires,"Buenos Aires Lawn Tennis Club",sr:complex:33222
+sr:venue:1322,"Court 16","New York","UNITED STATES",America/New_York,"USTA Billie Jean King National Tennis Center",sr:complex:33808
+sr:venue:1323,"Stadium 17","New York","UNITED STATES",America/New_York,"USTA Billie Jean King National Tennis Center",sr:complex:33808
+sr:venue:1324,"Louis Armstrong Stadium","New York","UNITED STATES",America/New_York,"USTA Billie Jean King National Tennis Center",sr:complex:33808
+sr:venue:1325,Grandstand,"New York","UNITED STATES",America/New_York,"USTA Billie Jean King National Tennis Center",sr:complex:33808
+sr:venue:13308,"Center Court",Shenzhen,CHINA,Asia/Shanghai,"Shenzhen Longgang Sports Center",sr:complex:33334
+sr:venue:13366,"Court 2",Montpellier,FRANCE,Europe/Paris,"Sud de France Arena",sr:complex:38187
+sr:venue:1339,"Court Central",Metz,FRANCE,Europe/Paris,"Les Arenes de Metz",sr:complex:44130
+sr:venue:1340,"Court 1",Metz,FRANCE,Europe/Paris,"Les Arenes de Metz",sr:complex:44130
+sr:venue:1341,CENTRALA,Bucharest,ROMANIA,Europe/Bucharest,"BNR arena",sr:complex:33366
+sr:venue:1342,"SEMI CENTRALA",Bucharest,ROMANIA,Europe/Bucharest,"BNR arena",sr:complex:33366
+sr:venue:1343,"Court 2",Bucharest,ROMANIA,Europe/Bucharest,"National Tennis Center",sr:complex:60416
+sr:venue:1344,CENTRE,Tashkent,UZBEKISTAN,Asia/Tashkent,"Olympic Tennis School",sr:complex:44522
+sr:venue:1345,"COURT 3",Tashkent,UZBEKISTAN,Asia/Tashkent,"Olympic Tennis School",sr:complex:44522
+sr:venue:1346,"COURT 4",Tashkent,UZBEKISTAN,Asia/Tashkent,"Olympic Tennis School",sr:complex:44522
+sr:venue:1347,"COURT 5",Tashkent,UZBEKISTAN,Asia/Tashkent,"Olympic Tennis School",sr:complex:44522
+sr:venue:1348,"COURT 3",Bucharest,ROMANIA,Europe/Bucharest,"National Tennis Center",sr:complex:60416
+sr:venue:1349,"Centre Court",Seoul,"KOREA, REPUBLIC OF",Asia/Seoul,"Olympic Tennis Courts",sr:complex:44520
+sr:venue:1350,"Court 2",Seoul,"KOREA, REPUBLIC OF",Asia/Seoul,"Olympic Tennis Courts",sr:complex:44520
+sr:venue:1351,"Court 13",Seoul,"KOREA, REPUBLIC OF",Asia/Seoul,"Olympic Tennis Courts",sr:complex:44520
+sr:venue:1352,"Court 11",Seoul,"KOREA, REPUBLIC OF",Asia/Seoul,"Seoul Olympic Park Tennis Center",sr:complex:61761
+sr:venue:13520,"Quadra Guga Kuerten","Rio de Janeiro",BRAZIL,Brazil/East,"Jockey Club Brasileiro",sr:complex:33296
+sr:venue:13524,"Quadra 2","Rio de Janeiro",BRAZIL,Brazil/East,"Jockey Club Brasileiro",sr:complex:33296
+sr:venue:13564,Grandstand,Acapulco,MEXICO,America/Mexico_City,"Arena GNP Seguros",sr:complex:77425
+sr:venue:1357,"Centre Court",Bangkok,THAILAND,Asia/Bangkok,"Rama Gardens Hotel",sr:complex:33440
+sr:venue:1358,"Court 1",Bangkok,THAILAND,Asia/Bangkok,"Rama Gardens Hotel",sr:complex:33440
+sr:venue:1364,Center,Beijing,CHINA,Asia/Shanghai,"National Tennis Center",sr:complex:46526
+sr:venue:1365,"Court 1",Beijing,CHINA,Asia/Shanghai,"National Tennis Center",sr:complex:46526
+sr:venue:1366,"Court 4",Beijing,CHINA,Asia/Shanghai,"National Tennis Center",sr:complex:46526
+sr:venue:1367,"Court 5",Beijing,CHINA,Asia/Shanghai,"National Tennis Center",sr:complex:46526
+sr:venue:1368,"Court 7",Beijing,CHINA,Asia/Shanghai,"National Tennis Center",sr:complex:46526
+sr:venue:1369,"Court 8",Beijing,CHINA,Asia/Shanghai,"National Tennis Center",sr:complex:46526
+sr:venue:1370,"Court 9",Beijing,CHINA,Asia/Shanghai,"National Tennis Center",sr:complex:46526
+sr:venue:1371,"Court 2",Beijing,CHINA,Asia/Shanghai,"National Tennis Center",sr:complex:46526
+sr:venue:1374,Grandstand,Shanghai,CHINA,Asia/Shanghai,"Qi Zhong Tennis Center",sr:complex:44518
+sr:venue:13744,"Estadio GNP Seguros",Monterrey,MEXICO,America/Mexico_City,"Club Sonoma",sr:complex:33292
+sr:venue:13746,"Cancha 1",Monterrey,MEXICO,America/Mexico_City,"Club Sonoma",sr:complex:33292
+sr:venue:13748,"Cancha 2",Monterrey,MEXICO,America/Mexico_City,"Club Sonoma",sr:complex:33292
+sr:venue:1376,"Court 4",Shanghai,CHINA,Asia/Shanghai,"Qi Zhong Tennis Center",sr:complex:44518
+sr:venue:1377,"Court 5",Shanghai,CHINA,Asia/Shanghai,"Qi Zhong Tennis Center",sr:complex:44518
+sr:venue:1378,"Stadium Court",Shanghai,CHINA,Asia/Shanghai,"Qi Zhong Tennis Center",sr:complex:44518
+sr:venue:1379,Center,Osaka,JAPAN,Asia/Tokyo,"Utsubo Tennis Center",sr:complex:33254
+sr:venue:13796,"CENTRE COURT",Itajai,BRAZIL,America/Sao_Paulo,"Itamirim Clube de Campo",sr:complex:86592
+sr:venue:1380,"Court 1",Osaka,JAPAN,Asia/Tokyo,"Utsubo Tennis Center",sr:complex:33254
+sr:venue:13800,"COURT 3",Itajai,BRAZIL,America/Sao_Paulo,"Itamirim Clube de Campo",sr:complex:86592
+sr:venue:13802,"COURT 4",Itajai,BRAZIL,America/Sao_Paulo,"Itamirim Clube de Campo",sr:complex:86592
+sr:venue:1381,"Court 2",Osaka,JAPAN,Asia/Tokyo,"Utsubo Tennis Center",sr:complex:33254
+sr:venue:1383,"Astana Arena",Astana,KAZAKHSTAN,Asia/Almaty,"National Tennis Center",sr:complex:26985
+sr:venue:13830,"Cancha 1",Santiago,CHILE,America/Santiago,"Club Manquehue de Vitacura",sr:complex:62419
+sr:venue:13832,"Cancha 3",Santiago,CHILE,America/Santiago,"Club Manquehue de Vitacura",sr:complex:62419
+sr:venue:13834,"Cancha 8","San Luis de Potosi",MEXICO,America/Mexico_City,"Club Deportivo Potosino",sr:complex:39095
+sr:venue:13836,"Cancha Central","San Luis de Potosi",MEXICO,America/Mexico_City,"Club Deportivo Potosino",sr:complex:39095
+sr:venue:13840,"Court 3","Sao Paulo",BRAZIL,America/Sao_Paulo,"Clube Hipico Santo Amaro",sr:complex:61643
+sr:venue:13842,"Cancha 4","San Luis de Potosi",MEXICO,America/Mexico_City,"Club Deportivo Potosino",sr:complex:39095
+sr:venue:13844,"Cancha 3","San Luis de Potosi",MEXICO,America/Mexico_City,"Club Deportivo Potosino",sr:complex:39095
+sr:venue:13846,Center,Sarasota,"UNITED STATES",America/New_York,"Payne Park Tennis Facility",sr:complex:62905
+sr:venue:13848,"Court 4",Sarasota,"UNITED STATES",America/New_York,"Payne Park Tennis Facility",sr:complex:62905
+sr:venue:1385,"Centre Court",Linz,AUSTRIA,Europe/Vienna,"Design Center Linz",sr:complex:76089
+sr:venue:13850,"Court 5",Sarasota,"UNITED STATES",America/New_York,"Payne Park Tennis Facility",sr:complex:62905
+sr:venue:13852,"Court 4",Bucharest,ROMANIA,Europe/Bucharest,"BNR arena",sr:complex:33366
+sr:venue:13854,"Court 5",Bucharest,ROMANIA,Europe/Bucharest,"BNR arena",sr:complex:33366
+sr:venue:13856,"Court 10",Shenzhen,CHINA,Asia/Shanghai,"Shenzhen International Tennis Center",sr:complex:38603
+sr:venue:13858,"Court 3",Shenzhen,CHINA,Asia/Shanghai,"Shenzhen International Tennis Center",sr:complex:38603
+sr:venue:1386,"Match Court 1",Linz,AUSTRIA,Europe/Vienna,"Design Center Linz",sr:complex:76089
+sr:venue:13860,"Court 4",Shenzhen,CHINA,Asia/Shanghai,"Shenzhen International Tennis Center",sr:complex:38603
+sr:venue:13874,"Court 6",Savannah,"UNITED STATES",America/New_York,"Franklin Creek Tennis Center",sr:complex:63249
+sr:venue:13876,"Court 16",Savannah,"UNITED STATES",America/New_York,"Franklin Creek Tennis Center",sr:complex:63249
+sr:venue:1388,"Centre Court",Stockholm,SWEDEN,Europe/Stockholm,"Kungliga Tennishallen",sr:complex:33340
+sr:venue:13886,"Centre Court",Cali,COLOMBIA,America/Bogota,"Club Campestre Farallones",sr:complex:79837
+sr:venue:13888,"Court 2",Cali,COLOMBIA,America/Bogota,"Club Campestre Farallones",sr:complex:79837
+sr:venue:1389,"Court 1",Moscow,"RUSSIAN FEDERATION",Europe/Moscow,"Multisport Sports Club",sr:complex:62319
+sr:venue:13892,"Court 4",Cali,COLOMBIA,America/Bogota,"Club Campestre Farallones",sr:complex:79837
+sr:venue:13894,"Court Central",Tunis,TUNISIA,Africa/Tunis,"Au Tennis Club De Tunis",sr:complex:39097
+sr:venue:13896,"Court 1",Tunis,TUNISIA,Africa/Tunis,"Au Tennis Club De Tunis",sr:complex:39097
+sr:venue:1390,"Court 2",Moscow,"RUSSIAN FEDERATION",Europe/Moscow,"Multisport Sports Club",sr:complex:62319
+sr:venue:13904,"Centre Court",Taipei,"CHINESE TAIPEI",Asia/Taipei,"Taipei Arena",sr:complex:32327
+sr:venue:13906,"Court 2",Taipei,"CHINESE TAIPEI",Asia/Taipei,"Taipei Arena",sr:complex:32327
+sr:venue:13908,"Court 3",Munich,GERMANY,Europe/Berlin,"MTTC Iphitos e.V.",sr:complex:33368
+sr:venue:1391,"Court 3",Moscow,"RUSSIAN FEDERATION",Europe/Moscow,"Multisport Sports Club",sr:complex:62319
+sr:venue:13910,"Court 5",Tunis,TUNISIA,Africa/Tunis,"Au Tennis Club De Tunis",sr:complex:39097
+sr:venue:13912,"Centre Court",Ostrava,"CZECH REPUBLIC",Europe/Prague,"Ostravar Arena",sr:complex:5526
+sr:venue:13914,"Court 3",Ostrava,"CZECH REPUBLIC",Europe/Prague,"Ostravar Arena",sr:complex:5526
+sr:venue:13916,"Court 6",Ostrava,"CZECH REPUBLIC",Europe/Prague,"Ostravar Arena",sr:complex:5526
+sr:venue:13918,Center,Tallahassee,"UNITED STATES",America/New_York,"Forestmeadows Tennis Center",sr:complex:63057
+sr:venue:1392,CENTRAL,Luxembourg,LUXEMBOURG,Europe/Paris,"CK Sportcenter Kockelscheuer",sr:complex:33230
+sr:venue:13920,"Court 1",Tallahassee,"UNITED STATES",America/New_York,"Forestmeadows Tennis Center",sr:complex:63057
+sr:venue:13924,"Court 4",Tallahassee,"UNITED STATES",America/New_York,"Forestmeadows Tennis Center",sr:complex:63057
+sr:venue:1393,"Court 1",Luxembourg,LUXEMBOURG,Europe/Paris,"CK Sportcenter Kockelscheuer",sr:complex:33230
+sr:venue:1394,"Court 1",Stockholm,SWEDEN,Europe/Stockholm,"Kungliga Tennishallen",sr:complex:33340
+sr:venue:13942,"Court 4",Ostrava,"CZECH REPUBLIC",Europe/Prague,"Ostravar Arena",sr:complex:5526
+sr:venue:13946,"Court 3",Tallahassee,"UNITED STATES",America/New_York,"Forestmeadows Tennis Center",sr:complex:63057
+sr:venue:14024,"Hortkorn Court",Heilbronn,GERMANY,Europe/Berlin,"Tennisclub Heilbronn am Trappensee",sr:complex:39381
+sr:venue:14026,"Court 1",Heilbronn,GERMANY,Europe/Berlin,"Tennisclub Heilbronn am Trappensee",sr:complex:39381
+sr:venue:14028,"Court 2",Heilbronn,GERMANY,Europe/Berlin,"Tennisclub Heilbronn am Trappensee",sr:complex:39381
+sr:venue:14030,"Center Court",Samarkand,UZBEKISTAN,Asia/Tashkent,"Tennis Club Dinamo",sr:complex:39379
+sr:venue:14032,"Court 1",Samarkand,UZBEKISTAN,Asia/Tashkent,"Tennis Club Dinamo",sr:complex:39379
+sr:venue:14034,"Court 2",Samarkand,UZBEKISTAN,Asia/Tashkent,"Tennis Club Dinamo",sr:complex:39379
+sr:venue:14036,"Court 3",Samarkand,UZBEKISTAN,Asia/Tashkent,"Tennis Club Dinamo",sr:complex:39379
+sr:venue:14038,"Court 4",Samarkand,UZBEKISTAN,Asia/Tashkent,"Tennis Club Dinamo",sr:complex:39379
+sr:venue:14040,"Court Ideal Groupe",Bordeaux,FRANCE,Europe/Paris,"Villa Primrose",sr:complex:63407
+sr:venue:14042,"Court 11",Bordeaux,FRANCE,Europe/Paris,"Villa Primrose",sr:complex:63407
+sr:venue:14046,"Court 1",Busan,"KOREA, REPUBLIC OF",Asia/Seoul,"Spo1 Park",sr:complex:66785
+sr:venue:14048,"Court 3",Busan,"KOREA, REPUBLIC OF",Asia/Seoul,"Spo1 Park",sr:complex:66785
+sr:venue:14050,"Court 5",Busan,"KOREA, REPUBLIC OF",Asia/Seoul,"Spo1 Park",sr:complex:66785
+sr:venue:14060,"Grand Stand Arena",Rome,ITALY,Europe/Rome,"Foro Italico",sr:complex:54105
+sr:venue:14062,"Court 12",Bordeaux,FRANCE,Europe/Paris,"Villa Primrose",sr:complex:63407
+sr:venue:14064,"Court 3",Heilbronn,GERMANY,Europe/Berlin,"Tennisclub Heilbronn am Trappensee",sr:complex:39381
+sr:venue:14068,"Court 4",Nuremberg,GERMANY,Europe/Berlin,"Tennis Club 1.FCN",sr:complex:33280
+sr:venue:14088,"Center Court",Vicenza,ITALY,Europe/Rome,"Tennis Palladio 98",sr:complex:39591
+sr:venue:14090,"Court 1",Vicenza,ITALY,Europe/Rome,"Tennis Palladio 98",sr:complex:39591
+sr:venue:14092,"Court 2",Vicenza,ITALY,Europe/Rome,"Tennis Palladio 98",sr:complex:39591
+sr:venue:14094,"Court 5",Vicenza,ITALY,Europe/Rome,"Tennis Palladio 98",sr:complex:39591
+sr:venue:14122,"Center Court",Prostejov,"CZECH REPUBLIC",Europe/Prague,"Tenisovy Klub Prostejov",sr:complex:63907
+sr:venue:14124,"Court 1",Prostejov,"CZECH REPUBLIC",Europe/Prague,"Tenisovy Klub Prostejov",sr:complex:63907
+sr:venue:14146,"Court 1",Nottingham,ENGLAND,Europe/London,"Nottingham Tennis Centre",sr:complex:33348
+sr:venue:14148,"Court 3",Nottingham,ENGLAND,Europe/London,"Nottingham Tennis Centre",sr:complex:33348
+sr:venue:14150,"Centre Court",Nottingham,ENGLAND,Europe/London,"Nottingham Tennis Centre",sr:complex:33348
+sr:venue:14152,"Court 2",Nottingham,ENGLAND,Europe/London,"Nottingham Tennis Centre",sr:complex:33348
+sr:venue:14154,"Court 4",Nottingham,ENGLAND,Europe/London,"Nottingham Tennis Centre",sr:complex:33348
+sr:venue:14164,"Court 7",Nottingham,ENGLAND,Europe/London,"Nottingham Tennis Centre",sr:complex:33348
+sr:venue:14166,"Court 8",Nottingham,ENGLAND,Europe/London,"Nottingham Tennis Centre",sr:complex:33348
+sr:venue:14170,"Court 4",Halle,GERMANY,Europe/Berlin,"OWL Arena",sr:complex:63933
+sr:venue:14172,"Court 5",Halle,GERMANY,Europe/Berlin,"OWL Arena",sr:complex:63933
+sr:venue:14174,"Court 6",Halle,GERMANY,Europe/Berlin,"OWL Arena",sr:complex:63933
+sr:venue:14176,"Centre Court",Fergana,UZBEKISTAN,Asia/Tashkent,"Istiklol Tennis Club",sr:complex:39864
+sr:venue:14178,"Court 2",Fergana,UZBEKISTAN,Asia/Tashkent,"Istiklol Tennis Club",sr:complex:39864
+sr:venue:14184,Central,Blois,FRANCE,Europe/Paris,"AAJB Tennis",sr:complex:39866
+sr:venue:14186,"Court 1",Blois,FRANCE,Europe/Paris,"AAJB Tennis",sr:complex:39866
+sr:venue:14190,"Court 1",Fergana,UZBEKISTAN,Asia/Tashkent,"Istiklol Tennis Club",sr:complex:39864
+sr:venue:14192,"Court 4",Fergana,UZBEKISTAN,Asia/Tashkent,"Istiklol Tennis Club",sr:complex:39864
+sr:venue:14194,"Court 5",Fergana,UZBEKISTAN,Asia/Tashkent,"Istiklol Tennis Club",sr:complex:39864
+sr:venue:14200,"Centre Court",Prague,"CZECH REPUBLIC",Europe/Prague,"Tennis Club Sparta Praha",sr:complex:33286
+sr:venue:14204,"Court A",Prague,"CZECH REPUBLIC",Europe/Prague,"Tennis Club Sparta Praha",sr:complex:33286
+sr:venue:14210,"Ann Jones Centre Court",Birmingham,ENGLAND,Europe/London,"Edgbaston Priory Club",sr:complex:33276
+sr:venue:14212,"Court 2",Blois,FRANCE,Europe/Paris,"AAJB Tennis",sr:complex:39866
+sr:venue:14218,"Court 7",Eastbourne,ENGLAND,Europe/London,"Devonshire Park Lawn Tennis Centre",sr:complex:33282
+sr:venue:14220,"Court 8",Eastbourne,ENGLAND,Europe/London,"Devonshire Park Lawn Tennis Centre",sr:complex:33282
+sr:venue:14222,"Court 9",Eastbourne,ENGLAND,Europe/London,"Devonshire Park Lawn Tennis Centre",sr:complex:33282
+sr:venue:14224,"Court 10",Eastbourne,ENGLAND,Europe/London,"Devonshire Park Lawn Tennis Centre",sr:complex:33282
+sr:venue:14226,"Court 11",Eastbourne,ENGLAND,Europe/London,"Devonshire Park Lawn Tennis Centre",sr:complex:33282
+sr:venue:14232,"Central Court",Tianjin,CHINA,Asia/Shanghai,"Tianjin Tuanbo International Tennis Center",sr:complex:33248
+sr:venue:14234,"Court 1",Tianjin,CHINA,Asia/Shanghai,"Tianjin Tuanbo International Tennis Center",sr:complex:33248
+sr:venue:14236,"Court 2",Tianjin,CHINA,Asia/Shanghai,"Tianjin Tuanbo International Tennis Center",sr:complex:33248
+sr:venue:14240,"Centre Court",Milan,ITALY,Europe/Rome,"Palalido Allianz Cloud",sr:complex:47893
+sr:venue:14242,Grandstand,Milan,ITALY,Europe/Rome,"Aspria Harbor Club",sr:complex:40110
+sr:venue:14244,"Court 13",Milan,ITALY,Europe/Rome,"Aspria Harbor Club",sr:complex:40110
+sr:venue:14246,"Court 3",Tianjin,CHINA,Asia/Shanghai,"Tianjin Tuanbo International Tennis Center",sr:complex:33248
+sr:venue:14258,"Central Court",Nanchang,CHINA,Asia/Shanghai,"National Sport Center Nanchang",sr:complex:44126
+sr:venue:14260,"Court 1",Nanchang,CHINA,Asia/Shanghai,"National Sport Center Nanchang",sr:complex:44126
+sr:venue:14262,"Court 2",Nanchang,CHINA,Asia/Shanghai,"National Sport Center Nanchang",sr:complex:44126
+sr:venue:14278,"Court 3",Nanchang,CHINA,Asia/Shanghai,"National Sport Center Nanchang",sr:complex:44126
+sr:venue:14284,"Center Court",Braunschweig,GERMANY,Europe/Berlin,"Braunschweiger Tennis und Hockeyclub",sr:complex:59008
+sr:venue:14286,"Court 11",Braunschweig,GERMANY,Europe/Berlin,"Braunschweiger Tennis und Hockeyclub",sr:complex:59008
+sr:venue:14304,Grandstand,Todi,ITALY,Europe/Rome,"Tennis Club Todi 1971",sr:complex:59096
+sr:venue:14306,"Campo 1",Todi,ITALY,Europe/Rome,"Tennis Club Todi 1971",sr:complex:59096
+sr:venue:14310,"Court 5",Braunschweig,GERMANY,Europe/Berlin,"Braunschweiger Tennis und Hockeyclub",sr:complex:59008
+sr:venue:14312,"Court 7",Braunschweig,GERMANY,Europe/Berlin,"Braunschweiger Tennis und Hockeyclub",sr:complex:59008
+sr:venue:14402,"Court D",Portoroz,SLOVENIA,Europe/Ljubljana,"ŠRC MARINA PORTOROŽ",sr:complex:33448
+sr:venue:14404,"Court C",Portoroz,SLOVENIA,Europe/Ljubljana,"ŠRC MARINA PORTOROŽ",sr:complex:33448
+sr:venue:14406,Centrale,"San Benedetto",ITALY,Europe/Rome,"Circolo Tennis Maggioni",sr:complex:65099
+sr:venue:14408,"Campo 2","San Benedetto",ITALY,Europe/Rome,"Circolo Tennis Maggioni",sr:complex:65099
+sr:venue:14410,"Campo 3","San Benedetto",ITALY,Europe/Rome,"Circolo Tennis Maggioni",sr:complex:65099
+sr:venue:14488,"Court 2",Hamburg,GERMANY,Europe/Berlin,"Am Rothenbaum",sr:complex:64869
+sr:venue:14490,"Court 3",Hamburg,GERMANY,Europe/Berlin,"Am Rothenbaum",sr:complex:33338
+sr:venue:14520,Centrale,Recanati,ITALY,Europe/Rome,"Francesco Guzzini Recanati Tennis Club",sr:complex:40788
+sr:venue:14522,Grandstand,Recanati,ITALY,Europe/Rome,"Francesco Guzzini Recanati Tennis Club",sr:complex:40788
+sr:venue:14524,"Court Central",Granby,CANADA,Canada/Eastern,"Tennis St-Luc - Les Loisirs De Granby",sr:complex:65597
+sr:venue:14526,"Court 3",Granby,CANADA,Canada/Eastern,"Tennis St-Luc - Les Loisirs De Granby",sr:complex:65597
+sr:venue:14528,"Court 4",Granby,CANADA,Canada/Eastern,"Tennis St-Luc - Les Loisirs De Granby",sr:complex:65597
+sr:venue:14530,"Court 1",Granby,CANADA,Canada/Eastern,"Tennis St-Luc - Les Loisirs De Granby",sr:complex:65597
+sr:venue:14532,"Court 7",Granby,CANADA,Canada/Eastern,"Tennis St-Luc - Les Loisirs De Granby",sr:complex:65597
+sr:venue:14606,"Court 5",Umag,CROATIA,Europe/Zagreb,"ATP Stadion Goran Ivanisevic",sr:complex:59214
+sr:venue:14612,"Center Court",Tampere,FINLAND,Europe/Helsinki,"Tampereen Tenniskeskus Oy",sr:complex:64885
+sr:venue:14614,"Court 1",Tampere,FINLAND,Europe/Helsinki,"Tampereen Tenniskeskus Oy",sr:complex:64885
+sr:venue:14620,"Center Court",Astana,KAZAKHSTAN,Asia/Almaty,"National Tennis Center",sr:complex:26985
+sr:venue:14622,"Court 1",Astana,KAZAKHSTAN,Asia/Almaty,"National Tennis Center",sr:complex:26985
+sr:venue:14624,"Court 2",Astana,KAZAKHSTAN,Asia/Almaty,"National Tennis Center",sr:complex:26985
+sr:venue:14626,"Court 3",Astana,KAZAKHSTAN,Asia/Almaty,"National Tennis Center",sr:complex:26985
+sr:venue:14628,"Court 6",Astana,KAZAKHSTAN,Asia/Almaty,"National Tennis Center",sr:complex:26985
+sr:venue:14632,"Stadium 1",Lexington,"UNITED STATES",America/New_York,"Hilary J. Boone Tennis Center",sr:complex:65205
+sr:venue:14636,"Court 3",Lexington,"UNITED STATES",America/New_York,"TOP SEED TENNIS CLUB",sr:complex:52665
+sr:venue:14638,"Court 6",Lexington,"UNITED STATES",America/New_York,"Hilary J. Boone Tennis Center",sr:complex:65205
+sr:venue:14664,"Court 2",Kitzbuhel,AUSTRIA,Europe/Vienna,"Kitzbühel Tennis Club Sportfeld 2",sr:complex:33342
+sr:venue:14666,"Svijany Court",Liberec,"CZECH REPUBLIC",Europe/Prague,"Liberec Tennis Club",sr:complex:59544
+sr:venue:14668,"Gea Court",Liberec,"CZECH REPUBLIC",Europe/Prague,"Liberec Tennis Club",sr:complex:59544
+sr:venue:14670,"Mlyn Perner Court",Liberec,"CZECH REPUBLIC",Europe/Prague,"Liberec Tennis Club",sr:complex:59544
+sr:venue:14672,"Center Court",Segovia,SPAIN,Europe/Madrid,"Complejo Deportivo Pedro Muñoz",sr:complex:72533
+sr:venue:14674,"Court 1",Segovia,SPAIN,Europe/Madrid,"Complejo Deportivo Pedro Muñoz",sr:complex:72533
+sr:venue:14676,"Court 2",Segovia,SPAIN,Europe/Madrid,"Complejo Deportivo Pedro Muñoz",sr:complex:72533
+sr:venue:14716,"Allianz Court",Prague,"CZECH REPUBLIC",Europe/Prague,"Tennis Club Sparta Praha",sr:complex:33286
+sr:venue:14718,"Center Court","San Marino","SAN MARINO",Europe/San_Marino,"Centro Tennis Cassa di Risparmio",sr:complex:59730
+sr:venue:14720,"Court 2 De Luigi","San Marino","SAN MARINO",Europe/San_Marino,"Centro Tennis Cassa di Risparmio",sr:complex:59730
+sr:venue:14722,"Court 3","San Marino","SAN MARINO",Europe/San_Marino,"Centro Tennis Cassa di Risparmio",sr:complex:59730
+sr:venue:14766,"Campo Centrale",Cordenons,ITALY,Europe/Rome,"Eurosporting Cordenons",sr:complex:44640
+sr:venue:14768,"Campo 11",Cordenons,ITALY,Europe/Rome,"Eurosporting Cordenons",sr:complex:44640
+sr:venue:14770,"Campo 12",Cordenons,ITALY,Europe/Rome,"Eurosporting Cordenons",sr:complex:44640
+sr:venue:14780,"Campo 13",Cordenons,ITALY,Europe/Rome,"Eurosporting Cordenons",sr:complex:44640
+sr:venue:14782,"Campo 14",Cordenons,ITALY,Europe/Rome,"Eurosporting Cordenons",sr:complex:44640
+sr:venue:14784,"Court A","New Haven","UNITED STATES",America/New_York,"Connecticut Tennis Center",sr:complex:33258
+sr:venue:14788,"Court 6",Bangkok,THAILAND,Asia/Bangkok,"Rama Gardens Hotel",sr:complex:33440
+sr:venue:14790,"Court 4",Bangkok,THAILAND,Asia/Bangkok,"Rama Gardens Hotel",sr:complex:33440
+sr:venue:14792,"Court 5",Bangkok,THAILAND,Asia/Bangkok,"Rama Gardens Hotel",sr:complex:33440
+sr:venue:14794,"Center Court",Como,ITALY,Europe/Rome,"A.S.D. Tennis Club Como",sr:complex:65717
+sr:venue:14796,"Court 1",Como,ITALY,Europe/Rome,"A.S.D. Tennis Club Como",sr:complex:65717
+sr:venue:14798,"Court 2",Como,ITALY,Europe/Rome,"A.S.D. Tennis Club Como",sr:complex:65717
+sr:venue:14846,"Center Court",Genoa,ITALY,Europe/Rome,"Valletta Cambiaso ASD",sr:complex:28457
+sr:venue:14848,"Court 1",Genoa,ITALY,Europe/Rome,"Valletta Cambiaso ASD",sr:complex:28457
+sr:venue:14850,"Court 2",Genoa,ITALY,Europe/Rome,"Valletta Cambiaso ASD",sr:complex:28457
+sr:venue:14852,"Campo 3",Genoa,ITALY,Europe/Rome,"Valletta Cambiaso ASD",sr:complex:28457
+sr:venue:14868,"Centre Court","Hong Kong","HONG KONG, CHINA",Asia/Hong_Kong,"Victoria Park Tennis Court",sr:complex:33246
+sr:venue:14870,"Court 1","Hong Kong","HONG KONG, CHINA",Asia/Hong_Kong,"Victoria Park Tennis Court",sr:complex:33246
+sr:venue:14872,"Court 2","Hong Kong","HONG KONG, CHINA",Asia/Hong_Kong,"Victoria Park Tennis Court",sr:complex:33246
+sr:venue:14874,"Court Limak Enerji",Istanbul,TURKIYE,Europe/Istanbul,"Garanti Koza Arena",sr:complex:16069
+sr:venue:14876,"Centre Court","Banja Luka","BOSNIA & HERZEGOVINA",Europe/Sarajevo,"Park Mladen Stojanovic",sr:complex:60190
+sr:venue:14878,"Court 5","Banja Luka","BOSNIA & HERZEGOVINA",Europe/Sarajevo,"Park Mladen Stojanovic",sr:complex:60190
+sr:venue:14882,"Court 3",Seville,SPAIN,Europe/Madrid,"Real Club de Tenis Betis",sr:complex:60196
+sr:venue:14890,"Court 2",Seville,SPAIN,Europe/Madrid,"Real Club de Tenis Betis",sr:complex:60196
+sr:venue:14896,"Central Court",Szczecin,POLAND,Europe/Warsaw,"Wojska Polskiego",sr:complex:60276
+sr:venue:14898,"Court 1",Szczecin,POLAND,Europe/Warsaw,"Wojska Polskiego",sr:complex:60276
+sr:venue:14900,"Court 2",Szczecin,POLAND,Europe/Warsaw,"Wojska Polskiego",sr:complex:60276
+sr:venue:14904,"Court 6",Istanbul,TURKIYE,Europe/Istanbul,"TTF Istanbul Tenis Merkezi",sr:complex:63059
+sr:venue:14906,"Court 4","Banja Luka","BOSNIA & HERZEGOVINA",Europe/Sarajevo,"Nacionalni Trening Centar Teniskog",sr:complex:65603
+sr:venue:14908,"Court 3","Banja Luka","BOSNIA & HERZEGOVINA",Europe/Sarajevo,"Park Mladen Stojanovic",sr:complex:60190
+sr:venue:14944,"Court 4",Seoul,"KOREA, REPUBLIC OF",Asia/Seoul,"Seoul Olympic Park Tennis Center",sr:complex:61761
+sr:venue:14950,"Cancha Central",Quito,ECUADOR,America/Guayaquil,"Club Jacaranda Cumbaya",sr:complex:33214
+sr:venue:14952,"Cancha 2",Quito,ECUADOR,America/Guayaquil,"Club Rancho San Francisco",sr:complex:60274
+sr:venue:14956,"Centre Court",Seoul,"KOREA, REPUBLIC OF",Asia/Seoul,"Seoul Olympic Park Tennis Center",sr:complex:61761
+sr:venue:1496,"Court 1","Saint Petersburg","RUSSIAN FEDERATION",Europe/Moscow,"Sibur Arena",sr:complex:1495
+sr:venue:14966,"Center Court",Campinas,BRAZIL,Brazil/East,"Sociedade Hipica de Campinas",sr:complex:34814
+sr:venue:14968,"Court 1",Campinas,BRAZIL,Brazil/East,"Sociedade Hipica de Campinas",sr:complex:34814
+sr:venue:14970,"Court 2",Campinas,BRAZIL,Brazil/East,"Sociedade Hipica de Campinas",sr:complex:34814
+sr:venue:1498,"Center Court",Vienna,AUSTRIA,Europe/Vienna,"Wiener Stadthalle",sr:complex:33322
+sr:venue:14988,"Cancha 5",Quito,ECUADOR,America/Guayaquil,"Club Rancho San Francisco",sr:complex:60274
+sr:venue:1499,"Court B",Vienna,AUSTRIA,Europe/Vienna,"Wiener Stadthalle",sr:complex:33322
+sr:venue:14990,"Court 2",Wuhan,CHINA,Asia/Shanghai,"Optics Valley International Tennis Center",sr:complex:33240
+sr:venue:14992,"Court 3",Wuhan,CHINA,Asia/Shanghai,"Optics Valley International Tennis Center",sr:complex:33240
+sr:venue:14994,"Court 4",Wuhan,CHINA,Asia/Shanghai,"Optics Valley International Tennis Center",sr:complex:33240
+sr:venue:14996,"Court 5",Wuhan,CHINA,Asia/Shanghai,"Optics Valley International Tennis Center",sr:complex:33240
+sr:venue:14998,"Court 1",Wuhan,CHINA,Asia/Shanghai,"Optics Valley International Tennis Center",sr:complex:33240
+sr:venue:1500,"CENTER COURT","Saint Petersburg","RUSSIAN FEDERATION",Europe/Moscow,"Sibur Arena",sr:complex:1495
+sr:venue:15000,"Center Court",Wuhan,CHINA,Asia/Shanghai,"Optics Valley International Tennis Center",sr:complex:33240
+sr:venue:1501,"Court 1",Lyon,FRANCE,Europe/Paris,"Parc De La TeTe D'or",sr:complex:38720
+sr:venue:15010,"La Foret 3",Orleans,FRANCE,Europe/Paris,"Palais Des Sport",sr:complex:15014
+sr:venue:15012,"La Foret 4",Orleans,FRANCE,Europe/Paris,"Palais des Sports",sr:complex:46550
+sr:venue:15016,"Centre Court",Sibiu,ROMANIA,Europe/Bucharest,"Tennis Club Pamira",sr:complex:60538
+sr:venue:15018,"Court 5",Sibiu,ROMANIA,Europe/Bucharest,"Tennis Club Pamira",sr:complex:60538
+sr:venue:1502,"Court Central",Lyon,FRANCE,Europe/Paris,"Parc De La TeTe D'or",sr:complex:38720
+sr:venue:15020,"Court 6",Sibiu,ROMANIA,Europe/Bucharest,"Tennis Club Pamira",sr:complex:60538
+sr:venue:15022,"Court 8",Sibiu,ROMANIA,Europe/Bucharest,"Tennis Club Pamira",sr:complex:60538
+sr:venue:1503,"Centre Court",Doha,QATAR,Asia/Qatar,"Khalifa International Tennis & Squash Complex",sr:complex:33290
+sr:venue:1505,"Center Court",Basel,SWITZERLAND,Europe/Zurich,"St Jakobshalle Basel",sr:complex:33320
+sr:venue:15054,"La Foret 1",Orleans,FRANCE,Europe/Paris,"Palais des Sports",sr:complex:46550
+sr:venue:1506,"Court 2",Basel,SWITZERLAND,Europe/Zurich,"St Jakobshalle Basel",sr:complex:33320
+sr:venue:1507,"Court 1",Valencia,SPAIN,Europe/Madrid,"Sporting Club de Tenis Valencia",sr:complex:33482
+sr:venue:1511,"Pista 1",Valencia,SPAIN,Europe/Madrid,"Sporting Club de Tenis Valencia",sr:complex:33482
+sr:venue:15152,"Brad Drewett",Beijing,CHINA,Asia/Shanghai,"National Tennis Center",sr:complex:46526
+sr:venue:15186,"Central Colette Besson",Rennes,FRANCE,Europe/Paris,"Salle Collete-Benson",sr:complex:37007
+sr:venue:15188,"Tennis Club De Bruz",Rennes,FRANCE,Europe/Paris,"Salle Collete-Benson",sr:complex:37007
+sr:venue:15190,"Stadium Court",Tiburon,"UNITED STATES",America/Los_Angeles,"Tiburon Peninsula Club",sr:complex:34736
+sr:venue:15192,"Court 1",Tiburon,"UNITED STATES",America/Los_Angeles,"Tiburon Peninsula Club",sr:complex:34736
+sr:venue:15194,"Court 4",Tiburon,"UNITED STATES",America/Los_Angeles,"Tiburon Peninsula Club",sr:complex:34736
+sr:venue:15198,"Court 2",Stockholm,SWEDEN,Europe/Stockholm,"Kungliga Tennishallen",sr:complex:33340
+sr:venue:1520,"Court Central",Paris,FRANCE,Europe/Paris,"Accor Arena",sr:complex:19951
+sr:venue:1521,"Court 1",Paris,FRANCE,Europe/Paris,"Accor Arena",sr:complex:19951
+sr:venue:1522,"Court 2",Paris,FRANCE,Europe/Paris,"Stade Roland Garros",sr:complex:33192
+sr:venue:15230,"Centre Court",Pune,INDIA,Asia/Kolkata,"Mhalunge Balewadi Tennis Complex",sr:complex:35870
+sr:venue:15232,"Court 1",Pune,INDIA,Asia/Kolkata,"Mhalunge Balewadi Tennis Complex",sr:complex:35870
+sr:venue:15234,"Court 2",Pune,INDIA,Asia/Kolkata,"Mhalunge Balewadi Tennis Complex",sr:complex:35870
+sr:venue:15236,"Cancha Central",Cordoba,ARGENTINA,America/Argentina/Cordoba,"Estadio Mario Alberto Kempes",sr:complex:38189
+sr:venue:15238,"CANCHA 1",Cordoba,ARGENTINA,America/Argentina/Cordoba,"Cordoba Lawn Tennis Club",sr:complex:57930
+sr:venue:15240,"CANCHA 3",Cordoba,ARGENTINA,America/Argentina/Cordoba,"Cordoba Lawn Tennis Club",sr:complex:57930
+sr:venue:15244,"Court 3",Pune,INDIA,Asia/Kolkata,"Mhalunge Balewadi Tennis Complex",sr:complex:35870
+sr:venue:15246,"Court 4",Pune,INDIA,Asia/Kolkata,"Mhalunge Balewadi Tennis Complex",sr:complex:35870
+sr:venue:15250,"Centre Court",Kallang,SINGAPORE,Asia/Singapore,"Singapore Indoor Stadium",sr:complex:32812
+sr:venue:15260,"Center Court",Ningbo,CHINA,Asia/Shanghai,"Yinzhou International Tennis Centre",sr:complex:84475
+sr:venue:15262,"Court 7",Ningbo,CHINA,Asia/Shanghai,"Ningbo Tennis Center of WTA Ningbo, China w42",sr:complex:35236
+sr:venue:15264,"Court 8",Ningbo,CHINA,Asia/Shanghai,"Ningbo Tennis Center of WTA Ningbo, China w42",sr:complex:35236
+sr:venue:15266,"Centre Court",Geneva,SWITZERLAND,Europe/Zurich,"Tennis Club de Geneve",sr:complex:33356
+sr:venue:15268,"Court 2",Geneva,SWITZERLAND,Europe/Zurich,"Tennis Club de Geneve",sr:complex:33356
+sr:venue:15270,"Center Court",Eckental,GERMANY,Europe/Berlin,"House of Sports",sr:complex:47817
+sr:venue:15272,"Court 1",Eckental,GERMANY,Europe/Berlin,"House of Sports",sr:complex:47817
+sr:venue:15280,"Court 7",Charlottesville,"UNITED STATES",America/New_York,"Boars Head Resort",sr:complex:35512
+sr:venue:15282,"Court 9",Charlottesville,"UNITED STATES",America/New_York,"Boars Head Resort",sr:complex:35512
+sr:venue:15292,"Court Central",Mouilleron-le-Captif,FRANCE,Europe/Paris,Vendéspace,sr:complex:35642
+sr:venue:15294,"Court Annexe",Mouilleron-le-Captif,FRANCE,Europe/Paris,Vendéspace,sr:complex:35642
+sr:venue:15296,"Court 1",Limoges,FRANCE,Europe/Paris,"Palais des sports de Beaublanc",sr:complex:35648
+sr:venue:15298,"Court 1",Taipei,"CHINESE TAIPEI",Asia/Taipei,"Taipei Arena",sr:complex:32327
+sr:venue:15300,"Centre Court",Bratislava,SLOVAKIA,Europe/Bratislava,"NTC Arena",sr:complex:39872
+sr:venue:15302,"Court 3",Bratislava,SLOVAKIA,Europe/Bratislava,"NTC Arena",sr:complex:39872
+sr:venue:15304,"Central Court",Ortisei,ITALY,Europe/Rome,"Tennis Club Ortisei",sr:complex:66951
+sr:venue:15306,"Court 1",Ortisei,ITALY,Europe/Rome,"Tennis Club Ortisei",sr:complex:66951
+sr:venue:15308,Centre,Limoges,FRANCE,Europe/Paris,"Palais des sports de Beaublanc",sr:complex:35648
+sr:venue:15310,"Court 2",Knoxville,"UNITED STATES",America/New_York,"Goodfriend Indoor Tennis Center",sr:complex:35646
+sr:venue:15312,"Court 3",Knoxville,"UNITED STATES",America/New_York,"Goodfriend Indoor Tennis Center",sr:complex:35646
+sr:venue:15317,"Estadio 1. de Maio",Braga,PORTUGAL,Europe/Lisbon,"Clube de Tenis de Braga",sr:complex:60418
+sr:venue:15321,"Court 3",Helsinki,FINLAND,Europe/Helsinki,"Tali Tennis Center",sr:complex:39167
+sr:venue:15327,"Court 1",Yokohama,JAPAN,Asia/Tokyo,"Mamushidani Tennis Courts, Keio University",sr:complex:38421
+sr:venue:15331,"Cancha Central",Guayaquil,ECUADOR,America/Guayaquil,"Anexo Guayaquil Tennis Club",sr:complex:35516
+sr:venue:15335,"CENTER COURT",Helsinki,FINLAND,Europe/Helsinki,"Tali Tennis Center",sr:complex:39167
+sr:venue:15341,"Court 1",Champaign,"UNITED STATES",America/Chicago,"Atkins Tennis Center",sr:complex:35692
+sr:venue:15343,"Court 2",Champaign,"UNITED STATES",America/Chicago,"Atkins Tennis Center",sr:complex:35692
+sr:venue:15349,"Court 2",Guayaquil,ECUADOR,America/Guayaquil,"Guayaquil Tennis Club",sr:complex:47819
+sr:venue:1535,"Pat Rafter Arena",Brisbane,AUSTRALIA,Australia/Brisbane,"Queensland Tennis Centre",sr:complex:33336
+sr:venue:15353,"Court 9",Helsinki,FINLAND,Europe/Helsinki,"Tali Tennis Center",sr:complex:39167
+sr:venue:15355,"Cancha Central",Lima,PERU,America/Lima,"Jockey Club del Peru",sr:complex:65347
+sr:venue:15357,"Cancha  3",Lima,PERU,America/Lima,"Club Tennis Las Terrazas de Miraflores",sr:complex:35290
+sr:venue:1536,"Court 1",Brisbane,AUSTRALIA,Australia/Brisbane,"Queensland Tennis Centre",sr:complex:33336
+sr:venue:15361,"Cancha Central",Montevideo,URUGUAY,America/Montevideo,"Carrasco Lawn Tennis Club",sr:complex:35644
+sr:venue:15363,"Cancha 1",Montevideo,URUGUAY,America/Montevideo,"Carrasco Lawn Tennis Club",sr:complex:35644
+sr:venue:1537,"Court 2",Brisbane,AUSTRALIA,Australia/Brisbane,"Queensland Tennis Centre",sr:complex:33336
+sr:venue:15373,"Via Delle Querce",Andria,ITALY,Europe/Rome,"Palazzetto dello Sport",sr:complex:35902
+sr:venue:15375,"Cancha 2",Montevideo,URUGUAY,America/Montevideo,"Carrasco Lawn Tennis Club",sr:complex:35644
+sr:venue:15387,"Cancha 15",Montevideo,URUGUAY,America/Montevideo,"Carrasco Lawn Tennis Club",sr:complex:35644
+sr:venue:1539,"Court 5",Brisbane,AUSTRALIA,Australia/Brisbane,"Queensland Tennis Centre",sr:complex:33336
+sr:venue:1540,"Stadium Court",Auckland,"NEW ZEALAND",Pacific/Auckland,"Manuka Doctor Arena",sr:complex:36493
+sr:venue:1541,"Court 4",Auckland,"NEW ZEALAND",Pacific/Auckland,"Manuka Doctor Arena",sr:complex:36493
+sr:venue:1542,"Court 6",Auckland,"NEW ZEALAND",Pacific/Auckland,"Manuka Doctor Arena",sr:complex:36493
+sr:venue:1543,"Center Court",Chennai,INDIA,Asia/Kolkata,"SDAT Tennis Stadium",sr:complex:38195
+sr:venue:15433,"Center Court","Abu Dhabi","UNITED ARAB EMIRATES",Asia/Dubai,"Zayed Sports City International Tennis Centre",sr:complex:56888
+sr:venue:1544,"Court 1",Chennai,INDIA,Asia/Kolkata,"SDAT Tennis Stadium",sr:complex:38195
+sr:venue:1545,"Court 2",Chennai,INDIA,Asia/Kolkata,"SDAT Tennis Stadium",sr:complex:38195
+sr:venue:1546,"Court 1",Doha,QATAR,Asia/Qatar,"Khalifa International Tennis & Squash Complex",sr:complex:33290
+sr:venue:1547,"Court 2",Doha,QATAR,Asia/Qatar,"Khalifa International Tennis & Squash Complex",sr:complex:33290
+sr:venue:15475,"Court 16",Brisbane,AUSTRALIA,Australia/Brisbane,"Queensland Tennis Centre",sr:complex:33336
+sr:venue:15477,Grandstand,Auckland,"NEW ZEALAND",Pacific/Auckland,"Manuka Doctor Arena",sr:complex:36493
+sr:venue:15479,"Court 3",Chennai,INDIA,Asia/Kolkata,"SDAT Tennis Stadium",sr:complex:38195
+sr:venue:1548,"Court 4",Doha,QATAR,Asia/Qatar,"Khalifa International Tennis & Squash Complex",sr:complex:33290
+sr:venue:15481,"Court 4",Chennai,INDIA,Asia/Kolkata,"SDAT Tennis Stadium",sr:complex:38195
+sr:venue:15483,"Court N'godrela",Noumea,"NEW CALEDONIA",Pacific/Noumea,"Complexe Tennistique Marie-Louise Lhuillier",sr:complex:49635
+sr:venue:15485,"Court Morault",Noumea,"NEW CALEDONIA",Pacific/Noumea,"Complexe Tennistique Marie-Louise Lhuillier",sr:complex:49635
+sr:venue:1549,"Court 3",Doha,QATAR,Asia/Qatar,"Khalifa International Tennis & Squash Complex",sr:complex:33290
+sr:venue:15493,"Court 7",Noumea,"NEW CALEDONIA",Pacific/Noumea,"Complexe Tennistique Marie-Louise Lhuillier",sr:complex:49635
+sr:venue:15495,"Court 8",Noumea,"NEW CALEDONIA",Pacific/Noumea,"Complexe Tennistique Marie-Louise Lhuillier",sr:complex:49635
+sr:venue:1550,"Ken Rosewall Arena",Sydney,AUSTRALIA,Australia/Sydney,"Olympic Park Tennis Center",sr:complex:33244
+sr:venue:15501,"Court 9",Sydney,AUSTRALIA,Australia/Sydney,"Olympic Park Tennis Center",sr:complex:33244
+sr:venue:1551,"Court 1",Sydney,AUSTRALIA,Australia/Sydney,"Olympic Park Tennis Center",sr:complex:33244
+sr:venue:1552,"Court 2",Sydney,AUSTRALIA,Australia/Sydney,"Olympic Park Tennis Center",sr:complex:33244
+sr:venue:1553,"Court 3",Sydney,AUSTRALIA,Australia/Sydney,"Olympic Park Tennis Center",sr:complex:33244
+sr:venue:1554,"Court 4",Sydney,AUSTRALIA,Australia/Sydney,"Olympic Park Tennis Center",sr:complex:33244
+sr:venue:1555,"Court 5",Sydney,AUSTRALIA,Australia/Sydney,"Olympic Park Tennis Center",sr:complex:33244
+sr:venue:1556,"Court 6",Sydney,AUSTRALIA,Australia/Sydney,"Olympic Park Tennis Center",sr:complex:33244
+sr:venue:15560,"Court 11","Hong Kong","HONG KONG, CHINA",Asia/Hong_Kong,"Victoria Park Tennis Court",sr:complex:33246
+sr:venue:15562,"Court 13","Hong Kong","HONG KONG, CHINA",Asia/Hong_Kong,"Victoria Park Tennis Court",sr:complex:33246
+sr:venue:1557,"Centre Court",Hobart,AUSTRALIA,Australia/Tasmania,"Domain Tennis Centre",sr:complex:36495
+sr:venue:1560,"Court 1",Auckland,"NEW ZEALAND",Pacific/Auckland,"Manuka Doctor Arena",sr:complex:36493
+sr:venue:1561,"Court 2",Auckland,"NEW ZEALAND",Pacific/Auckland,"Manuka Doctor Arena",sr:complex:36493
+sr:venue:15612,"Cancha 1",Quito,ECUADOR,America/Guayaquil,"Club Rancho San Francisco",sr:complex:60274
+sr:venue:15614,"Cancha 3",Quito,ECUADOR,America/Guayaquil,"Club Rancho San Francisco",sr:complex:60274
+sr:venue:15616,"Center Court",Burnie,AUSTRALIA,Australia/Tasmania,"Burnie Tennis Club",sr:complex:36785
+sr:venue:15618,"Court 4",Burnie,AUSTRALIA,Australia/Tasmania,"Burnie Tennis Club",sr:complex:36785
+sr:venue:1562,"Court 3",Auckland,"NEW ZEALAND",Pacific/Auckland,"Manuka Doctor Arena",sr:complex:36493
+sr:venue:15620,"Hamilton Family Stadium",Dallas,"UNITED STATES",America/Chicago,"T Bar M Racquet Club",sr:complex:38191
+sr:venue:15622,"Court 1",Dallas,"UNITED STATES",America/Chicago,"T Bar M Racquet Club",sr:complex:38191
+sr:venue:15628,"Court 2",Burnie,AUSTRALIA,Australia/Tasmania,"Burnie Tennis Club",sr:complex:36785
+sr:venue:1563,"Court 5",Auckland,"NEW ZEALAND",Pacific/Auckland,"Manuka Doctor Arena",sr:complex:36493
+sr:venue:15630,"Court 6",Burnie,AUSTRALIA,Australia/Tasmania,"Burnie Tennis Club",sr:complex:36785
+sr:venue:1564,"Court 8",Sydney,AUSTRALIA,Australia/Sydney,"Olympic Park Tennis Center",sr:complex:33244
+sr:venue:15640,"Court 1",Antwerp,BELGIUM,Europe/Brussels,"Lotto Arena",sr:complex:35142
+sr:venue:15642,"Centre Court",Antwerp,BELGIUM,Europe/Brussels,"Lotto Arena",sr:complex:35142
+sr:venue:15644,"Court 3",Rotterdam,NETHERLANDS,Europe/Brussels,"Rotterdam Ahoy",sr:complex:17945
+sr:venue:15648,"Center Court",Launceston,AUSTRALIA,Australia/Tasmania,"Launceston Regional Tennis Centre",sr:complex:38041
+sr:venue:1565,"Court 8",Hobart,AUSTRALIA,Australia/Tasmania,"Domain Tennis Centre",sr:complex:36495
+sr:venue:15650,"Court 4",Launceston,AUSTRALIA,Australia/Tasmania,"Launceston Regional Tennis Centre",sr:complex:38041
+sr:venue:15652,"Court 2",Launceston,AUSTRALIA,Australia/Tasmania,"Launceston Regional Tennis Centre",sr:complex:38041
+sr:venue:15654,"Court 5",Launceston,AUSTRALIA,Australia/Tasmania,"Launceston Regional Tennis Centre",sr:complex:38041
+sr:venue:15656,"Estadio Central","Santo Domingo","DOMINICAN REPUBLIC",America/Santo_Domingo,"Santo Domingo Tennis Club La Bocha",sr:complex:35052
+sr:venue:15658,"Cancha 1","Santo Domingo","DOMINICAN REPUBLIC",America/Santo_Domingo,"Santo Domingo Tennis Club La Bocha",sr:complex:35052
+sr:venue:15660,"Court 7","Sao Paulo",BRAZIL,America/Sao_Paulo,"Clube Hipico Santo Amaro",sr:complex:61643
+sr:venue:15664,"Pallazzetto Alzano",Bergamo,ITALY,Europe/Rome,"Olme Sport",sr:complex:67275
+sr:venue:15666,"Cancha 2","Santo Domingo","DOMINICAN REPUBLIC",America/Santo_Domingo,"Santo Domingo Tennis Club La Bocha",sr:complex:35052
+sr:venue:15668,"Court 3",Launceston,AUSTRALIA,Australia/Tasmania,"Launceston Regional Tennis Centre",sr:complex:38041
+sr:venue:15678,"Court 3","Rio de Janeiro",BRAZIL,Brazil/East,"Jockey Club Brasileiro",sr:complex:33296
+sr:venue:15680,"Court 6","Rio de Janeiro",BRAZIL,Brazil/East,"Jockey Club Brasileiro",sr:complex:33296
+sr:venue:15682,"Quadra 5","Rio de Janeiro",BRAZIL,Brazil/East,"Jockey Club Brasileiro",sr:complex:33296
+sr:venue:15684,"Court 3","Delray Beach","UNITED STATES",America/New_York,"Delray Beach Tennis Center",sr:complex:33228
+sr:venue:1572,"ANZ Arena",Melbourne,AUSTRALIA,Australia/Melbourne,"Melbourne Park",sr:complex:33196
+sr:venue:15722,"Court 14","Buenos Aires",ARGENTINA,America/Argentina/Buenos_Aires,"Buenos Aires Lawn Tennis Club",sr:complex:33222
+sr:venue:1573,"Court 4",Melbourne,AUSTRALIA,Australia/Melbourne,"Melbourne Park",sr:complex:33196
+sr:venue:15738,"Tourlaville 2",Cherbourg-Octeville,FRANCE,Europe/Paris,"Complexe Sportif Chantereyne",sr:complex:38285
+sr:venue:1574,"Court 5",Melbourne,AUSTRALIA,Australia/Melbourne,"Melbourne Park",sr:complex:33196
+sr:venue:1575,"Court 6",Melbourne,AUSTRALIA,Australia/Melbourne,"Melbourne Park",sr:complex:33196
+sr:venue:1576,"Court 7",Melbourne,AUSTRALIA,Australia/Melbourne,"Melbourne Park",sr:complex:33196
+sr:venue:1577,"Court 8",Melbourne,AUSTRALIA,Australia/Melbourne,"Melbourne Park",sr:complex:33196
+sr:venue:1578,"Court 10",Melbourne,AUSTRALIA,Australia/Melbourne,"Melbourne Park",sr:complex:33196
+sr:venue:1579,"Court 11",Melbourne,AUSTRALIA,Australia/Melbourne,"Melbourne Park",sr:complex:33196
+sr:venue:1580,"Court 9",Melbourne,AUSTRALIA,Australia/Melbourne,"Melbourne Park",sr:complex:33196
+sr:venue:15808,"Cancha  3",Monterrey,MEXICO,America/Mexico_City,"Club Sonoma",sr:complex:33292
+sr:venue:1581,"Court 12",Melbourne,AUSTRALIA,Australia/Melbourne,"Melbourne Park",sr:complex:33196
+sr:venue:15810,"Court Central",Quimper,FRANCE,Europe/Paris,"Parc des Expositions Quimper Cornouaille",sr:complex:38045
+sr:venue:15812,Annexe,Quimper,FRANCE,Europe/Paris,"Parc des Expositions Quimper Cornouaille",sr:complex:38045
+sr:venue:1582,"Court 13",Melbourne,AUSTRALIA,Australia/Melbourne,"Melbourne Park",sr:complex:33196
+sr:venue:1583,"Court 14",Melbourne,AUSTRALIA,Australia/Melbourne,"Melbourne Park",sr:complex:33196
+sr:venue:1584,"Court 15",Melbourne,AUSTRALIA,Australia/Melbourne,"Melbourne Park",sr:complex:33196
+sr:venue:15858,"Centre Court",Santiago,CHILE,America/Santiago,"Club Manquehue de Vitacura",sr:complex:62419
+sr:venue:1586,"Rod Laver Arena",Melbourne,AUSTRALIA,Australia/Melbourne,"Melbourne Park",sr:complex:33196
+sr:venue:15860,"Court 16",Santiago,CHILE,America/Santiago,"Club Manquehue de Vitacura",sr:complex:62419
+sr:venue:15862,"Court 15",Santiago,CHILE,America/Santiago,"Club Manquehue de Vitacura",sr:complex:62419
+sr:venue:15864,"Court 11",Santiago,CHILE,America/Santiago,"Club Manquehue de Vitacura",sr:complex:62419
+sr:venue:1587,"John Cain Arena",Melbourne,AUSTRALIA,Australia/Melbourne,"Melbourne Park",sr:complex:33196
+sr:venue:1588,"Margaret Court Arena",Melbourne,AUSTRALIA,Australia/Melbourne,"Melbourne Park",sr:complex:33196
+sr:venue:15888,"Court Central",Drummondville,CANADA,America/Toronto,"Tennis Interieur Rene Verrier",sr:complex:67621
+sr:venue:1589,"1573 Arena",Melbourne,AUSTRALIA,Australia/Melbourne,"Melbourne Park",sr:complex:33196
+sr:venue:15890,"Court 1",Drummondville,CANADA,America/Toronto,"Tennis Interieur Rene Verrier",sr:complex:67621
+sr:venue:1590,"Court 18",Melbourne,AUSTRALIA,Australia/Melbourne,"Melbourne Park",sr:complex:33196
+sr:venue:1591,"Court 19",Melbourne,AUSTRALIA,Australia/Melbourne,"Melbourne Park",sr:complex:33196
+sr:venue:1592,"Court 21",Melbourne,AUSTRALIA,Australia/Melbourne,"Melbourne Park",sr:complex:33196
+sr:venue:15954,"Estadio Municipal de Chorrillos",Lima,PERU,America/Lima,"Club Tennis Las Terrazas de Miraflores",sr:complex:35290
+sr:venue:15974,Estadio,"San Luis de Potosi",MEXICO,America/Mexico_City,"Club Deportivo Potosino",sr:complex:39095
+sr:venue:1602,"Cancha Central",Santiago,CHILE,America/Santiago,"Club Manquehue de Vitacura",sr:complex:62419
+sr:venue:16022,"Atg 3",Saint-Brieuc,FRANCE,Europe/Paris,"Salle Steredenn",sr:complex:16020
+sr:venue:16024,"Center Court",Charleston,"UNITED STATES",America/New_York,"LTP Tennis Mount Pleasant",sr:complex:59348
+sr:venue:1603,"Court 2",Santiago,CHILE,America/Santiago,"Club Manquehue de Vitacura",sr:complex:62419
+sr:venue:1604,"Cancha 4",Santiago,CHILE,America/Santiago,"Club Manquehue de Vitacura",sr:complex:62419
+sr:venue:16040,"James T. Driscoll",Sarasota,"UNITED STATES",America/New_York,"Laurel Oak Country Club",sr:complex:39093
+sr:venue:16042,Pnc,Sarasota,"UNITED STATES",America/New_York,"Laurel Oak Country Club",sr:complex:39093
+sr:venue:16044,"Court 9",Sarasota,"UNITED STATES",America/New_York,"Payne Park Tennis Facility",sr:complex:62905
+sr:venue:1605,"Cancha 6",Santiago,CHILE,America/Santiago,"Club Manquehue de Vitacura",sr:complex:62419
+sr:venue:16053,"Cancha 1",Guadalajara,MEXICO,America/Mexico_City,"Centro Panamericano de Tenis",sr:complex:38680
+sr:venue:16063,"Court 1",Munich,GERMANY,Europe/Berlin,"MTTC Iphitos e.V.",sr:complex:33368
+sr:venue:16065,"Court 2",Munich,GERMANY,Europe/Berlin,"MTTC Iphitos e.V.",sr:complex:33368
+sr:venue:16067,"Estadio Millennium",Estoril,PORTUGAL,Europe/Lisbon,"Clube de Ténis do Estoril",sr:complex:38716
+sr:venue:16071,"Campo Centrale",Turin,ITALY,Europe/Rome,"Circolo Della Stampa Sporting",sr:complex:62323
+sr:venue:16121,"Court 2",Busan,"KOREA, REPUBLIC OF",Asia/Seoul,"Spo1 Park",sr:complex:66785
+sr:venue:16131,"Court 3",Seoul,"KOREA, REPUBLIC OF",Asia/Seoul,"Seoul Olympic Park Tennis Center",sr:complex:61761
+sr:venue:16157,"Court 7",Heilbronn,GERMANY,Europe/Berlin,"Tennisclub Heilbronn am Trappensee",sr:complex:39381
+sr:venue:16167,"Court Patrice Dominguez",Strasbourg,FRANCE,Europe/Paris,"Tennis Club de Strasbourg",sr:complex:33274
+sr:venue:16169,"Court 1",Geneva,SWITZERLAND,Europe/Zurich,"Tennis Club de Geneve",sr:complex:33356
+sr:venue:16171,"Court 3",Geneva,SWITZERLAND,Europe/Zurich,"Tennis Club de Geneve",sr:complex:33356
+sr:venue:16173,"Court 4",Geneva,SWITZERLAND,Europe/Zurich,"Tennis Club de Geneve",sr:complex:33356
+sr:venue:16271,"Mercedes Court",Stuttgart,GERMANY,Europe/Berlin,"TC Weissenhof, Stuttgart",sr:complex:38722
+sr:venue:16273,"Court 3",Stuttgart,GERMANY,Europe/Berlin,"Porsche Arena",sr:complex:28617
+sr:venue:16279,"Court 9",Moscow,"RUSSIAN FEDERATION",Europe/Moscow,"Multisport Sports Club",sr:complex:62319
+sr:venue:16288,"Court 10",Prague,"CZECH REPUBLIC",Europe/Prague,"TK Sparta Praha",sr:complex:38690
+sr:venue:16320,Grandstand,Perugia,ITALY,Europe/Rome,"Tennis Club Perugia",sr:complex:58972
+sr:venue:16322,"Court 3",Perugia,ITALY,Europe/Rome,"Tennis Club Perugia",sr:complex:58972
+sr:venue:16324,"Court 2",Ilkley,ENGLAND,Europe/London,"Ilkley Lawn Tennis and Squash Club",sr:complex:39870
+sr:venue:16326,"Campo 4",Perugia,ITALY,Europe/Rome,"Tennis Club Perugia",sr:complex:58972
+sr:venue:16330,"Centre Court",Ilkley,ENGLAND,Europe/London,"Ilkley Lawn Tennis and Squash Club",sr:complex:39870
+sr:venue:16332,"Court 1",Ilkley,ENGLAND,Europe/London,"Ilkley Lawn Tennis and Squash Club",sr:complex:39870
+sr:venue:16334,"Court 6",Ilkley,ENGLAND,Europe/London,"Ilkley Lawn Tennis and Squash Club",sr:complex:39870
+sr:venue:16338,"Court 4",Ilkley,ENGLAND,Europe/London,"Ilkley Lawn Tennis and Squash Club",sr:complex:39870
+sr:venue:16340,"Court 5",Ilkley,ENGLAND,Europe/London,"Ilkley Lawn Tennis and Squash Club",sr:complex:39870
+sr:venue:16342,"Court 7",Ilkley,ENGLAND,Europe/London,"Ilkley Lawn Tennis and Squash Club",sr:complex:39870
+sr:venue:16348,"Indoor 2",Nottingham,ENGLAND,Europe/London,"Nottingham Tennis Centre",sr:complex:33348
+sr:venue:16350,"Indoor 4",Nottingham,ENGLAND,Europe/London,"Nottingham Tennis Centre",sr:complex:33348
+sr:venue:16394,"Court 3",Newport,"UNITED STATES",America/New_York,"International Tennis Hall of Fame",sr:complex:33210
+sr:venue:1648,"Court 1",Rotterdam,NETHERLANDS,Europe/Brussels,"Rotterdam Ahoy",sr:complex:17945
+sr:venue:1649,"Center Court","San Jose","UNITED STATES",America/Los_Angeles,"San José State University Tennis Center",sr:complex:39513
+sr:venue:16496,"Court 5",Tampere,FINLAND,Europe/Helsinki,"Tampereen Tenniskeskus Oy",sr:complex:64885
+sr:venue:1650,"Courtside Club 16","San Jose","UNITED STATES",America/Los_Angeles,"San José State University Tennis Center",sr:complex:39513
+sr:venue:1656,"Centre Court",Dubai,"UNITED ARAB EMIRATES",Asia/Dubai,"Dubai Duty Free Tennis Stadium",sr:complex:38313
+sr:venue:1657,"Court 1",Dubai,"UNITED ARAB EMIRATES",Asia/Dubai,"Dubai Duty Free Tennis Stadium",sr:complex:38313
+sr:venue:1658,"Court 3",Dubai,"UNITED ARAB EMIRATES",Asia/Dubai,"Dubai Duty Free Tennis Stadium",sr:complex:38313
+sr:venue:1663,"Estadio 2","Buenos Aires",ARGENTINA,America/Argentina/Buenos_Aires,"Buenos Aires Lawn Tennis Club",sr:complex:33222
+sr:venue:1664,"Estadio 3","Buenos Aires",ARGENTINA,America/Argentina/Buenos_Aires,"Buenos Aires Lawn Tennis Club",sr:complex:33222
+sr:venue:1665,Central,Marseille,FRANCE,Europe/Paris,"Palais des Sports de Marseille",sr:complex:33186
+sr:venue:1666,"Court 1",Marseille,FRANCE,Europe/Paris,"Palais des Sports de Marseille",sr:complex:33186
+sr:venue:1667,"Court 6",Dubai,"UNITED ARAB EMIRATES",Asia/Dubai,"Dubai Duty Free Tennis Stadium",sr:complex:38313
+sr:venue:1668,"Court 7",Dubai,"UNITED ARAB EMIRATES",Asia/Dubai,"Dubai Duty Free Tennis Stadium",sr:complex:38313
+sr:venue:1673,"Cancha 4",Bogota,COLOMBIA,America/Bogota,"El Club el Carmel",sr:complex:39000
+sr:venue:1674,"Court 2",Dubai,"UNITED ARAB EMIRATES",Asia/Dubai,"Dubai Duty Free Tennis Stadium",sr:complex:38313
+sr:venue:1676,Stadium,"Delray Beach","UNITED STATES",America/New_York,"Delray Beach Tennis Center",sr:complex:33228
+sr:venue:16760,Stadium,Winston-Salem,"UNITED STATES",America/New_York,"Wake Forest University Tennis Complex",sr:complex:33200
+sr:venue:1677,"Court 1","Delray Beach","UNITED STATES",America/New_York,"Delray Beach Tennis Center",sr:complex:33228
+sr:venue:1678,"Court 2","Delray Beach","UNITED STATES",America/New_York,"Delray Beach Tennis Center",sr:complex:33228
+sr:venue:1679,"Court 4","Delray Beach","UNITED STATES",America/New_York,"Delray Beach Tennis Center",sr:complex:33228
+sr:venue:1680,"Court 5","Delray Beach","UNITED STATES",America/New_York,"Delray Beach Tennis Center",sr:complex:33228
+sr:venue:16808,"Court 8",Nanchang,CHINA,Asia/Shanghai,"National Sport Center Nanchang",sr:complex:44126
+sr:venue:1681,"Court 6","Delray Beach","UNITED STATES",America/New_York,"Delray Beach Tennis Center",sr:complex:33228
+sr:venue:16810,"Court 7",Nanchang,CHINA,Asia/Shanghai,"National Sport Center Nanchang",sr:complex:44126
+sr:venue:16812,"Court 6",Nanchang,CHINA,Asia/Shanghai,"National Sport Center Nanchang",sr:complex:44126
+sr:venue:16814,"Court Steigenberger",Istanbul,TURKIYE,Europe/Istanbul,"TTF Istanbul Tenis Merkezi",sr:complex:63059
+sr:venue:16822,"Court 6",Szczecin,POLAND,Europe/Warsaw,"Wojska Polskiego",sr:complex:60276
+sr:venue:16842,"Indoor 1",Guangzhou,CHINA,Asia/Shanghai,"Guangzhou Development District International Tennis School",sr:complex:76107
+sr:venue:16844,"Indoor 2",Guangzhou,CHINA,Asia/Shanghai,"Guangzhou Tianhe Sports Center",sr:complex:33242
+sr:venue:16846,"Indoor 3",Guangzhou,CHINA,Asia/Shanghai,"Guangzhou Development District International Tennis School",sr:complex:76107
+sr:venue:16848,"Quadra 3",Campinas,BRAZIL,Brazil/East,"Sociedade Hipica de Campinas",sr:complex:34814
+sr:venue:16850,"Court 5",Columbus,"UNITED STATES",America/New_York,"Ohio State Varsity Tennis Center",sr:complex:36497
+sr:venue:16864,"Court 6",Wuhan,CHINA,Asia/Shanghai,"Optics Valley International Tennis Center",sr:complex:33240
+sr:venue:16880,"Central Court",Orleans,FRANCE,Europe/Paris,"Palais Des Sport",sr:complex:15014
+sr:venue:16890,"Center Court",Tiburon,"UNITED STATES",America/Los_Angeles,"Tiburon Peninsula Club",sr:complex:34736
+sr:venue:1695,"Center Court",Monterrey,MEXICO,America/Mexico_City,"Club Sonoma, Estadio Gnp Seguros",sr:complex:19737
+sr:venue:1696,"Court 1",Monterrey,MEXICO,America/Mexico_City,"Club Sonoma, Estadio Gnp Seguros",sr:complex:19737
+sr:venue:1697,"Court 2",Monterrey,MEXICO,America/Mexico_City,"Club Sonoma",sr:complex:33292
+sr:venue:16982,"Court 5",Rennes,FRANCE,Europe/Paris,"Salle Collete-Benson",sr:complex:37007
+sr:venue:16996,"Stadium Court",Fairfield,"UNITED STATES",America/New_York,"Solano Community College",sr:complex:47146
+sr:venue:16998,"Court 1",Fairfield,"UNITED STATES",America/New_York,"Solano Community College",sr:complex:47146
+sr:venue:1700,"Stadium 2","Indian Wells","UNITED STATES",America/Los_Angeles,"Indian Wells Tennis Garden",sr:complex:38419
+sr:venue:17004,"Court 4",Rennes,FRANCE,Europe/Paris,"Salle Collete-Benson",sr:complex:37007
+sr:venue:1701,"Stadium 3","Indian Wells","UNITED STATES",America/Los_Angeles,"Indian Wells Tennis Garden",sr:complex:38419
+sr:venue:1702,"Stadium 4","Indian Wells","UNITED STATES",America/Los_Angeles,"Indian Wells Tennis Garden",sr:complex:38419
+sr:venue:1703,"Stadium 5","Indian Wells","UNITED STATES",America/Los_Angeles,"Indian Wells Tennis Garden",sr:complex:38419
+sr:venue:1704,"Stadium 6","Indian Wells","UNITED STATES",America/Los_Angeles,"Indian Wells Tennis Garden",sr:complex:38419
+sr:venue:1705,"Stadium 7","Indian Wells","UNITED STATES",America/Los_Angeles,"Indian Wells Tennis Garden",sr:complex:38419
+sr:venue:1706,"Stadium 8","Indian Wells","UNITED STATES",America/Los_Angeles,"Indian Wells Tennis Garden",sr:complex:38419
+sr:venue:1707,"Stadium 9","Indian Wells","UNITED STATES",America/Los_Angeles,"Indian Wells Tennis Garden",sr:complex:38419
+sr:venue:17078,"Center Court",Bangalore,INDIA,Asia/Kolkata,"Karnataka State Lawn Tennis Association",sr:complex:35688
+sr:venue:1708,"Stadium 1","Indian Wells","UNITED STATES",America/Los_Angeles,"Indian Wells Tennis Garden",sr:complex:38419
+sr:venue:17080,"Court 1",Bangalore,INDIA,Asia/Kolkata,"Karnataka State Lawn Tennis Association",sr:complex:35688
+sr:venue:17082,"Arena Center Court",Brest,FRANCE,Europe/Paris,"Brest Arena",sr:complex:23576
+sr:venue:17084,"Court 3",Bangalore,INDIA,Asia/Kolkata,"Karnataka State Lawn Tennis Association",sr:complex:35688
+sr:venue:17086,"Court 1","Las Vegas","UNITED STATES",America/Los_Angeles,"Darling Tennis Center",sr:complex:33480
+sr:venue:17088,"Court 2","Las Vegas","UNITED STATES",America/Los_Angeles,"Darling Tennis Center",sr:complex:33480
+sr:venue:17094,"Court 6",Ningbo,CHINA,Asia/Shanghai,"Yinzhou International Tennis Centre",sr:complex:84475
+sr:venue:17098,"Arena Annexe",Brest,FRANCE,Europe/Paris,"Brest Arena",sr:complex:23576
+sr:venue:17100,"Court 1",Santiago,CHILE,America/Santiago,"Club Deportivo Universidad Catolica",sr:complex:50605
+sr:venue:17102,"Court 2",Santiago,CHILE,America/Santiago,"Club Deportivo Universidad Catolica",sr:complex:50605
+sr:venue:17104,"Court 3",Santiago,CHILE,America/Santiago,"Club Deportivo Universidad Catolica",sr:complex:50605
+sr:venue:1711,"Court 1",Miami,"UNITED STATES",America/New_York,"Hard Rock Stadium",sr:complex:38678
+sr:venue:1712,"Court 2",Miami,"UNITED STATES",America/New_York,"Hard Rock Stadium",sr:complex:38678
+sr:venue:1713,"Court 3",Miami,"UNITED STATES",America/New_York,"Hard Rock Stadium",sr:complex:38678
+sr:venue:1714,"Court 4",Miami,"UNITED STATES",America/New_York,"Hard Rock Stadium",sr:complex:38678
+sr:venue:1715,"Court 5",Miami,"UNITED STATES",America/New_York,"Hard Rock Stadium",sr:complex:38678
+sr:venue:1716,"Court 6",Miami,"UNITED STATES",America/New_York,"Hard Rock Stadium",sr:complex:38678
+sr:venue:1717,"Court 7",Miami,"UNITED STATES",America/New_York,"Hard Rock Stadium",sr:complex:38678
+sr:venue:1718,"Court 8",Miami,"UNITED STATES",America/New_York,"Hard Rock Stadium",sr:complex:38678
+sr:venue:1719,"Court 9",Miami,"UNITED STATES",America/New_York,"Hard Rock Stadium",sr:complex:38678
+sr:venue:17192,"Center Court",Valencia,SPAIN,Europe/Madrid,"Sporting Club de Tenis Valencia",sr:complex:33482
+sr:venue:1720,"Court 10",Miami,"UNITED STATES",America/New_York,"Hard Rock Stadium",sr:complex:38678
+sr:venue:17200,Estadio,Lima,PERU,America/Lima,"Jockey Club del Peru",sr:complex:65347
+sr:venue:17202,"Cancha 6",Lima,PERU,America/Lima,"Jockey Club del Peru",sr:complex:65347
+sr:venue:17204,"Cancha 7",Lima,PERU,America/Lima,"Jockey Club del Peru",sr:complex:65347
+sr:venue:1721,Grandstand,Miami,"UNITED STATES",America/New_York,"Hard Rock Stadium",sr:complex:38678
+sr:venue:1722,Stadium,Miami,"UNITED STATES",America/New_York,"Hard Rock Stadium",sr:complex:38678
+sr:venue:17228,"Cancha 4",Monterrey,MEXICO,America/Mexico_City,"Club Sonoma",sr:complex:33292
+sr:venue:17230,"Center Court","Hua Hin",THAILAND,Asia/Bangkok,"True Arena Hua Hin",sr:complex:38043
+sr:venue:17232,"Court 2","Hua Hin",THAILAND,Asia/Bangkok,"True Arena Hua Hin",sr:complex:38043
+sr:venue:17240,"Court 5","Hua Hin",THAILAND,Asia/Bangkok,"True Arena Hua Hin",sr:complex:38043
+sr:venue:17244,"Court 3","Hua Hin",THAILAND,Asia/Bangkok,"True Arena Hua Hin",sr:complex:38043
+sr:venue:17276,"Court 1",Bratislava,SLOVAKIA,Europe/Bratislava,"TK Slovan Bratislava",sr:complex:63833
+sr:venue:17278,"Court 2",Bratislava,SLOVAKIA,Europe/Bratislava,"NTC Arena",sr:complex:39872
+sr:venue:1728,"Centre Court",Marbella,SPAIN,Europe/Madrid,"Club de Tenis Puente Romano",sr:complex:26983
+sr:venue:17280,"Court 2",Limoges,FRANCE,Europe/Paris,"Palais des sports de Beaublanc",sr:complex:35648
+sr:venue:17282,"Center Court",Kobe,JAPAN,Asia/Tokyo,"Miki Disaster Management Park",sr:complex:35684
+sr:venue:17284,"Court F",Kobe,JAPAN,Asia/Tokyo,"Miki Disaster Management Park",sr:complex:35684
+sr:venue:17286,"Court G",Kobe,JAPAN,Asia/Tokyo,"Miki Disaster Management Park",sr:complex:35684
+sr:venue:17288,"Court E",Kobe,JAPAN,Asia/Tokyo,"Miki Disaster Management Park",sr:complex:35684
+sr:venue:1729,"Court 1",Marbella,SPAIN,Europe/Madrid,"Club de Tenis Puente Romano",sr:complex:26983
+sr:venue:17292,"Cancha Central","Buenos Aires",ARGENTINA,America/Argentina/Buenos_Aires,"Buenos Aires Lawn Tennis Club",sr:complex:33222
+sr:venue:17296,"Court 4","Hua Hin",THAILAND,Asia/Bangkok,"True Arena Hua Hin",sr:complex:38043
+sr:venue:17298,"Court 5",Knoxville,"UNITED STATES",America/New_York,"Goodfriend Indoor Tennis Center",sr:complex:35646
+sr:venue:1730,"Court 7",Marbella,SPAIN,Europe/Madrid,"Club de Tenis Puente Romano",sr:complex:26983
+sr:venue:17312,"Cancha  4","Buenos Aires",ARGENTINA,America/Argentina/Buenos_Aires,"Buenos Aires Lawn Tennis Club",sr:complex:33222
+sr:venue:1737,"Court Central","Monte Carlo",MONACO,Europe/Paris,"Monte-Carlo Country Club",sr:complex:62903
+sr:venue:1738,"Court Des Princes","Monte Carlo",MONACO,Europe/Paris,"Monte-Carlo Country Club",sr:complex:62903
+sr:venue:1739,"EA de Massy","Monte Carlo",MONACO,Europe/Paris,"Monte-Carlo Country Club",sr:complex:62903
+sr:venue:1740,"Court 9","Monte Carlo",MONACO,Europe/Paris,"Monte-Carlo Country Club",sr:complex:62903
+sr:venue:1745,Centre,Barcelona,SPAIN,Europe/Madrid,"Real Club de Tenis Barcelona",sr:complex:33372
+sr:venue:17466,"Indoor 1",Shenzhen,CHINA,Asia/Shanghai,"Shenzhen International Tennis Center",sr:complex:38603
+sr:venue:17468,"Indoor 2",Shenzhen,CHINA,Asia/Shanghai,"Shenzhen International Tennis Center",sr:complex:38603
+sr:venue:17522,"Court 3",Bangkok,THAILAND,Asia/Bangkok,"Rama Gardens Hotel",sr:complex:33440
+sr:venue:17524,"Cancha 5","Buenos Aires",ARGENTINA,America/Argentina/Buenos_Aires,"Buenos Aires Lawn Tennis Club",sr:complex:33222
+sr:venue:1753,"Court 11","Monte Carlo",MONACO,Europe/Paris,"Monte-Carlo Country Club",sr:complex:62903
+sr:venue:1755,"Pista 3",Barcelona,SPAIN,Europe/Madrid,"Real Club de Tenis Barcelona",sr:complex:33372
+sr:venue:1756,"Pista 4",Barcelona,SPAIN,Europe/Madrid,"Real Club de Tenis Barcelona",sr:complex:33372
+sr:venue:1757,"Pista Rafa Nadal",Barcelona,SPAIN,Europe/Madrid,"Real Club de Tenis Barcelona",sr:complex:33372
+sr:venue:1758,"Court 3",Rome,ITALY,Europe/Rome,"Foro Italico",sr:complex:54105
+sr:venue:1759,"Court 4",Rome,ITALY,Europe/Rome,"Foro Italico",sr:complex:54105
+sr:venue:17590,"Ed Smith Stadium",Sarasota,"UNITED STATES",America/New_York,"Laurel Oak Country Club",sr:complex:39093
+sr:venue:1760,"Court 5",Rome,ITALY,Europe/Rome,"Foro Italico",sr:complex:54105
+sr:venue:1761,"Court 6",Rome,ITALY,Europe/Rome,"Foro Italico",sr:complex:54105
+sr:venue:1762,"Center Court",Rome,ITALY,Europe/Rome,"Foro Italico",sr:complex:54105
+sr:venue:1763,"Center Court",Rome,ITALY,Europe/Rome,"Tennis Club Garden",sr:complex:63247
+sr:venue:1764,Pietrangeli,Rome,ITALY,Europe/Rome,"Foro Italico",sr:complex:54105
+sr:venue:1765,"Centre Court",Stuttgart,GERMANY,Europe/Berlin,Porsche-Arena,sr:complex:16612
+sr:venue:1766,"Court 1",Stuttgart,GERMANY,Europe/Berlin,"Porsche Arena",sr:complex:28617
+sr:venue:17694,"Court 1",Manila,PHILIPPINES,Asia/Manila,"Rizal Memorial Stadium",sr:complex:17869
+sr:venue:1771,"Center Court",Belgrade,SERBIA,Europe/Belgrade,"Tennis Center Novak",sr:complex:33426
+sr:venue:1773,"Center Court",Munich,GERMANY,Europe/Berlin,"MTTC Iphitos e.V.",sr:complex:33368
+sr:venue:1774,"Court 4",Munich,GERMANY,Europe/Berlin,"MTTC Iphitos e.V.",sr:complex:33368
+sr:venue:1775,"Court 8",Munich,GERMANY,Europe/Berlin,"MTTC Iphitos e.V.",sr:complex:33368
+sr:venue:17754,"Court 2",Dallas,"UNITED STATES",America/Chicago,"T Bar M Racquet Club",sr:complex:38191
+sr:venue:17756,"Center Court",Sofia,BULGARIA,Europe/Sofia,"Arena Armeets Sofia",sr:complex:9725
+sr:venue:17758,"Court 1",Sofia,BULGARIA,Europe/Sofia,"Arena Armeets Sofia",sr:complex:9725
+sr:venue:1776,"Court 10",Munich,GERMANY,Europe/Berlin,"MTTC Iphitos e.V.",sr:complex:33368
+sr:venue:17760,Stadium,Quito,ECUADOR,America/Guayaquil,"Club Rancho San Francisco",sr:complex:60274
+sr:venue:1777,Central,Estoril,PORTUGAL,Europe/Lisbon,"Clube de Ténis do Estoril",sr:complex:38716
+sr:venue:1778,Centralito,Estoril,PORTUGAL,Europe/Lisbon,"Clube de Ténis do Estoril",sr:complex:38716
+sr:venue:1779,"Court 1",Estoril,PORTUGAL,Europe/Lisbon,"Clube de Ténis do Estoril",sr:complex:38716
+sr:venue:1780,"Court 2",Estoril,PORTUGAL,Europe/Lisbon,"Clube de Ténis do Estoril",sr:complex:38716
+sr:venue:17801,"Court 11","Sao Paulo",BRAZIL,America/Sao_Paulo,"Clube Hipico Santo Amaro",sr:complex:61643
+sr:venue:1781,"Court 3",Estoril,PORTUGAL,Europe/Lisbon,"Clube de Ténis do Estoril",sr:complex:38716
+sr:venue:1782,"Court 4",Estoril,PORTUGAL,Europe/Lisbon,"Clube de Ténis do Estoril",sr:complex:38716
+sr:venue:17875,"Sree Kanteerava Stadium",Bangalore,INDIA,Asia/Kolkata,"Karnataka State Lawn Tennis Association",sr:complex:35688
+sr:venue:1788,"Court 2",Belgrade,SERBIA,Europe/Belgrade,"Tennis Center Novak",sr:complex:33426
+sr:venue:1789,"Court 13",Munich,GERMANY,Europe/Berlin,"MTTC Iphitos e.V.",sr:complex:33368
+sr:venue:1790,"Manolo Santana Stadium",Madrid,SPAIN,Europe/Madrid,"La Caja Magica",sr:complex:38698
+sr:venue:1791,"Arantxa Sanchez Stadium",Madrid,SPAIN,Europe/Madrid,"La Caja Magica",sr:complex:38698
+sr:venue:17911,"Court 2",Zhuhai,CHINA,Asia/Shanghai,"Hengqin International Tennis Center Zhuhai",sr:complex:33218
+sr:venue:17913,"Court 3",Zhuhai,CHINA,Asia/Shanghai,"Hengqin International Tennis Center Zhuhai",sr:complex:33218
+sr:venue:17915,"Court 4",Zhuhai,CHINA,Asia/Shanghai,"Hengqin International Tennis Center Zhuhai",sr:complex:33218
+sr:venue:17917,"Court 5",Zhuhai,CHINA,Asia/Shanghai,"Hengqin International Tennis Center Zhuhai",sr:complex:33218
+sr:venue:1792,"Stadium 3",Madrid,SPAIN,Europe/Madrid,"La Caja Magica",sr:complex:38698
+sr:venue:17933,Center,Zhuhai,CHINA,Asia/Shanghai,"Hengqin International Tennis Center Zhuhai",sr:complex:33218
+sr:venue:17937,"Court 1",Zhuhai,CHINA,Asia/Shanghai,"Hengqin International Tennis Center Zhuhai",sr:complex:33218
+sr:venue:1794,"Court 5",Madrid,SPAIN,Europe/Madrid,"La Caja Magica",sr:complex:38698
+sr:venue:1795,"Court 6",Madrid,SPAIN,Europe/Madrid,"La Caja Magica",sr:complex:38698
+sr:venue:17951,"Center Court",Guadalajara,MEXICO,America/Mexico_City,"Centro Panamericano de Tenis",sr:complex:38680
+sr:venue:17953,"Court 1",Guadalajara,MEXICO,America/Mexico_City,"Centro Panamericano de Tenis",sr:complex:38680
+sr:venue:17955,"Court 5",Guadalajara,MEXICO,America/Mexico_City,"Centro Panamericano de Tenis",sr:complex:38680
+sr:venue:17957,"Court 2",Guadalajara,MEXICO,America/Mexico_City,"Centro Panamericano de Tenis",sr:complex:38680
+sr:venue:1796,"Court 7",Madrid,SPAIN,Europe/Madrid,"La Caja Magica",sr:complex:38698
+sr:venue:18001,"Indoor 3",Shenzhen,CHINA,Asia/Shanghai,"Shenzhen International Tennis Center",sr:complex:38603
+sr:venue:18003,"Indoor 4",Shenzhen,CHINA,Asia/Shanghai,"Shenzhen Luohu Tennis Centre",sr:complex:33408
+sr:venue:1801,"Centre Court",Strasbourg,FRANCE,Europe/Paris,"Tennis Club de Strasbourg",sr:complex:33274
+sr:venue:18015,"Atg 4",Saint-Brieuc,FRANCE,Europe/Paris,"Salle Steredenn",sr:complex:16020
+sr:venue:1802,"Court 2",Strasbourg,FRANCE,Europe/Paris,"Tennis Club de Strasbourg",sr:complex:33274
+sr:venue:18023,"Credit One Stadium",Charleston,"UNITED STATES",America/New_York,"Family Circle Tennis Center",sr:complex:33302
+sr:venue:1803,"Court 3",Strasbourg,FRANCE,Europe/Paris,"Tennis Club de Strasbourg",sr:complex:33274
+sr:venue:18033,"Center Court",Gwangju,"KOREA, REPUBLIC OF",Asia/Seoul,"Jinwol International Tennis Court",sr:complex:39377
+sr:venue:18035,"Show Court",Gwangju,"KOREA, REPUBLIC OF",Asia/Seoul,"Jinwol International Tennis Court",sr:complex:39377
+sr:venue:18037,"Campo Estadio",Bogota,COLOMBIA,America/Bogota,"Club Los Lagartos",sr:complex:38684
+sr:venue:18039,"Campo 1",Bogota,COLOMBIA,America/Bogota,"El Club el Carmel",sr:complex:39000
+sr:venue:1804,"Center Court",Warsaw,POLAND,Europe/Warsaw,"Legia Tenis & Golf",sr:complex:59994
+sr:venue:18041,"Campo 2",Bogota,COLOMBIA,America/Bogota,"El Club el Carmel",sr:complex:39000
+sr:venue:18043,"Cancha 3",Bogota,COLOMBIA,America/Bogota,"Club Compensar Sede 220",sr:complex:74183
+sr:venue:18047,"I Bilanciai (C1)",Barletta,ITALY,Europe/Rome,"Circolo Tennis Barletta",sr:complex:38988
+sr:venue:18049,"Altitud (C2)",Barletta,ITALY,Europe/Rome,"Circolo Tennis Barletta",sr:complex:38988
+sr:venue:1805,"Court 1",Warsaw,POLAND,Europe/Warsaw,"Legia Tenis & Golf",sr:complex:59994
+sr:venue:18051,"Court 2",Sarasota,"UNITED STATES",America/New_York,"Payne Park Tennis Facility",sr:complex:62905
+sr:venue:18053,"Court 3",Sarasota,"UNITED STATES",America/New_York,"Payne Park Tennis Facility",sr:complex:62905
+sr:venue:18055,"Court Rainier III","Monte Carlo",MONACO,Europe/Paris,"Monte-Carlo Country Club",sr:complex:62903
+sr:venue:18057,"Campo 5",Barletta,ITALY,Europe/Rome,"Circolo Tennis Hugo Simmen",sr:complex:62907
+sr:venue:18059,"Court 1",Gwangju,"KOREA, REPUBLIC OF",Asia/Seoul,"Jinwol International Tennis Court",sr:complex:39377
+sr:venue:1806,"Court 2",Warsaw,POLAND,Europe/Warsaw,"Legia Tenis & Golf",sr:complex:59994
+sr:venue:18061,"Court 3",Gwangju,"KOREA, REPUBLIC OF",Asia/Seoul,"Jinwol International Tennis Court",sr:complex:39377
+sr:venue:18063,"Campo 5",Bogota,COLOMBIA,America/Bogota,"El Club el Carmel",sr:complex:39000
+sr:venue:1807,"Court 3",Warsaw,POLAND,Europe/Warsaw,"Legia Tenis & Golf",sr:complex:59994
+sr:venue:1809,"Court 6",Paris,FRANCE,Europe/Paris,"Stade Roland Garros",sr:complex:33192
+sr:venue:1810,"Court 7",Paris,FRANCE,Europe/Paris,"Stade Roland Garros",sr:complex:33192
+sr:venue:1811,"Court 8",Paris,FRANCE,Europe/Paris,"Stade Roland Garros",sr:complex:33192
+sr:venue:1812,"Court 9",Paris,FRANCE,Europe/Paris,"Stade Roland Garros",sr:complex:33192
+sr:venue:18127,"Court Cascais",Estoril,PORTUGAL,Europe/Lisbon,"Clube de Ténis do Estoril",sr:complex:38716
+sr:venue:18129,"Court Central",Rabat,MOROCCO,Africa/Casablanca,"Union Sportive des Cheminots du Maroc",sr:complex:38694
+sr:venue:1813,"Court 10",Paris,FRANCE,Europe/Paris,"Stade Roland Garros",sr:complex:33192
+sr:venue:18131,"Court 1",Rabat,MOROCCO,Africa/Casablanca,"Union Sportive des Cheminots du Maroc",sr:complex:38694
+sr:venue:18133,"Court 2",Rabat,MOROCCO,Africa/Casablanca,"Union Sportive des Cheminots du Maroc",sr:complex:38694
+sr:venue:18135,"Court 3",Rabat,MOROCCO,Africa/Casablanca,"Union Sportive des Cheminots du Maroc",sr:complex:38694
+sr:venue:1814,"Court 11",Paris,FRANCE,Europe/Paris,"Stade Roland Garros",sr:complex:33192
+sr:venue:18143,"Court 6",Estoril,PORTUGAL,Europe/Lisbon,"Clube de Ténis do Estoril",sr:complex:38716
+sr:venue:1815,"Court 12",Paris,FRANCE,Europe/Paris,"Stade Roland Garros",sr:complex:33192
+sr:venue:1816,"Court 13",Paris,FRANCE,Europe/Paris,"Stade Roland Garros",sr:complex:33192
+sr:venue:18161,"Court 1",Aix-en-Provence,FRANCE,Europe/Paris,"Country Club Aixois",sr:complex:63321
+sr:venue:18163,"Court 3",Aix-en-Provence,FRANCE,Europe/Paris,"Country Club Aixois",sr:complex:63321
+sr:venue:18165,Stadium,Busan,"KOREA, REPUBLIC OF",Asia/Seoul,"Spo1 Park",sr:complex:66785
+sr:venue:18169,"Campo 3",Rome,ITALY,Europe/Rome,"Tennis Club Garden",sr:complex:63247
+sr:venue:1817,"Court 14",Paris,FRANCE,Europe/Paris,"Stade Roland Garros",sr:complex:33192
+sr:venue:18173,"Campo 5",Rome,ITALY,Europe/Rome,"Tennis Club Garden",sr:complex:63247
+sr:venue:18175,"Estadio 3",Madrid,SPAIN,Europe/Madrid,"Madrid Arena",sr:complex:33436
+sr:venue:18177,"Court 5",Aix-en-Provence,FRANCE,Europe/Paris,"Country Club Aixois",sr:complex:63321
+sr:venue:1818,"Court 15",Paris,FRANCE,Europe/Paris,"Stade Roland Garros",sr:complex:33192
+sr:venue:18183,"Court Smart Trade",Aix-en-Provence,FRANCE,Europe/Paris,"Country Club Aixois",sr:complex:63321
+sr:venue:18185,"Court Nissan",Aix-en-Provence,FRANCE,Europe/Paris,"Country Club Aixois",sr:complex:63321
+sr:venue:1819,"Court 16",Paris,FRANCE,Europe/Paris,"Stade Roland Garros",sr:complex:33192
+sr:venue:18193,"Court Central Cepac",Aix-en-Provence,FRANCE,Europe/Paris,"Country Club Aixois",sr:complex:63321
+sr:venue:18197,"Court Patrice Dominguez",Bordeaux,FRANCE,Europe/Paris,"Villa Primrose",sr:complex:63407
+sr:venue:18199,"Court 2",Bordeaux,FRANCE,Europe/Paris,"Villa Primrose",sr:complex:63407
+sr:venue:18203,"Show Court 3",Nuremberg,GERMANY,Europe/Berlin,"Tennis Club 1.FCN",sr:complex:33280
+sr:venue:18205,"Court 5",Nuremberg,GERMANY,Europe/Berlin,"Tennis Club 1.FCN",sr:complex:33280
+sr:venue:18223,"Cedevita Court",Bol,CROATIA,Europe/Zagreb,"Bluesun Tennis Center",sr:complex:18221
+sr:venue:18225,"Cockta Court",Bol,CROATIA,Europe/Zagreb,"Bluesun Tennis Center",sr:complex:18221
+sr:venue:18227,"Kala Court",Bol,CROATIA,Europe/Zagreb,"Bluesun Tennis Center",sr:complex:18221
+sr:venue:18231,"Court 13",Lyon,FRANCE,Europe/Paris,"Tennis Club de Lyon",sr:complex:33390
+sr:venue:1826,"Court Philippe Chatrier",Paris,FRANCE,Europe/Paris,"Stade Roland Garros",sr:complex:33192
+sr:venue:1827,"Court Suzanne Lenglen",Paris,FRANCE,Europe/Paris,"Stade Roland Garros",sr:complex:33192
+sr:venue:1828,"Court 3",Paris,FRANCE,Europe/Paris,"Stade Roland Garros",sr:complex:33192
+sr:venue:1829,"Court 4",Paris,FRANCE,Europe/Paris,"Stade Roland Garros",sr:complex:33192
+sr:venue:1830,"Court 5",Paris,FRANCE,Europe/Paris,"Stade Roland Garros",sr:complex:33192
+sr:venue:18301,"Court 3",Ilkley,ENGLAND,Europe/London,"Ilkley Lawn Tennis and Squash Club",sr:complex:39870
+sr:venue:18303,"Center Court",Mallorca,SPAIN,Europe/Madrid,"Mallorca Country Club Santa Ponsa",sr:complex:33418
+sr:venue:18305,"Court 1",Mallorca,SPAIN,Europe/Madrid,"Mallorca Country Club Santa Ponsa",sr:complex:33418
+sr:venue:18307,"Court 2",Mallorca,SPAIN,Europe/Madrid,"Mallorca Country Club Santa Ponsa",sr:complex:33418
+sr:venue:18309,"Court 3",Mallorca,SPAIN,Europe/Madrid,"Mallorca Country Club Santa Ponsa",sr:complex:33418
+sr:venue:18311,"Indoor 4",Birmingham,ENGLAND,Europe/London,"Edgbaston Priory Club",sr:complex:33276
+sr:venue:18313,"Indoor 6",Birmingham,ENGLAND,Europe/London,"Edgbaston Priory Club",sr:complex:33276
+sr:venue:18315,"Indoor 2",Blois,FRANCE,Europe/Paris,"AAJB Tennis",sr:complex:39866
+sr:venue:18317,"Indoor 3",Blois,FRANCE,Europe/Paris,"AAJB Tennis",sr:complex:39866
+sr:venue:18319,"Court 6",Fergana,UZBEKISTAN,Asia/Tashkent,"Istiklol Tennis Club",sr:complex:39864
+sr:venue:18385,Grandstand,Bucharest,ROMANIA,Europe/Bucharest,"BNR arena",sr:complex:33366
+sr:venue:18387,"Court 7",Bucharest,ROMANIA,Europe/Bucharest,"BNR arena",sr:complex:33366
+sr:venue:18393,"Court 4",Winnipeg,CANADA,America/Chicago,"Winnipeg Lawn Tennis Club",sr:complex:65103
+sr:venue:18395,"Court 6",Winnipeg,CANADA,America/Chicago,"Winnipeg Lawn Tennis Club",sr:complex:65103
+sr:venue:18397,"Court 8",Winnipeg,CANADA,America/Chicago,"Winnipeg Lawn Tennis Club",sr:complex:65103
+sr:venue:18401,Stadium,Newport,"UNITED STATES",America/New_York,"International Tennis Hall of Fame",sr:complex:33210
+sr:venue:1843,"Court 1",Halle,GERMANY,Europe/Berlin,"OWL Arena",sr:complex:63933
+sr:venue:18439,"Court 4",Astana,KAZAKHSTAN,Asia/Almaty,"National Tennis Center",sr:complex:26985
+sr:venue:1844,"Court 2",Halle,GERMANY,Europe/Berlin,"OWL Arena",sr:complex:63933
+sr:venue:18449,"Indoor 1",Lexington,"UNITED STATES",America/New_York,"Hilary J. Boone Tennis Center",sr:complex:65205
+sr:venue:18451,"Indoor 2",Lexington,"UNITED STATES",America/New_York,"Hilary J. Boone Tennis Center",sr:complex:65205
+sr:venue:18459,"Indoor 4",Lexington,"UNITED STATES",America/New_York,"Hilary J. Boone Tennis Center",sr:complex:65205
+sr:venue:1846,"Court 1",London,ENGLAND,Europe/London,"All England Lawn Tennis and Croquet Club",sr:complex:33190
+sr:venue:18469,"Court 1",Chengdu,CHINA,Asia/Shanghai,"Sichuan International Tennis Center",sr:complex:33392
+sr:venue:18471,"Court 2",Chengdu,CHINA,Asia/Shanghai,"Sichuan International Tennis Center",sr:complex:33392
+sr:venue:18473,"Court 17",Chengdu,CHINA,Asia/Shanghai,"Sichuan International Tennis Center",sr:complex:33392
+sr:venue:1848,"Court 9",London,ENGLAND,Europe/London,"All England Lawn Tennis and Croquet Club",sr:complex:33190
+sr:venue:18481,"Court 16",Chengdu,CHINA,Asia/Shanghai,"Sichuan International Tennis Center",sr:complex:33392
+sr:venue:18489,"Court 18",Chengdu,CHINA,Asia/Shanghai,"Sichuan International Tennis Center",sr:complex:33392
+sr:venue:1849,"Court 10",London,ENGLAND,Europe/London,"All England Lawn Tennis and Croquet Club",sr:complex:33190
+sr:venue:1850,"Centre Court",Birmingham,ENGLAND,Europe/London,"Edgbaston Priory Club",sr:complex:33276
+sr:venue:18505,"Court 7","Rio de Janeiro",BRAZIL,Brazil/East,"Jockey Club Brasileiro",sr:complex:33296
+sr:venue:18507,"Court 8","Rio de Janeiro",BRAZIL,Brazil/East,"Jockey Club Brasileiro",sr:complex:33296
+sr:venue:18509,"Quadra 4","Rio de Janeiro",BRAZIL,Brazil/East,"Jockey Club Brasileiro",sr:complex:33296
+sr:venue:1851,"Court 1",Birmingham,ENGLAND,Europe/London,"Edgbaston Priory Club",sr:complex:33276
+sr:venue:1852,"Court 2",Birmingham,ENGLAND,Europe/London,"Edgbaston Priory Club",sr:complex:33276
+sr:venue:18529,Grandstand,"Los Cabos",MEXICO,America/Mexico_City,"Corredor Turistico SJC-CSL",sr:complex:72677
+sr:venue:1853,"Court 3",Birmingham,ENGLAND,Europe/London,"Edgbaston Priory Club",sr:complex:33276
+sr:venue:18531,"Court 1","Los Cabos",MEXICO,America/Mexico_City,"Cabo Sports Complex",sr:complex:59212
+sr:venue:18533,"P 1","Los Cabos",MEXICO,America/Mexico_City,"Delmar International School",sr:complex:39505
+sr:venue:1854,"Court 4",Birmingham,ENGLAND,Europe/London,"Edgbaston Priory Club",sr:complex:33276
+sr:venue:18547,Stadium,"Los Cabos",MEXICO,America/Mexico_City,"Delmar International School",sr:complex:39505
+sr:venue:1855,"Court 3",London,ENGLAND,Europe/London,"All England Lawn Tennis and Croquet Club",sr:complex:33190
+sr:venue:1856,"Court 12",London,ENGLAND,Europe/London,"All England Lawn Tennis and Croquet Club",sr:complex:33190
+sr:venue:18565,"Holcim Stadium 3",Cincinnati,"UNITED STATES",America/New_York,"Lindner Family Tennis Center",sr:complex:33268
+sr:venue:18579,"Court G","New Haven","UNITED STATES",America/New_York,"Connecticut Tennis Center",sr:complex:33258
+sr:venue:18581,"Court I","New Haven","UNITED STATES",America/New_York,"Connecticut Tennis Center",sr:complex:33258
+sr:venue:18587,"Court P6","New York","UNITED STATES",America/New_York,"Cary Leeds Center for Tennis & Learning",sr:complex:44124
+sr:venue:18611,"Quadra Pedro Amadeu",Curitiba,BRAZIL,Brazil/East,"Graciosa Country Club",sr:complex:74732
+sr:venue:18631,"Court 1",Shanghai,CHINA,Asia/Shanghai,"Qi Zhong Tennis Center",sr:complex:44518
+sr:venue:18633,"Court 2",Shanghai,CHINA,Asia/Shanghai,"Qi Zhong Tennis Center",sr:complex:44518
+sr:venue:18635,"Court 3",Shanghai,CHINA,Asia/Shanghai,"Qi Zhong Tennis Center",sr:complex:44518
+sr:venue:18665,"Court 12",Nanchang,CHINA,Asia/Shanghai,"National Sport Center Nanchang",sr:complex:44126
+sr:venue:18667,"Court 11",Nanchang,CHINA,Asia/Shanghai,"National Sport Center Nanchang",sr:complex:44126
+sr:venue:18683,"Indoor 3",Nanchang,CHINA,Asia/Shanghai,"National Sport Center Nanchang",sr:complex:44126
+sr:venue:18703,"Court 7",Sibiu,ROMANIA,Europe/Bucharest,"Tennis Club Pamira",sr:complex:60538
+sr:venue:18705,"Court Patrice Dominguez",Metz,FRANCE,Europe/Paris,"Les Arenes de Metz",sr:complex:44130
+sr:venue:1873,"Centre Court",'s-Hertogenbosch,NETHERLANDS,Europe/Brussels,"Autotron Rosmalen",sr:complex:33364
+sr:venue:18733,"Stadium Court",Chengdu,CHINA,Asia/Shanghai,"Sichuan International Tennis Center",sr:complex:33392
+sr:venue:18735,"Court 5",Tiburon,"UNITED STATES",America/Los_Angeles,"Tiburon Peninsula Club",sr:complex:34736
+sr:venue:1876,"Centre Court",Eastbourne,ENGLAND,Europe/London,"Devonshire Park Lawn Tennis Centre",sr:complex:33282
+sr:venue:1877,"Court 1",Eastbourne,ENGLAND,Europe/London,"Devonshire Park Lawn Tennis Centre",sr:complex:33282
+sr:venue:1878,"Court 2",Eastbourne,ENGLAND,Europe/London,"Devonshire Park Lawn Tennis Centre",sr:complex:33282
+sr:venue:1879,"Court 3",Eastbourne,ENGLAND,Europe/London,"Devonshire Park Lawn Tennis Centre",sr:complex:33282
+sr:venue:1880,"Court 4",Eastbourne,ENGLAND,Europe/London,"Devonshire Park Lawn Tennis Centre",sr:complex:33282
+sr:venue:1882,"Court 5",'s-Hertogenbosch,NETHERLANDS,Europe/Brussels,"Autotron Rosmalen",sr:complex:33364
+sr:venue:18825,"Quadra 4",Campinas,BRAZIL,Brazil/East,"Sociedade Hipica de Campinas",sr:complex:34814
+sr:venue:18827,"Court 1",Stockton,"UNITED STATES",America/Los_Angeles,"Eve Zimmermann Tennis Center",sr:complex:34816
+sr:venue:18829,"Court 2",Stockton,"UNITED STATES",America/Los_Angeles,"Eve Zimmermann Tennis Center",sr:complex:34816
+sr:venue:1883,"Court 6",'s-Hertogenbosch,NETHERLANDS,Europe/Brussels,"Autotron Rosmalen",sr:complex:33364
+sr:venue:18831,"Court 5",Stockton,"UNITED STATES",America/Los_Angeles,"Eve Zimmermann Tennis Center",sr:complex:34816
+sr:venue:18833,"Court 6",Stockton,"UNITED STATES",America/Los_Angeles,"Eve Zimmermann Tennis Center",sr:complex:34816
+sr:venue:18835,Stadium,Stockton,"UNITED STATES",America/Los_Angeles,"Eve Zimmermann Tennis Center",sr:complex:34816
+sr:venue:18837,"Court 3",Stockton,"UNITED STATES",America/Los_Angeles,"Eve Zimmermann Tennis Center",sr:complex:34816
+sr:venue:18839,"Court 4",Stockton,"UNITED STATES",America/Los_Angeles,"Eve Zimmermann Tennis Center",sr:complex:34816
+sr:venue:1884,"Court 4",London,ENGLAND,Europe/London,"All England Lawn Tennis and Croquet Club",sr:complex:33190
+sr:venue:1886,"Court 6",London,ENGLAND,Europe/London,"All England Lawn Tennis and Croquet Club",sr:complex:33190
+sr:venue:18868,"Eve Zimmerman Court",Fairfield,"UNITED STATES",America/New_York,"Solano Community College",sr:complex:47146
+sr:venue:1887,"Court 7",London,ENGLAND,Europe/London,"All England Lawn Tennis and Croquet Club",sr:complex:33190
+sr:venue:18870,"Court 6",Fairfield,"UNITED STATES",America/New_York,"Solano Community College",sr:complex:47146
+sr:venue:18872,"Court 7",Fairfield,"UNITED STATES",America/New_York,"Solano Community College",sr:complex:47146
+sr:venue:18876,"Show Court 1","Hong Kong","HONG KONG, CHINA",Asia/Hong_Kong,"Victoria Park Tennis Court",sr:complex:33246
+sr:venue:18878,"Show Court 2","Hong Kong","HONG KONG, CHINA",Asia/Hong_Kong,"Victoria Park Tennis Court",sr:complex:33246
+sr:venue:1888,"Court 8",London,ENGLAND,Europe/London,"All England Lawn Tennis and Croquet Club",sr:complex:33190
+sr:venue:1889,"Court 11",London,ENGLAND,Europe/London,"All England Lawn Tennis and Croquet Club",sr:complex:33190
+sr:venue:1890,"Court 13",London,ENGLAND,Europe/London,"All England Lawn Tennis and Croquet Club",sr:complex:33190
+sr:venue:1891,"Court 14",London,ENGLAND,Europe/London,"All England Lawn Tennis and Croquet Club",sr:complex:33190
+sr:venue:1892,"Court 15",London,ENGLAND,Europe/London,"All England Lawn Tennis and Croquet Club",sr:complex:33190
+sr:venue:1893,"Court 16",London,ENGLAND,Europe/London,"All England Lawn Tennis and Croquet Club",sr:complex:33190
+sr:venue:18934,"Indoor 2",Ningbo,CHINA,Asia/Shanghai,"Ningbo Tennis Center of WTA Ningbo, China w42",sr:complex:35236
+sr:venue:18936,"Indoor 3",Ningbo,CHINA,Asia/Shanghai,"Ningbo Tennis Center of WTA Ningbo, China w42",sr:complex:35236
+sr:venue:1894,"Court 18",London,ENGLAND,Europe/London,"All England Lawn Tennis and Croquet Club",sr:complex:33190
+sr:venue:18940,"Indoor 1",Ningbo,CHINA,Asia/Shanghai,"Ningbo Tennis Center of WTA Ningbo, China w42",sr:complex:35236
+sr:venue:18950,"Indoor 4",Ningbo,CHINA,Asia/Shanghai,"Ningbo Tennis Center of WTA Ningbo, China w42",sr:complex:35236
+sr:venue:18956,"Centre Court",Budapest,HUNGARY,Europe/Budapest,"National Tennis Center",sr:complex:38712
+sr:venue:18958,"Court 1",Budapest,HUNGARY,Europe/Budapest,"National Tennis Center",sr:complex:38712
+sr:venue:18984,"Court 10",Charlottesville,"UNITED STATES",America/New_York,"Boars Head Resort",sr:complex:35512
+sr:venue:18986,Estadio,Guayaquil,ECUADOR,America/Guayaquil,"Anexo Guayaquil Tennis Club",sr:complex:35516
+sr:venue:18988,"Cancha Raul Viver",Guayaquil,ECUADOR,America/Guayaquil,"Anexo Guayaquil Tennis Club",sr:complex:35516
+sr:venue:18990,"Cancha 1",Guayaquil,ECUADOR,America/Guayaquil,"Anexo Guayaquil Tennis Club",sr:complex:35516
+sr:venue:18992,"Cancha 2",Guayaquil,ECUADOR,America/Guayaquil,"Anexo Guayaquil Tennis Club",sr:complex:35516
+sr:venue:1900,"Court 17",London,ENGLAND,Europe/London,"All England Lawn Tennis and Croquet Club",sr:complex:33190
+sr:venue:19000,Stadium,Zhuhai,CHINA,Asia/Shanghai,"Hengqin International Tennis Center Zhuhai",sr:complex:33218
+sr:venue:19010,"Cancha Central",Bogota,COLOMBIA,America/Bogota,"Club Compensar Sede 220",sr:complex:74183
+sr:venue:19012,"Cancha 1",Bogota,COLOMBIA,America/Bogota,"Club Compensar Sede 220",sr:complex:74183
+sr:venue:19014,"Cancha 2",Bogota,COLOMBIA,America/Bogota,"Club Compensar Sede 220",sr:complex:74183
+sr:venue:1902,"Asboth Jozsef",Budapest,HUNGARY,Europe/Budapest,"SYMA Sports and Conference Centre",sr:complex:38193
+sr:venue:1903,"Court 4",Budapest,HUNGARY,Europe/Budapest,"National Tennis Center",sr:complex:38712
+sr:venue:1904,"Court 5",Budapest,HUNGARY,Europe/Budapest,"National Tennis Center",sr:complex:38712
+sr:venue:1905,"Court 6",Budapest,HUNGARY,Europe/Budapest,"National Tennis Center",sr:complex:38712
+sr:venue:1907,"Court 1",Bastad,SWEDEN,Europe/Stockholm,"Bastad Tennis Stadium",sr:complex:33350
+sr:venue:19070,"Centre Court",London,ENGLAND,Europe/London,"All England Lawn Tennis and Croquet Club",sr:complex:33190
+sr:venue:1908,"Court 2",Bastad,SWEDEN,Europe/Stockholm,"Bastad Tennis Stadium",sr:complex:33350
+sr:venue:1909,"Court 3",Bastad,SWEDEN,Europe/Stockholm,"Bastad Tennis Stadium",sr:complex:33350
+sr:venue:19098,"Court 5",Champaign,"UNITED STATES",America/Chicago,"Atkins Tennis Center",sr:complex:35692
+sr:venue:1910,Center,Newport,"UNITED STATES",America/New_York,"International Tennis Hall of Fame",sr:complex:33210
+sr:venue:1911,"Court 1",Newport,"UNITED STATES",America/New_York,"International Tennis Hall of Fame",sr:complex:33210
+sr:venue:1912,"Court 2",Newport,"UNITED STATES",America/New_York,"International Tennis Hall of Fame",sr:complex:33210
+sr:venue:1913,"Enbw Court",Stuttgart,GERMANY,Europe/Berlin,"TC Weissenhof, Stuttgart",sr:complex:38722
+sr:venue:1914,Grandstand,Stuttgart,GERMANY,Europe/Berlin,"TC Weissenhof, Stuttgart",sr:complex:38722
+sr:venue:19144,"Center Court",Honolulu,"UNITED STATES",Pacific/Honolulu,"Stan Sheriff Center",sr:complex:49319
+sr:venue:19146,"Court 1",Honolulu,"UNITED STATES",Pacific/Honolulu,"Stan Sheriff Center",sr:complex:49319
+sr:venue:1915,"Center Court",Palermo,ITALY,Europe/Rome,"Country Time Club",sr:complex:33446
+sr:venue:19150,"Court 6",Honolulu,"UNITED STATES",Pacific/Honolulu,"Stan Sheriff Center",sr:complex:49319
+sr:venue:1916,"Court 2",Palermo,ITALY,Europe/Rome,"Country Time Club",sr:complex:33446
+sr:venue:1917,"Court 6",Palermo,ITALY,Europe/Rome,"Country Time Club",sr:complex:33446
+sr:venue:1918,"Court 7",Palermo,ITALY,Europe/Rome,"Country Time Club",sr:complex:33446
+sr:venue:1920,"ECM Court",Prague,"CZECH REPUBLIC",Europe/Prague,"Tennis Club Sparta Praha",sr:complex:33286
+sr:venue:1921,"Court 2",Prague,"CZECH REPUBLIC",Europe/Prague,"I. Czech Lawn Tennis Club Praha",sr:complex:33460
+sr:venue:1922,"Court 4",Prague,"CZECH REPUBLIC",Europe/Prague,"I. Czech Lawn Tennis Club Praha",sr:complex:33460
+sr:venue:1924,"Stadium Court",Atlanta,"UNITED STATES",America/New_York,"Atlantic Station",sr:complex:33208
+sr:venue:1925,"Court 1",Atlanta,"UNITED STATES",America/New_York,"Atlantic Station",sr:complex:33208
+sr:venue:1926,"Court 2",Atlanta,"UNITED STATES",America/New_York,"Atlantic Station",sr:complex:33208
+sr:venue:1930,Centre,Portoroz,SLOVENIA,Europe/Ljubljana,"ŠRC MARINA PORTOROŽ",sr:complex:33448
+sr:venue:1931,"Court 1",Portoroz,SLOVENIA,Europe/Ljubljana,"ŠRC MARINA PORTOROŽ",sr:complex:33448
+sr:venue:1932,"Court 2",Portoroz,SLOVENIA,Europe/Ljubljana,"ŠRC MARINA PORTOROŽ",sr:complex:33448
+sr:venue:1933,"Center Court",Hamburg,GERMANY,Europe/Berlin,"Am Rothenbaum",sr:complex:64869
+sr:venue:1934,M1,Hamburg,GERMANY,Europe/Berlin,"Am Rothenbaum",sr:complex:64869
+sr:venue:1935,M2,Hamburg,GERMANY,Europe/Berlin,"Am Rothenbaum",sr:complex:64869
+sr:venue:1936,M3,Hamburg,GERMANY,Europe/Berlin,"Am Rothenbaum",sr:complex:64869
+sr:venue:19364,"Lotto RLP Court",Koblenz,GERMANY,Europe/Berlin,"EPG Arena",sr:complex:36573
+sr:venue:19366,"Court 1",Koblenz,GERMANY,Europe/Berlin,"EPG Arena",sr:complex:36573
+sr:venue:1938,"Roy Emerson Arena",Gstaad,SWITZERLAND,Europe/Zurich,"Roy Emerson Arena",sr:complex:21910
+sr:venue:1939,"Court 1",Gstaad,SWITZERLAND,Europe/Zurich,"Roy Emerson Arena",sr:complex:21910
+sr:venue:1940,"Center Court",Istanbul,TURKIYE,Europe/Istanbul,"TTF Istanbul Tenis Merkezi",sr:complex:63059
+sr:venue:1941,"Court A",Istanbul,TURKIYE,Europe/Istanbul,"TTF Istanbul Tenis Merkezi",sr:complex:63059
+sr:venue:19412,"Court 1",Burnie,AUSTRALIA,Australia/Tasmania,"Burnie Tennis Club",sr:complex:36785
+sr:venue:19414,"Court 3",Burnie,AUSTRALIA,Australia/Tasmania,"Burnie Tennis Club",sr:complex:36785
+sr:venue:19416,"Court 5",Burnie,AUSTRALIA,Australia/Tasmania,"Burnie Tennis Club",sr:complex:36785
+sr:venue:19418,"Court 1",Quimper,FRANCE,Europe/Paris,"Parc des Expositions Quimper Cornouaille",sr:complex:38045
+sr:venue:1942,"Court B",Istanbul,TURKIYE,Europe/Istanbul,"TTF Istanbul Tenis Merkezi",sr:complex:63059
+sr:venue:19420,"Court 2",Quimper,FRANCE,Europe/Paris,"Parc des Expositions Quimper Cornouaille",sr:complex:38045
+sr:venue:19422,"Cat Court",Burnie,AUSTRALIA,Australia/Tasmania,"Burnie Tennis Club",sr:complex:36785
+sr:venue:1943,"Goran Ivanisevic Stadium",Umag,CROATIA,Europe/Zagreb,"ATP Stadion Goran Ivanisevic",sr:complex:59214
+sr:venue:1944,Grandstand,Umag,CROATIA,Europe/Zagreb,"ATP Stadion Goran Ivanisevic",sr:complex:59214
+sr:venue:1945,"Court 1",Umag,CROATIA,Europe/Zagreb,"ATP Stadion Goran Ivanisevic",sr:complex:59214
+sr:venue:1946,"Court 2",Umag,CROATIA,Europe/Zagreb,"ATP Stadion Goran Ivanisevic",sr:complex:59214
+sr:venue:19465,"Court Guillermo Vilas","Buenos Aires",ARGENTINA,America/Argentina/Buenos_Aires,"Buenos Aires Lawn Tennis Club",sr:complex:33222
+sr:venue:19477,"Court Patrice Dominguez",Montpellier,FRANCE,Europe/Paris,"Arena Montpellier",sr:complex:6484
+sr:venue:1950,"Court 6",Stanford,"UNITED STATES",America/Los_Angeles,"Stanford Taube Tennis Center",sr:complex:73167
+sr:venue:1951,"Court C",Istanbul,TURKIYE,Europe/Istanbul,"TTF Istanbul Tenis Merkezi",sr:complex:63059
+sr:venue:19515,"Kormoczy Court",Budapest,HUNGARY,Europe/Budapest,"SYMA Sports and Conference Centre",sr:complex:38193
+sr:venue:19517,"Temesvari Court",Budapest,HUNGARY,Europe/Budapest,"SYMA Sports and Conference Centre",sr:complex:38193
+sr:venue:1953,"Sportzentrum 1",Gstaad,SWITZERLAND,Europe/Zurich,"Roy Emerson Arena",sr:complex:21910
+sr:venue:1954,"Court 4",Umag,CROATIA,Europe/Zagreb,"ATP Stadion Goran Ivanisevic",sr:complex:59214
+sr:venue:1956,Stadium,Washington,"UNITED STATES",America/New_York,"Fitzerald Tennis Center Rock Creek Park",sr:complex:39503
+sr:venue:1957,"John Harris Court",Washington,"UNITED STATES",America/New_York,"Fitzerald Tennis Center Rock Creek Park",sr:complex:39503
+sr:venue:1958,"Match Court 1",Washington,"UNITED STATES",America/New_York,"Fitzerald Tennis Center Rock Creek Park",sr:complex:39503
+sr:venue:19585,"Court 7",Yokohama,JAPAN,Asia/Tokyo,"Mamushidani Tennis Courts, Keio University",sr:complex:38421
+sr:venue:19597,"Court 6",Shenzhen,CHINA,Asia/Shanghai,"Shenzhen Luohu Tennis Centre",sr:complex:33408
+sr:venue:19599,"Court 8",Shenzhen,CHINA,Asia/Shanghai,"Shenzhen International Tennis Center",sr:complex:38603
+sr:venue:19601,"Cancha 1","Buenos Aires",ARGENTINA,America/Argentina/Buenos_Aires,"Buenos Aires Lawn Tennis Club",sr:complex:33222
+sr:venue:1962,"Match Court 2",Washington,"UNITED STATES",America/New_York,"Fitzerald Tennis Center Rock Creek Park",sr:complex:39503
+sr:venue:19629,"Cancha 2",Guadalajara,MEXICO,America/Mexico_City,"Centro Panamericano de Tenis",sr:complex:38680
+sr:venue:1969,Stadium,Toronto,CANADA,Canada/Eastern,"Sobeys Stadium",sr:complex:33266
+sr:venue:19691,"M.Chinnaswamy Stadium",Bangalore,INDIA,Asia/Kolkata,"Karnataka State Lawn Tennis Association",sr:complex:35688
+sr:venue:1970,"Rogers 5G Grandstand",Toronto,CANADA,Canada/Eastern,"Sobeys Stadium",sr:complex:33266
+sr:venue:19701,Central,"Sophia Antipolis",FRANCE,Europe/Paris,"Mouratoglou Tennis Academy",sr:complex:38884
+sr:venue:1971,"Court 1",Toronto,CANADA,Canada/Eastern,"Sobeys Stadium",sr:complex:33266
+sr:venue:1972,"Court 3",Toronto,CANADA,Canada/Eastern,"Sobeys Stadium",sr:complex:33266
+sr:venue:1973,"P&G Center Court",Cincinnati,"UNITED STATES",America/New_York,"Lindner Family Tennis Center",sr:complex:33268
+sr:venue:1974,"P&G Grandstand",Cincinnati,"UNITED STATES",America/New_York,"Lindner Family Tennis Center",sr:complex:33268
+sr:venue:1975,"Court 3",Cincinnati,"UNITED STATES",America/New_York,"Lindner Family Tennis Center",sr:complex:33268
+sr:venue:1976,"Court 4",Cincinnati,"UNITED STATES",America/New_York,"Lindner Family Tennis Center",sr:complex:33268
+sr:venue:1977,"Court 5",Cincinnati,"UNITED STATES",America/New_York,"Lindner Family Tennis Center",sr:complex:33268
+sr:venue:1982,"Center Court",Toronto,CANADA,Canada/Eastern,"Sobeys Stadium",sr:complex:33266
+sr:venue:1983,"Court 1",Cincinnati,"UNITED STATES",America/New_York,"Lindner Family Tennis Center",sr:complex:33268
+sr:venue:19881,"Center Court",Biel,SWITZERLAND,Europe/Zurich,"Jan Group Arena",sr:complex:60386
+sr:venue:1989,"Court 4",Toronto,CANADA,Canada/Eastern,"Sobeys Stadium",sr:complex:33266
+sr:venue:19897,"Centre Court",Zhengzhou,CHINA,Asia/Shanghai,"Center Plains Tennis Center",sr:complex:44128
+sr:venue:19899,"Court 1",Zhengzhou,CHINA,Asia/Shanghai,"Henan Provincial Sports Centre Stadium",sr:complex:53263
+sr:venue:19901,"Court 2",Zhengzhou,CHINA,Asia/Shanghai,"Henan Provincial Sports Centre Stadium",sr:complex:53263
+sr:venue:19903,"Court 3",Zhengzhou,CHINA,Asia/Shanghai,"Center Plains Tennis Center",sr:complex:44128
+sr:venue:19907,"Court 8",Sarasota,"UNITED STATES",America/New_York,"Payne Park Tennis Facility",sr:complex:62905
+sr:venue:19909,"Indoor 2",Zhengzhou,CHINA,Asia/Shanghai,"Center Plains Tennis Center",sr:complex:44128
+sr:venue:19911,"Indoor 3",Zhengzhou,CHINA,Asia/Shanghai,"Center Plains Tennis Center",sr:complex:44128
+sr:venue:19913,"Indoor 4",Zhengzhou,CHINA,Asia/Shanghai,"Center Plains Tennis Center",sr:complex:44128
+sr:venue:19917,"Court 1","Francavilla al Mare",ITALY,Europe/Rome,"Circolo Tennis Francavilla al Mare Sporting Club",sr:complex:63527
+sr:venue:19919,"Court 2","Francavilla al Mare",ITALY,Europe/Rome,"Circolo Tennis Francavilla al Mare Sporting Club",sr:complex:63527
+sr:venue:19921,"Court 3","Francavilla al Mare",ITALY,Europe/Rome,"Circolo Tennis Francavilla al Mare Sporting Club",sr:complex:63527
+sr:venue:19925,"Stadium Court",Tallahassee,"UNITED STATES",America/New_York,"Forestmeadows Tennis Center",sr:complex:63057
+sr:venue:19927,Grandstand,"Francavilla al Mare",ITALY,Europe/Rome,"Circolo Tennis Francavilla al Mare Sporting Club",sr:complex:63527
+sr:venue:19929,"Center Court","Francavilla al Mare",ITALY,Europe/Rome,"Circolo Tennis Francavilla al Mare Sporting Club",sr:complex:63527
+sr:venue:19933,"Court 2",Budapest,HUNGARY,Europe/Budapest,"National Tennis Center",sr:complex:38712
+sr:venue:1999,"Court Rogers",Montreal,CANADA,America/Toronto,"Stade Iga",sr:complex:39515
+sr:venue:2001,"Court 9",Montreal,CANADA,America/Toronto,"Stade Iga",sr:complex:39515
+sr:venue:2002,"Court 5",Montreal,CANADA,America/Toronto,"Stade Iga",sr:complex:39515
+sr:venue:20025,"Court 4",Busan,"KOREA, REPUBLIC OF",Asia/Seoul,"Spo1 Park",sr:complex:66785
+sr:venue:2003,"Court 2",Montreal,CANADA,America/Toronto,"Stade Iga",sr:complex:39515
+sr:venue:20031,"Court 15",Savannah,"UNITED STATES",America/New_York,"Franklin Creek Tennis Center",sr:complex:63249
+sr:venue:20037,"Court A",Strasbourg,FRANCE,Europe/Paris,"Tennis Club de Strasbourg",sr:complex:33274
+sr:venue:20039,"Court B",Strasbourg,FRANCE,Europe/Paris,"Tennis Club de Strasbourg",sr:complex:33274
+sr:venue:2004,"Court 10",Montreal,CANADA,America/Toronto,"Stade Iga",sr:complex:39515
+sr:venue:20041,"Court D",Strasbourg,FRANCE,Europe/Paris,"Tennis Club de Strasbourg",sr:complex:33274
+sr:venue:20045,"Court 11",Shymkent,KAZAKHSTAN,Asia/Almaty,"National Tennis Center",sr:complex:63427
+sr:venue:20047,"Court 8",Shymkent,KAZAKHSTAN,Asia/Almaty,"National Tennis Center",sr:complex:63427
+sr:venue:2005,"Court 6",Montreal,CANADA,America/Toronto,"Stade Iga",sr:complex:39515
+sr:venue:20053,"Court 7",Shymkent,KAZAKHSTAN,Asia/Almaty,"National Tennis Center",sr:complex:63427
+sr:venue:2006,"Court 7",Montreal,CANADA,America/Toronto,"Stade Iga",sr:complex:39515
+sr:venue:20225,"Alumni Hall",Fairfield,"UNITED STATES",America/New_York,"Solano Community College",sr:complex:47146
+sr:venue:2028,"Court Central",Montreal,CANADA,America/Toronto,"Stade Iga",sr:complex:39515
+sr:venue:2029,Stadium,Cincinnati,"UNITED STATES",America/New_York,"Lindner Family Tennis Center",sr:complex:33268
+sr:venue:2039,Stadium,"New Haven","UNITED STATES",America/New_York,"Connecticut Tennis Center",sr:complex:33258
+sr:venue:2040,"SportMaster Grandstand","New Haven","UNITED STATES",America/New_York,"Connecticut Tennis Center",sr:complex:33258
+sr:venue:2041,"Court 1","New Haven","UNITED STATES",America/New_York,"Connecticut Tennis Center",sr:complex:33258
+sr:venue:2042,"Court 2","New Haven","UNITED STATES",America/New_York,"Connecticut Tennis Center",sr:complex:33258
+sr:venue:2043,"Court 3","New Haven","UNITED STATES",America/New_York,"Connecticut Tennis Center",sr:complex:33258
+sr:venue:2051,"Court C","New Haven","UNITED STATES",America/New_York,"Connecticut Tennis Center",sr:complex:33258
+sr:venue:2053,"Court 18","New York","UNITED STATES",America/New_York,"Cary Leeds Center for Tennis & Learning",sr:complex:44124
+sr:venue:20749,"Campus Field",Fairfield,"UNITED STATES",America/New_York,"Solano Community College",sr:complex:47146
+sr:venue:2084,"Court 1",Tashkent,UZBEKISTAN,Asia/Tashkent,"Olympic Tennis School",sr:complex:44522
+sr:venue:2085,"Court 2",Tashkent,UZBEKISTAN,Asia/Tashkent,"Olympic Tennis School",sr:complex:44522
+sr:venue:2086,"Center Court",Bucharest,ROMANIA,Europe/Bucharest,"Tiriac Stadium",sr:complex:77389
+sr:venue:2087,"Court 1",Bucharest,ROMANIA,Europe/Bucharest,"National Tennis Center",sr:complex:60416
+sr:venue:2088,"Court 3",Metz,FRANCE,Europe/Paris,"Les Arenes de Metz",sr:complex:44130
+sr:venue:2102,Lotus,Beijing,CHINA,Asia/Shanghai,"National Tennis Center",sr:complex:46526
+sr:venue:2103,Moon,Beijing,CHINA,Asia/Shanghai,"National Tennis Center",sr:complex:46526
+sr:venue:2104,"Court 3",Beijing,CHINA,Asia/Shanghai,"National Tennis Center",sr:complex:46526
+sr:venue:2111,"Centre Court",Shanghai,CHINA,Asia/Shanghai,"Qi Zhong Tennis Center",sr:complex:44518
+sr:venue:2112,"Court 3",Osaka,JAPAN,Asia/Tokyo,"Utsubo Tennis Center",sr:complex:33254
+sr:venue:2113,"Court 6",Shanghai,CHINA,Asia/Shanghai,"Qi Zhong Tennis Center",sr:complex:44518
+sr:venue:21412,"INA Court",Bol,CROATIA,Europe/Zagreb,"Bluesun Tennis Center",sr:complex:18221
+sr:venue:21422,"Raiffeisen Court",Bol,CROATIA,Europe/Zagreb,"Bluesun Tennis Center",sr:complex:18221
+sr:venue:2146,"Court 1",Montpellier,FRANCE,Europe/Paris,"Arena Montpellier",sr:complex:6484
+sr:venue:21560,"Estadio CIF",Lisbon,PORTUGAL,Europe/Lisbon,"Club Internacional de Foot-ball",sr:complex:39383
+sr:venue:21562,"Court Lisboa",Lisbon,PORTUGAL,Europe/Lisbon,"Club Internacional de Foot-ball",sr:complex:39383
+sr:venue:21564,"Court Belem",Lisbon,PORTUGAL,Europe/Lisbon,"Club Internacional de Foot-ball",sr:complex:39383
+sr:venue:21566,"Court 5",Lisbon,PORTUGAL,Europe/Lisbon,"Club Internacional de Foot-ball",sr:complex:39383
+sr:venue:21568,"Court Sopra Steria",Lyon,FRANCE,Europe/Paris,"Tennis Club de Lyon",sr:complex:33390
+sr:venue:21570,"Court 3",Lyon,FRANCE,Europe/Paris,"Parc De La TeTe D'or",sr:complex:38720
+sr:venue:21572,"Court 5",Nottingham,ENGLAND,Europe/London,"Nottingham Tennis Centre",sr:complex:33348
+sr:venue:21620,"Centre Court",Todi,ITALY,Europe/Rome,"Tennis Club Todi 1971",sr:complex:59096
+sr:venue:21624,"Court Central",Mallorca,SPAIN,Europe/Madrid,"Mallorca Country Club Santa Ponsa",sr:complex:33418
+sr:venue:21626,"Pista 3",Mallorca,SPAIN,Europe/Madrid,"Mallorca Country Club Santa Ponsa",sr:complex:33418
+sr:venue:21628,"Pista 2",Mallorca,SPAIN,Europe/Madrid,"Mallorca Country Club Santa Ponsa",sr:complex:33418
+sr:venue:21630,"Pista 1",Mallorca,SPAIN,Europe/Madrid,"Mallorca Country Club Santa Ponsa",sr:complex:33418
+sr:venue:21634,"Court 2",London,ENGLAND,Europe/London,"All England Lawn Tennis and Croquet Club",sr:complex:33190
+sr:venue:21642,"Court 5",London,ENGLAND,Europe/London,"All England Lawn Tennis and Croquet Club",sr:complex:33190
+sr:venue:21712,"Alaaddin Karagoz",Antalya,TURKIYE,Europe/Istanbul,"Kaya Palazzo Belek",sr:complex:39493
+sr:venue:21714,"Duygu Aksit Oal",Antalya,TURKIYE,Europe/Istanbul,"Kaya Palazzo Belek",sr:complex:39493
+sr:venue:21754,"Center Court",Antalya,TURKIYE,Europe/Istanbul,"Megasaray Tennis Academy",sr:complex:61645
+sr:venue:21760,"Court 14",Milan,ITALY,Europe/Rome,"Palalido Allianz Cloud",sr:complex:47893
+sr:venue:21808,"Court 12",Braunschweig,GERMANY,Europe/Berlin,"Braunschweiger Tennis und Hockeyclub",sr:complex:59008
+sr:venue:21852,"Court 6",Bucharest,ROMANIA,Europe/Bucharest,"BNR arena",sr:complex:33366
+sr:venue:21864,"Center Court 1",Newport,"UNITED STATES",America/New_York,"International Tennis Hall of Fame",sr:complex:33210
+sr:venue:21866,"Center Court 2",Newport,"UNITED STATES",America/New_York,"International Tennis Hall of Fame",sr:complex:33210
+sr:venue:21868,"Next Gen Arena",Umag,CROATIA,Europe/Zagreb,"Stadium Goran Ivanisevic in ITC Stella Maris",sr:complex:21870
+sr:venue:21874,"Centre Court",Bastad,SWEDEN,Europe/Stockholm,"Bastad Tennis Stadium",sr:complex:33350
+sr:venue:21950,"Center Court","Los Cabos",MEXICO,America/Mexico_City,"Delmar International School",sr:complex:39505
+sr:venue:21964,Kaps,Kitzbuhel,AUSTRIA,Europe/Vienna,"Kitzbühel Tennis Club Sportfeld 2",sr:complex:33342
+sr:venue:21980,"Court 1",Porto,PORTUGAL,Europe/Lisbon,"Complexo Tenis Monte Aventino",sr:complex:58874
+sr:venue:2199,"Court 10",Brisbane,AUSTRALIA,Australia/Brisbane,"Queensland Tennis Centre",sr:complex:33336
+sr:venue:21990,"Court 1",Nonthaburi,THAILAND,Asia/Bangkok,"The Lawn Tennis Association of Thailand",sr:complex:62401
+sr:venue:2200,"Court 14",Brisbane,AUSTRALIA,Australia/Brisbane,"Queensland Tennis Centre",sr:complex:33336
+sr:venue:22030,"Court A",Nonthaburi,THAILAND,Asia/Bangkok,"The Lawn Tennis Association of Thailand",sr:complex:62401
+sr:venue:22050,"Court 8",Nonthaburi,THAILAND,Asia/Bangkok,"The Lawn Tennis Association of Thailand",sr:complex:62401
+sr:venue:22088,"Court 2",Porto,PORTUGAL,Europe/Lisbon,"Complexo Tenis Monte Aventino",sr:complex:58874
+sr:venue:2209,"Court 8",Auckland,"NEW ZEALAND",Pacific/Auckland,"Manuka Doctor Arena",sr:complex:36493
+sr:venue:2210,"Center Court",Sydney,AUSTRALIA,Australia/Sydney,"Olympic Park Tennis Center",sr:complex:33244
+sr:venue:22122,"Court 3",Segovia,SPAIN,Europe/Madrid,"Complejo Deportivo Pedro Muñoz",sr:complex:72533
+sr:venue:22164,"Court 2",Lexington,"UNITED STATES",America/New_York,"TOP SEED TENNIS CLUB",sr:complex:52665
+sr:venue:22188,P2,"Los Cabos",MEXICO,America/Mexico_City,"Delmar International School",sr:complex:39505
+sr:venue:22192,"Court 3",Nonthaburi,THAILAND,Asia/Bangkok,"The Lawn Tennis Association of Thailand",sr:complex:62401
+sr:venue:22296,"Court 4","Las Palmas de Gran Canaria",SPAIN,Europe/Madrid,"Tennis Academy El Cortijo Club De Campo",sr:complex:62321
+sr:venue:22298,"Court 5","Las Palmas de Gran Canaria",SPAIN,Europe/Madrid,"Tennis Academy El Cortijo Club De Campo",sr:complex:62321
+sr:venue:2233,"Cancha 14",Santiago,CHILE,America/Santiago,"Club Manquehue de Vitacura",sr:complex:62419
+sr:venue:2234,"Cancha 16",Santiago,CHILE,America/Santiago,"Club Manquehue de Vitacura",sr:complex:62419
+sr:venue:2235,"Cancha 17",Santiago,CHILE,America/Santiago,"Club Manquehue de Vitacura",sr:complex:62419
+sr:venue:22362,"Court A",Portoroz,SLOVENIA,Europe/Ljubljana,"ŠRC MARINA PORTOROŽ",sr:complex:33448
+sr:venue:22388,"Court 8",Bratislava,SLOVAKIA,Europe/Bratislava,"NTC Arena",sr:complex:39872

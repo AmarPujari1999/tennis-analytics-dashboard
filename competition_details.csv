@@ -1,0 +1,1001 @@
+competition_id,competition_name,parent_id,type,gender,category_name,category_id
+sr:competition:12229,IPTL,,singles,men,IPTL,sr:category:1012
+sr:competition:14814,"Juniors AO, Melbourne, Australia Men Singles",sr:competition:14812,singles,men,Juniors,sr:category:1474
+sr:competition:14816,"Juniors AO, Melbourne, Australia Men Doubles",sr:competition:14812,doubles,men,Juniors,sr:category:1474
+sr:competition:14818,"Juniors AO, Melbourne, Australia Women Singles",sr:competition:14812,singles,women,Juniors,sr:category:1474
+sr:competition:14820,"Juniors AO, Melbourne, Australia Women Doubles",sr:competition:14812,doubles,women,Juniors,sr:category:1474
+sr:competition:15399,"Juniors French Open, Paris, France Men Singles",sr:competition:15397,singles,men,Juniors,sr:category:1474
+sr:competition:15401,"Juniors French Open, Paris, France Men Doubles",sr:competition:15397,doubles,men,Juniors,sr:category:1474
+sr:competition:15403,"Juniors French Open, Paris, France Women Singles",sr:competition:15397,singles,women,Juniors,sr:category:1474
+sr:competition:15405,"Juniors French Open, Paris, France Women Doubles",sr:competition:15397,doubles,women,Juniors,sr:category:1474
+sr:competition:15660,"Juniors Wimbledon, London, GB Women Singles",sr:competition:15658,singles,women,Juniors,sr:category:1474
+sr:competition:15678,"Juniors Wimbledon, London, GB Men Singles",sr:competition:15658,singles,men,Juniors,sr:category:1474
+sr:competition:15680,"Juniors Wimbledon, London, GB Men Doubles",sr:competition:15658,doubles,men,Juniors,sr:category:1474
+sr:competition:15682,"Juniors Wimbledon, London, GB Women Doubles",sr:competition:15658,doubles,women,Juniors,sr:category:1474
+sr:competition:18032,"Juniors US Open, New York, USA Men Singles",sr:competition:18030,singles,men,Juniors,sr:category:1474
+sr:competition:18034,"Juniors US Open, New York, USA Men Doubles",sr:competition:18030,doubles,men,Juniors,sr:category:1474
+sr:competition:18036,"Juniors US Open, New York, USA Women Singles",sr:competition:18030,singles,women,Juniors,sr:category:1474
+sr:competition:18038,"Juniors US Open, New York, USA Women Doubles",sr:competition:18030,doubles,women,Juniors,sr:category:1474
+sr:competition:14834,"Legends AO, Melbourne, Australia Men Doubles",sr:competition:14832,doubles,men,Legends,sr:category:1475
+sr:competition:14854,"Legends AO, Melbourne, Australia Women Doubles",sr:competition:14832,doubles,women,Legends,sr:category:1475
+sr:competition:15419,"Legends French Open, Paris, France Men Doubles",sr:competition:15417,doubles,men,Legends,sr:category:1475
+sr:competition:15421,"Legends French Open, Paris, France Women Doubles",sr:competition:15417,doubles,women,Legends,sr:category:1475
+sr:competition:15664,"Legends Wimbledon, London, GB Men Doubles",sr:competition:15662,doubles,men,Legends,sr:category:1475
+sr:competition:15666,"Legends Wimbledon, London, GB Women Doubles",sr:competition:15662,doubles,women,Legends,sr:category:1475
+sr:competition:18058,"Legends US Open, New York, USA Men Doubles",sr:competition:18056,doubles,men,Legends,sr:category:1475
+sr:competition:18060,"Legends US Open, New York, USA Women Doubles",sr:competition:18056,doubles,women,Legends,sr:category:1475
+sr:competition:36137,"Legends Australian Open, Melbourne, Australia, Mixed Doubles",sr:competition:14832,mixed_doubles,mixed,Legends,sr:category:1475
+sr:competition:37319,"Legends Wimbledon, London, Great Britain Mixed Doubles",sr:competition:15662,mixed_doubles,mixed,Legends,sr:category:1475
+sr:competition:40069,"Legends French Open, Paris, France Mixed Doubles",sr:competition:15417,mixed_doubles,mixed,Legends,sr:category:1475
+sr:competition:14824,"Wheelchairs AO, Melbourne, Australia Men Singles",sr:competition:14822,singles,men,Wheelchairs,sr:category:1476
+sr:competition:14826,"Wheelchairs AO, Melbourne, Australia Men Doubles",sr:competition:14822,doubles,men,Wheelchairs,sr:category:1476
+sr:competition:14828,"Wheelchairs AO, Melbourne, Australia Women Singles",sr:competition:14822,singles,women,Wheelchairs,sr:category:1476
+sr:competition:14830,"Wheelchairs AO, Melbourne, Australia Women Doubles",sr:competition:14822,doubles,women,Wheelchairs,sr:category:1476
+sr:competition:15409,"Wheelchairs French Open, Paris, France Men Singles",sr:competition:15407,singles,men,Wheelchairs,sr:category:1476
+sr:competition:15411,"Wheelchairs French Open, Paris, France Men Doubles",sr:competition:15407,doubles,men,Wheelchairs,sr:category:1476
+sr:competition:15413,"Wheelchairs French Open, Paris, France Women Singles",sr:competition:15407,singles,women,Wheelchairs,sr:category:1476
+sr:competition:15415,"Wheelchairs French Open, Paris, France Women Doubles",sr:competition:15407,doubles,women,Wheelchairs,sr:category:1476
+sr:competition:15670,"Wheelchairs Wimbledon, London, GB Men Singles",sr:competition:15668,singles,men,Wheelchairs,sr:category:1476
+sr:competition:15672,"Wheelchairs Wimbledon, London, GB Men Doubles",sr:competition:15668,doubles,men,Wheelchairs,sr:category:1476
+sr:competition:15674,"Wheelchairs Wimbledon, London, GB Women Singles",sr:competition:15668,singles,women,Wheelchairs,sr:category:1476
+sr:competition:15676,"Wheelchairs Wimbledon, London, GB Women Doubles",sr:competition:15668,doubles,women,Wheelchairs,sr:category:1476
+sr:competition:18048,"Wheelchairs US Open, New York, USA Men Singles",sr:competition:18046,singles,men,Wheelchairs,sr:category:1476
+sr:competition:18050,"Wheelchairs US Open, New York, USA Men Doubles",sr:competition:18046,doubles,men,Wheelchairs,sr:category:1476
+sr:competition:18052,"Wheelchairs US Open, New York, USA Women Singles",sr:competition:18046,singles,women,Wheelchairs,sr:category:1476
+sr:competition:18054,"Wheelchairs US Open, New York, USA Women Doubles",sr:competition:18046,doubles,women,Wheelchairs,sr:category:1476
+sr:competition:620,"Hopman Cup",,mixed,mixed,"Hopman Cup",sr:category:181
+sr:competition:10181,"ITF Women Campos Do Jordao, Brazil Women Singles",sr:competition:10179,singles,women,"ITF Women",sr:category:213
+sr:competition:10183,"ITF Women Campos Do Jordao, Brazil Women Doubles",sr:competition:10179,doubles,women,"ITF Women",sr:category:213
+sr:competition:10421,"ITF Women Brcko, Bosnia & Herzegovina Women Singles",sr:competition:10419,singles,women,"ITF Women",sr:category:213
+sr:competition:10423,"ITF Women Brcko, Bosnia & Herzegovina Women Doubles",sr:competition:10419,doubles,women,"ITF Women",sr:category:213
+sr:competition:10757,"ITF Women Albena, Bulgaria Women Singles",sr:competition:10755,singles,women,"ITF Women",sr:category:213
+sr:competition:10759,"ITF Women Albena, Bulgaria Women Doubles",sr:competition:10755,doubles,women,"ITF Women",sr:category:213
+sr:competition:11051,"ITF Women Monterrey, Mexico Women Singles",sr:competition:11049,singles,women,"ITF Women",sr:category:213
+sr:competition:11053,"ITF Women Monterrey, Mexico Women Doubles",sr:competition:11049,doubles,women,"ITF Women",sr:category:213
+sr:competition:11081,"ITF Women Duino Aurisina, Italy Women Singles",sr:competition:11079,singles,women,"ITF Women",sr:category:213
+sr:competition:11083,"ITF Women Duino Aurisina, Italy Women Doubles",sr:competition:11079,doubles,women,"ITF Women",sr:category:213
+sr:competition:11403,"ITF Women Melbourne, Australia Women Singles",sr:competition:11401,singles,women,"ITF Women",sr:category:213
+sr:competition:11405,"ITF Women Melbourne, Australia Women Doubles",sr:competition:11401,doubles,women,"ITF Women",sr:category:213
+sr:competition:11913,"ITF Women Santa Fe, Argentina Women Singles",sr:competition:11911,singles,women,"ITF Women",sr:category:213
+sr:competition:11915,"ITF Women Santa Fe, Argentina Women Doubles",sr:competition:11911,doubles,women,"ITF Women",sr:category:213
+sr:competition:12663,"ITF Women Eastbourne, Great Britain Women Singles",sr:competition:12661,singles,women,"ITF Women",sr:category:213
+sr:competition:12665,"ITF Women Eastbourne, Great Britain Women Doubles",sr:competition:12661,doubles,women,"ITF Women",sr:category:213
+sr:competition:12723,"ITF Women Grand Baie La Croisette, Mauritius Women Singles",sr:competition:12721,singles,women,"ITF Women",sr:category:213
+sr:competition:12725,"ITF Women Grand Baie La Croisette, Mauritius Women Doubles",sr:competition:12721,doubles,women,"ITF Women",sr:category:213
+sr:competition:12741,"ITF Women Baton Rouge, USA Women Singles",sr:competition:12739,singles,women,"ITF Women",sr:category:213
+sr:competition:12743,"ITF Women Baton Rouge, USA Women Doubles",sr:competition:12739,doubles,women,"ITF Women",sr:category:213
+sr:competition:12747,"ITF Women Kaohsiung, Chinese Taipei Women Singles",sr:competition:12745,singles,women,"ITF Women",sr:category:213
+sr:competition:12749,"ITF Women Kaohsiung, Chinese Taipei Women Doubles",sr:competition:12745,doubles,women,"ITF Women",sr:category:213
+sr:competition:12819,"ITF Women Bursa, Turkey Women Singles",sr:competition:12817,singles,women,"ITF Women",sr:category:213
+sr:competition:12821,"ITF Women Bursa, Turkey Women Doubles",sr:competition:12817,doubles,women,"ITF Women",sr:category:213
+sr:competition:12975,"ITF Women Graz, Austria Women Singles",sr:competition:12973,singles,women,"ITF Women",sr:category:213
+sr:competition:12977,"ITF Women Graz, Austria Women Doubles",sr:competition:12973,doubles,women,"ITF Women",sr:category:213
+sr:competition:12981,"ITF Women Koper, Slovenia Women Singles",sr:competition:12979,singles,women,"ITF Women",sr:category:213
+sr:competition:12983,"ITF Women Koper, Slovenia Women Doubles",sr:competition:12979,doubles,women,"ITF Women",sr:category:213
+sr:competition:12987,"ITF Women Cakovec, Croatia Women Singles",sr:competition:12985,singles,women,"ITF Women",sr:category:213
+sr:competition:12989,"ITF Women Cakovec, Croatia Women Doubles",sr:competition:12985,doubles,women,"ITF Women",sr:category:213
+sr:competition:12999,"ITF Women Kiryat Gat, Israel Women Singles",sr:competition:12997,singles,women,"ITF Women",sr:category:213
+sr:competition:13001,"ITF Women Kiryat Gat, Israel Women Doubles",sr:competition:12997,doubles,women,"ITF Women",sr:category:213
+sr:competition:13035,"ITF Women Tiberias, Israel Women Singles",sr:competition:13033,singles,women,"ITF Women",sr:category:213
+sr:competition:13037,"ITF Women Tiberias, Israel Women Doubles",sr:competition:13033,doubles,women,"ITF Women",sr:category:213
+sr:competition:13047,"ITF Women San Carlos, Argentina Women Singles",sr:competition:13045,singles,women,"ITF Women",sr:category:213
+sr:competition:13049,"ITF Women San Carlos, Argentina Women Doubles",sr:competition:13045,doubles,women,"ITF Women",sr:category:213
+sr:competition:13101,"ITF Women Kirkland, USA Women Singles",sr:competition:13099,singles,women,"ITF Women",sr:category:213
+sr:competition:13103,"ITF Women Kirkland, USA Women Doubles",sr:competition:13099,doubles,women,"ITF Women",sr:category:213
+sr:competition:13191,"ITF Women Raipur, India Women Singles",sr:competition:13189,singles,women,"ITF Women",sr:category:213
+sr:competition:13193,"ITF Women Raipur, India Women Doubles",sr:competition:13189,doubles,women,"ITF Women",sr:category:213
+sr:competition:13251,"ITF Women Bratislava, Slovakia Women Singles",sr:competition:13249,singles,women,"ITF Women",sr:category:213
+sr:competition:13253,"ITF Women Bratislava, Slovakia Women Doubles",sr:competition:13249,doubles,women,"ITF Women",sr:category:213
+sr:competition:13269,"ITF Women Gulbarga, India Women Singles",sr:competition:13267,singles,women,"ITF Women",sr:category:213
+sr:competition:13271,"ITF Women Gulbarga, India Women Doubles",sr:competition:13267,doubles,women,"ITF Women",sr:category:213
+sr:competition:13281,"ITF Women Tel Aviv-Ramat Gan, Israel Women Singles",sr:competition:13279,singles,women,"ITF Women",sr:category:213
+sr:competition:13283,"ITF Women Tel Aviv-Ramat Gan, Israel Women Doubles",sr:competition:13279,doubles,women,"ITF Women",sr:category:213
+sr:competition:13317,"ITF Women Indore, India Women Singles",sr:competition:13315,singles,women,"ITF Women",sr:category:213
+sr:competition:13319,"ITF Women Indore, India Women Doubles",sr:competition:13315,doubles,women,"ITF Women",sr:category:213
+sr:competition:13413,"ITF Djibouti 02A, Women Singles",sr:competition:13411,singles,women,"ITF Women",sr:category:213
+sr:competition:13415,"ITF Djibouti 02A, Women Doubles",sr:competition:13411,doubles,women,"ITF Women",sr:category:213
+sr:competition:13437,"ITF USA 04A, Women Singles",sr:competition:13435,singles,women,"ITF Women",sr:category:213
+sr:competition:13439,"ITF USA 04A, Women Doubles",sr:competition:13435,doubles,women,"ITF Women",sr:category:213
+sr:competition:13557,"ITF Hong Kong 04A, Women Singles",sr:competition:13555,singles,women,"ITF Women",sr:category:213
+sr:competition:13559,"ITF Hong Kong 04A, Women Doubles",sr:competition:13555,doubles,women,"ITF Women",sr:category:213
+sr:competition:13587,"ITF Women Lins, Brazil Women Singles",sr:competition:13585,singles,women,"ITF Women",sr:category:213
+sr:competition:13589,"ITF Women Lins, Brazil Women Doubles",sr:competition:13585,doubles,women,"ITF Women",sr:category:213
+sr:competition:13599,"ITF Women Bauru, Brazil Women Singles",sr:competition:13597,singles,women,"ITF Women",sr:category:213
+sr:competition:13601,"ITF Women Bauru, Brazil Women Doubles",sr:competition:13597,doubles,women,"ITF Women",sr:category:213
+sr:competition:13605,"ITF Georgia 02A, Women Singles",sr:competition:13603,singles,women,"ITF Women",sr:category:213
+sr:competition:13607,"ITF Georgia 02A, Women Doubles",sr:competition:13603,doubles,women,"ITF Women",sr:category:213
+sr:competition:13611,"ITF Russia 07A, Women Singles",sr:competition:13609,singles,women,"ITF Women",sr:category:213
+sr:competition:13613,"ITF Russia 07A, Women Doubles",sr:competition:13609,doubles,women,"ITF Women",sr:category:213
+sr:competition:13617,"ITF Hungary 03A, Women Singles",sr:competition:13615,singles,women,"ITF Women",sr:category:213
+sr:competition:13619,"ITF Hungary 03A, Women Doubles",sr:competition:13615,doubles,women,"ITF Women",sr:category:213
+sr:competition:13623,"ITF Spain 05A, Women Doubles",sr:competition:13621,doubles,women,"ITF Women",sr:category:213
+sr:competition:13625,"ITF Spain 05A, Women Singles",sr:competition:13621,singles,women,"ITF Women",sr:category:213
+sr:competition:13703,"ITF Spain 07A, Women Singles",sr:competition:13701,singles,women,"ITF Women",sr:category:213
+sr:competition:13705,"ITF Spain 07A, Women Doubles",sr:competition:13701,doubles,women,"ITF Women",sr:category:213
+sr:competition:13709,"ITF Women Baku, Azerbaijan Women Singles",sr:competition:13707,singles,women,"ITF Women",sr:category:213
+sr:competition:13711,"ITF Women Baku, Azerbaijan Women Doubles",sr:competition:13707,doubles,women,"ITF Women",sr:category:213
+sr:competition:13749,"ITF Israel 03A, Women Singles",sr:competition:13747,singles,women,"ITF Women",sr:category:213
+sr:competition:13751,"ITF Israel 03A, Women Doubles",sr:competition:13747,doubles,women,"ITF Women",sr:category:213
+sr:competition:13819,"ITF Hungary 05A, Women Singles",sr:competition:13817,singles,women,"ITF Women",sr:category:213
+sr:competition:13821,"ITF Hungary 05A, Women Doubles",sr:competition:13817,doubles,women,"ITF Women",sr:category:213
+sr:competition:13825,"ITF Italy 15A, Women Singles",sr:competition:13823,singles,women,"ITF Women",sr:category:213
+sr:competition:13827,"ITF Italy 15A, Women Doubles",sr:competition:13823,doubles,women,"ITF Women",sr:category:213
+sr:competition:13831,"ITF Portugal 03A, Women Singles",sr:competition:13829,singles,women,"ITF Women",sr:category:213
+sr:competition:13833,"ITF Portugal 03A, Women Doubles",sr:competition:13829,doubles,women,"ITF Women",sr:category:213
+sr:competition:13873,"ITF Germany 06A, Women Singles",sr:competition:13871,singles,women,"ITF Women",sr:category:213
+sr:competition:13875,"ITF Germany 06A, Women Doubles",sr:competition:13871,doubles,women,"ITF Women",sr:category:213
+sr:competition:13929,"ITF Portugal 19A, Women Singles",sr:competition:13927,singles,women,"ITF Women",sr:category:213
+sr:competition:13931,"ITF Portugal 19A, Women Doubles",sr:competition:13927,doubles,women,"ITF Women",sr:category:213
+sr:competition:13959,"ITF China 15A, Women Singles",sr:competition:13957,singles,women,"ITF Women",sr:category:213
+sr:competition:13961,"ITF China 15A, Women Doubles",sr:competition:13957,doubles,women,"ITF Women",sr:category:213
+sr:competition:13991,"ITF Spain 09A, Women Singles",sr:competition:13989,singles,women,"ITF Women",sr:category:213
+sr:competition:13993,"ITF Spain 09A, Women Doubles",sr:competition:13989,doubles,women,"ITF Women",sr:category:213
+sr:competition:14023,"ITF Women Malatya, Turkey Women Singles",sr:competition:14021,singles,women,"ITF Women",sr:category:213
+sr:competition:14025,"ITF Women Malatya, Turkey Women Doubles",sr:competition:14021,doubles,women,"ITF Women",sr:category:213
+sr:competition:14171,"ITF Women Slovenska Lupca, Slovakia Women Singles",sr:competition:14169,singles,women,"ITF Women",sr:category:213
+sr:competition:14173,"ITF Women Slovenska Lupca, Slovakia Women Doubles",sr:competition:14169,doubles,women,"ITF Women",sr:category:213
+sr:competition:14275,"ITF Women Schoonhoven, Netherlands Women Singles",sr:competition:14273,singles,women,"ITF Women",sr:category:213
+sr:competition:14277,"ITF Women Schoonhoven, Netherlands Women Doubles",sr:competition:14273,doubles,women,"ITF Women",sr:category:213
+sr:competition:14387,"ITF Women Stillwater, USA Women Singles",sr:competition:14385,singles,women,"ITF Women",sr:category:213
+sr:competition:14389,"ITF Women Stillwater, USA Women Doubles",sr:competition:14385,doubles,women,"ITF Women",sr:category:213
+sr:competition:14399,"ITF Israel 06A, Women Singles",sr:competition:14397,singles,women,"ITF Women",sr:category:213
+sr:competition:14401,"ITF Israel 06A, Women Doubles",sr:competition:14397,doubles,women,"ITF Women",sr:category:213
+sr:competition:14405,"ITF Women Chisinau, Moldova Women Singles",sr:competition:14403,singles,women,"ITF Women",sr:category:213
+sr:competition:14407,"ITF Women Chisinau, Moldova Women Doubles",sr:competition:14403,doubles,women,"ITF Women",sr:category:213
+sr:competition:14431,"ITF Portugal 07A, Women Doubles",sr:competition:16894,doubles,women,"ITF Women",sr:category:213
+sr:competition:14433,"ITF Portugal 11A, Women Singles",sr:competition:16718,singles,women,"ITF Women",sr:category:213
+sr:competition:14435,"ITF Portugal 11A, Women Doubles",sr:competition:16718,doubles,women,"ITF Women",sr:category:213
+sr:competition:14504,"ITF China 23A, Women Singles",sr:competition:14502,singles,women,"ITF Women",sr:category:213
+sr:competition:14506,"ITF China 23A, Women Doubles",sr:competition:14502,doubles,women,"ITF Women",sr:category:213
+sr:competition:14510,"ITF China 24A, Women Singles",sr:competition:14508,singles,women,"ITF Women",sr:category:213
+sr:competition:14512,"ITF China 24A, Women Doubles",sr:competition:14508,doubles,women,"ITF Women",sr:category:213
+sr:competition:14516,"ITF Great Britain 10A, Women Singles",sr:competition:14514,singles,women,"ITF Women",sr:category:213
+sr:competition:14518,"ITF Great Britain 10A, Women Doubles",sr:competition:14514,doubles,women,"ITF Women",sr:category:213
+sr:competition:14598,"ITF Women Nashville, USA Women Singles",sr:competition:14596,singles,women,"ITF Women",sr:category:213
+sr:competition:14600,"ITF Women Nashville, USA Women Doubles",sr:competition:14596,doubles,women,"ITF Women",sr:category:213
+sr:competition:14608,"ITF Italy 35A, Women Singles",sr:competition:14606,singles,women,"ITF Women",sr:category:213
+sr:competition:14610,"ITF Italy 35A, Women Doubles",sr:competition:14606,doubles,women,"ITF Women",sr:category:213
+sr:competition:14660,"ITF India 05A, Women Singles",sr:competition:14658,singles,women,"ITF Women",sr:category:213
+sr:competition:14662,"ITF India 05A, Women Doubles",sr:competition:14658,doubles,women,"ITF Women",sr:category:213
+sr:competition:14888,"ITF Spain 02A, Women Singles",sr:competition:14886,singles,women,"ITF Women",sr:category:213
+sr:competition:14890,"ITF Spain 02A, Women Doubles",sr:competition:14886,doubles,women,"ITF Women",sr:category:213
+sr:competition:14919,"ITF Italy 01B, Women Singles",sr:competition:14917,singles,women,"ITF Women",sr:category:213
+sr:competition:14921,"ITF Italy 01B, Women Doubles",sr:competition:14917,doubles,women,"ITF Women",sr:category:213
+sr:competition:14973,"ITF India 01A, Women Doubles",sr:competition:14971,doubles,women,"ITF Women",sr:category:213
+sr:competition:14975,"ITF India 01A, Women Singles",sr:competition:14971,singles,women,"ITF Women",sr:category:213
+sr:competition:15015,"ITF Japan 01B, Women Singles",sr:competition:15013,singles,women,"ITF Women",sr:category:213
+sr:competition:15017,"ITF Japan 01B, Women Doubles",sr:competition:15013,doubles,women,"ITF Women",sr:category:213
+sr:competition:15077,"ITF USA 08A, Women Singles",sr:competition:15075,singles,women,"ITF Women",sr:category:213
+sr:competition:15079,"ITF USA 08A, Women Doubles",sr:competition:15075,doubles,women,"ITF Women",sr:category:213
+sr:competition:15115,"ITF Portugal 01A, Women Singles",sr:competition:15113,singles,women,"ITF Women",sr:category:213
+sr:competition:15117,"ITF Portugal 01A, Women Doubles",sr:competition:15113,doubles,women,"ITF Women",sr:category:213
+sr:competition:15305,"ITF Hungary 02A, Women Singles",sr:competition:15303,singles,women,"ITF Women",sr:category:213
+sr:competition:15307,"ITF Hungary 02A, Women Doubles",sr:competition:15303,doubles,women,"ITF Women",sr:category:213
+sr:competition:15361,"ITF Argentina 01A, Women Singles",sr:competition:15359,singles,women,"ITF Women",sr:category:213
+sr:competition:15363,"ITF Argentina 01A, Women Doubles",sr:competition:15359,doubles,women,"ITF Women",sr:category:213
+sr:competition:15367,"ITF China 10A, Women Singles",sr:competition:15365,singles,women,"ITF Women",sr:category:213
+sr:competition:15369,"ITF China 10A, Women Doubles",sr:competition:15365,doubles,women,"ITF Women",sr:category:213
+sr:competition:15373,"ITF Portugal 04A, Women Singles",sr:competition:15371,singles,women,"ITF Women",sr:category:213
+sr:competition:15375,"ITF Portugal 04A, Women Doubles",sr:competition:15371,doubles,women,"ITF Women",sr:category:213
+sr:competition:15435,"ITF Portugal 05A, Women Singles",sr:competition:15433,singles,women,"ITF Women",sr:category:213
+sr:competition:15437,"ITF Portugal 05A, Women Doubles",sr:competition:15433,doubles,women,"ITF Women",sr:category:213
+sr:competition:15452,"ITF Portugal 06A, Women Singles",sr:competition:15450,singles,women,"ITF Women",sr:category:213
+sr:competition:15454,"ITF Portugal 06A, Women Doubles",sr:competition:15450,doubles,women,"ITF Women",sr:category:213
+sr:competition:15458,"ITF Czechia 01A, Women Singles",sr:competition:15456,singles,women,"ITF Women",sr:category:213
+sr:competition:15460,"ITF Czechia 01A, Women Doubles",sr:competition:15456,doubles,women,"ITF Women",sr:category:213
+sr:competition:15482,"ITF Romania 01A, Women Singles",sr:competition:15480,singles,women,"ITF Women",sr:category:213
+sr:competition:15484,"ITF Romania 01A, Women Doubles",sr:competition:15480,doubles,women,"ITF Women",sr:category:213
+sr:competition:15520,"ITF Hungary 04A, Women Singles",sr:competition:15518,singles,women,"ITF Women",sr:category:213
+sr:competition:15522,"ITF Hungary 04A, Women Doubles",sr:competition:15518,doubles,women,"ITF Women",sr:category:213
+sr:competition:15590,"ITF USA 20A, Women Doubles",sr:competition:15588,doubles,women,"ITF Women",sr:category:213
+sr:competition:15592,"ITF USA 20A, Women Singles",sr:competition:15588,singles,women,"ITF Women",sr:category:213
+sr:competition:15596,"ITF Belgium 03A, Women Singles",sr:competition:15594,singles,women,"ITF Women",sr:category:213
+sr:competition:15598,"ITF Belgium 03A, Women Doubles",sr:competition:15594,doubles,women,"ITF Women",sr:category:213
+sr:competition:15602,"ITF Sweden 03A, Women Singles",sr:competition:15600,singles,women,"ITF Women",sr:category:213
+sr:competition:15604,"ITF Sweden 03A, Women Doubles",sr:competition:15600,doubles,women,"ITF Women",sr:category:213
+sr:competition:15608,"ITF Great Britain 11A, Women Singles",sr:competition:15606,singles,women,"ITF Women",sr:category:213
+sr:competition:15610,"ITF Great Britain 11A, Women Doubles",sr:competition:15606,doubles,women,"ITF Women",sr:category:213
+sr:competition:16266,"ITF Kazakhstan 05A, Women Singles",sr:competition:16264,singles,women,"ITF Women",sr:category:213
+sr:competition:16268,"ITF Kazakhstan 05A, Women Doubles",sr:competition:16264,doubles,women,"ITF Women",sr:category:213
+sr:competition:16272,"ITF Czech Republic 03A, Women Singles",sr:competition:16270,singles,women,"ITF Women",sr:category:213
+sr:competition:16274,"ITF Czech Republic 03A, Women Doubles",sr:competition:16270,doubles,women,"ITF Women",sr:category:213
+sr:competition:16278,"ITF Turkey 28A, Women Singles",sr:competition:16276,singles,women,"ITF Women",sr:category:213
+sr:competition:16280,"ITF Turkey 28A, Women Doubles",sr:competition:16276,doubles,women,"ITF Women",sr:category:213
+sr:competition:16284,"ITF USA 22A, Women Singles",sr:competition:16282,singles,women,"ITF Women",sr:category:213
+sr:competition:16286,"ITF USA 22A, Women Doubles",sr:competition:16282,doubles,women,"ITF Women",sr:category:213
+sr:competition:16290,"ITF Canada 05A, Women Singles",sr:competition:16288,singles,women,"ITF Women",sr:category:213
+sr:competition:16292,"ITF Canada 05A, Women Doubles",sr:competition:16288,doubles,women,"ITF Women",sr:category:213
+sr:competition:16296,"ITF China 14A, Women Singles",sr:competition:16294,singles,women,"ITF Women",sr:category:213
+sr:competition:16298,"ITF China 14A, Women Doubles",sr:competition:16294,doubles,women,"ITF Women",sr:category:213
+sr:competition:16302,"ITF Germany 10A, Women Singles",sr:competition:16300,singles,women,"ITF Women",sr:category:213
+sr:competition:16304,"ITF Germany 10A, Women Doubles",sr:competition:16300,doubles,women,"ITF Women",sr:category:213
+sr:competition:16308,"ITF Italy 19A, Women Singles",sr:competition:16306,singles,women,"ITF Women",sr:category:213
+sr:competition:16310,"ITF Italy 19A, Women Doubles",sr:competition:16306,doubles,women,"ITF Women",sr:category:213
+sr:competition:16314,"ITF Belgium 01A, Women Singles",sr:competition:16312,singles,women,"ITF Women",sr:category:213
+sr:competition:16316,"ITF Belgium 01A, Women Doubles",sr:competition:16312,doubles,women,"ITF Women",sr:category:213
+sr:competition:16320,"ITF Egypt 21A, Women Singles",sr:competition:16318,singles,women,"ITF Women",sr:category:213
+sr:competition:16322,"ITF Egypt 21A, Women Doubles",sr:competition:16318,doubles,women,"ITF Women",sr:category:213
+sr:competition:16326,"ITF Romania 05A, Women Singles",sr:competition:16324,singles,women,"ITF Women",sr:category:213
+sr:competition:16328,"ITF Romania 05A, Women Doubles",sr:competition:16324,doubles,women,"ITF Women",sr:category:213
+sr:competition:16332,"ITF Spain 11A, Women Singles",sr:competition:16330,singles,women,"ITF Women",sr:category:213
+sr:competition:16334,"ITF Spain 11A, Women Doubles",sr:competition:16330,doubles,women,"ITF Women",sr:category:213
+sr:competition:16338,"ITF Thailand 05A, Women Singles",sr:competition:16336,singles,women,"ITF Women",sr:category:213
+sr:competition:16340,"ITF Thailand 05A, Women Doubles",sr:competition:16336,doubles,women,"ITF Women",sr:category:213
+sr:competition:16566,"ITF Czechia 04A, Women Singles",sr:competition:16536,singles,women,"ITF Women",sr:category:213
+sr:competition:16568,"ITF Czechia 04A, Women Doubles",sr:competition:16536,doubles,women,"ITF Women",sr:category:213
+sr:competition:16570,"ITF Canada 06A, Women Singles",sr:competition:16538,singles,women,"ITF Women",sr:category:213
+sr:competition:16572,"ITF Canada 06A, Women Doubles",sr:competition:16538,doubles,women,"ITF Women",sr:category:213
+sr:competition:16574,"ITF USA 26A, Women Singles",sr:competition:16540,singles,women,"ITF Women",sr:category:213
+sr:competition:16576,"ITF USA 26A, Women Doubles",sr:competition:16540,doubles,women,"ITF Women",sr:category:213
+sr:competition:16578,"ITF Germany 11A, Women Singles",sr:competition:16542,singles,women,"ITF Women",sr:category:213
+sr:competition:16580,"ITF Germany 11A, Women Doubles",sr:competition:16542,doubles,women,"ITF Women",sr:category:213
+sr:competition:16582,"ITF Thailand 06A, Women Singles",sr:competition:16544,singles,women,"ITF Women",sr:category:213
+sr:competition:16584,"ITF Thailand 06A, Women Doubles",sr:competition:16544,doubles,women,"ITF Women",sr:category:213
+sr:competition:16586,"ITF Brazil 07A, Women Singles",sr:competition:16546,singles,women,"ITF Women",sr:category:213
+sr:competition:16588,"ITF Brazil 07A, Women Doubles",sr:competition:16546,doubles,women,"ITF Women",sr:category:213
+sr:competition:16590,"ITF Egypt 22A, Women Singles",sr:competition:16548,singles,women,"ITF Women",sr:category:213
+sr:competition:16592,"ITF Egypt 22A, Women Doubles",sr:competition:16548,doubles,women,"ITF Women",sr:category:213
+sr:competition:16594,"ITF Estonia 01A, Women Singles",sr:competition:16550,singles,women,"ITF Women",sr:category:213
+sr:competition:16596,"ITF Estonia 01A, Women Doubles",sr:competition:16550,doubles,women,"ITF Women",sr:category:213
+sr:competition:16598,"ITF Finland 01A, Women Singles",sr:competition:16552,singles,women,"ITF Women",sr:category:213
+sr:competition:16600,"ITF Finland 01A, Women Doubles",sr:competition:16552,doubles,women,"ITF Women",sr:category:213
+sr:competition:16602,"ITF France 20A, Women Singles",sr:competition:16554,singles,women,"ITF Women",sr:category:213
+sr:competition:16604,"ITF France 20A, Women Doubles",sr:competition:16554,doubles,women,"ITF Women",sr:category:213
+sr:competition:16610,"ITF Ireland 01A, Women Singles",sr:competition:16558,singles,women,"ITF Women",sr:category:213
+sr:competition:16612,"ITF Ireland 01A, Women Doubles",sr:competition:16558,doubles,women,"ITF Women",sr:category:213
+sr:competition:16614,"ITF Italy 20A, Women Singles",sr:competition:16560,singles,women,"ITF Women",sr:category:213
+sr:competition:16616,"ITF Italy 20A, Women Doubles",sr:competition:16560,doubles,women,"ITF Women",sr:category:213
+sr:competition:16618,"ITF Romania 06A, Women Singles",sr:competition:16562,singles,women,"ITF Women",sr:category:213
+sr:competition:16620,"ITF Romania 06A, Women Doubles",sr:competition:16562,doubles,women,"ITF Women",sr:category:213
+sr:competition:16622,"ITF USA 27A, Women Singles",sr:competition:16564,singles,women,"ITF Women",sr:category:213
+sr:competition:16624,"ITF USA 27A, Women Doubles",sr:competition:16564,doubles,women,"ITF Women",sr:category:213
+sr:competition:16662,"ITF Ukraine 01A, Women Singles",sr:competition:16726,singles,women,"ITF Women",sr:category:213
+sr:competition:16664,"ITF Ukraine 01A, Women Doubles",sr:competition:16726,doubles,women,"ITF Women",sr:category:213
+sr:competition:16802,"ITF USA 23A, Women Singles",sr:competition:16704,singles,women,"ITF Women",sr:category:213
+sr:competition:16804,"ITF USA 23A, Women Doubles",sr:competition:16704,doubles,women,"ITF Women",sr:category:213
+sr:competition:16806,"ITF Germany 12A, Women Singles",sr:competition:16706,singles,women,"ITF Women",sr:category:213
+sr:competition:16808,"ITF Germany 12A, Women Doubles",sr:competition:16706,doubles,women,"ITF Women",sr:category:213
+sr:competition:16810,"ITF Great Britain 12A, Women Singles",sr:competition:16708,singles,women,"ITF Women",sr:category:213
+sr:competition:16812,"ITF Great Britain 12A, Women Doubles",sr:competition:16708,doubles,women,"ITF Women",sr:category:213
+sr:competition:16814,"ITF Spain 14A, Women Singles",sr:competition:16710,singles,women,"ITF Women",sr:category:213
+sr:competition:16816,"ITF Spain 14A, Women Doubles",sr:competition:16710,doubles,women,"ITF Women",sr:category:213
+sr:competition:16818,"ITF USA 24A, Women Singles",sr:competition:16712,singles,women,"ITF Women",sr:category:213
+sr:competition:16820,"ITF USA 24A, Women Doubles",sr:competition:16712,doubles,women,"ITF Women",sr:category:213
+sr:competition:16822,"ITF Egypt 23A, Women Singles",sr:competition:16714,singles,women,"ITF Women",sr:category:213
+sr:competition:16824,"ITF Egypt 23A, Women Doubles",sr:competition:16714,doubles,women,"ITF Women",sr:category:213
+sr:competition:16826,"ITF Finland 02A, Women Doubles",sr:competition:16716,doubles,women,"ITF Women",sr:category:213
+sr:competition:16828,"ITF Finland 02A, Women Singles",sr:competition:16716,singles,women,"ITF Women",sr:category:213
+sr:competition:16830,"ITF Romania 07A, Women Singles",sr:competition:16720,singles,women,"ITF Women",sr:category:213
+sr:competition:16832,"ITF Romania 07A, Women Doubles",sr:competition:16720,doubles,women,"ITF Women",sr:category:213
+sr:competition:16834,"ITF Thailand 10A, Women Singles",sr:competition:16722,singles,women,"ITF Women",sr:category:213
+sr:competition:16836,"ITF Thailand 10A, Women Doubles",sr:competition:16722,doubles,women,"ITF Women",sr:category:213
+sr:competition:16838,"ITF Turkiye 27A, Women Doubles",sr:competition:16724,doubles,women,"ITF Women",sr:category:213
+sr:competition:16840,"ITF Turkiye 27A, Women Singles",sr:competition:16724,singles,women,"ITF Women",sr:category:213
+sr:competition:16886,"ITF Portugal 09A, Women Doubles",sr:competition:16884,doubles,women,"ITF Women",sr:category:213
+sr:competition:16888,"ITF Portugal 09A, Women Singles",sr:competition:16884,singles,women,"ITF Women",sr:category:213
+sr:competition:16896,"ITF Portugal 07A, Women Singles",sr:competition:16894,singles,women,"ITF Women",sr:category:213
+sr:competition:16900,"ITF Poland 03A, Women Singles",sr:competition:17038,singles,women,"ITF Women",sr:category:213
+sr:competition:16902,"ITF Poland 03A, Women Doubles",sr:competition:17038,doubles,women,"ITF Women",sr:category:213
+sr:competition:16934,"ITF Germany 07A, Women Singles",sr:competition:16932,singles,women,"ITF Women",sr:category:213
+sr:competition:16936,"ITF Germany 07A, Women Doubles",sr:competition:16932,doubles,women,"ITF Women",sr:category:213
+sr:competition:17012,"ITF Belgium 04A, Women Singles",sr:competition:17010,singles,women,"ITF Women",sr:category:213
+sr:competition:17014,"ITF Belgium 04A, Women Doubles",sr:competition:17010,doubles,women,"ITF Women",sr:category:213
+sr:competition:17018,"ITF Great Britain 13A, Women Singles",sr:competition:17016,singles,women,"ITF Women",sr:category:213
+sr:competition:17020,"ITF Great Britain 13A, Women Doubles",sr:competition:17016,doubles,women,"ITF Women",sr:category:213
+sr:competition:17024,"ITF USA 25A, Women Singles",sr:competition:17022,singles,women,"ITF Women",sr:category:213
+sr:competition:17026,"ITF USA 25A, Women Doubles",sr:competition:17022,doubles,women,"ITF Women",sr:category:213
+sr:competition:17032,"ITF Austria 01A, Women Singles",sr:competition:17030,singles,women,"ITF Women",sr:category:213
+sr:competition:17034,"ITF Austria 01A, Women Doubles",sr:competition:17030,doubles,women,"ITF Women",sr:category:213
+sr:competition:17044,"ITF Romania 08A, Women Singles",sr:competition:17040,singles,women,"ITF Women",sr:category:213
+sr:competition:17046,"ITF Romania 08A, Women Doubles",sr:competition:17040,doubles,women,"ITF Women",sr:category:213
+sr:competition:17048,"ITF Russia 05A, Women Singles",sr:competition:17042,singles,women,"ITF Women",sr:category:213
+sr:competition:17050,"ITF Russia 05A, Women Doubles",sr:competition:17042,doubles,women,"ITF Women",sr:category:213
+sr:competition:17054,"ITF Spain 12A, Women Singles",sr:competition:17052,singles,women,"ITF Women",sr:category:213
+sr:competition:17056,"ITF Spain 12A, Women Doubles",sr:competition:17052,doubles,women,"ITF Women",sr:category:213
+sr:competition:17060,"ITF Thailand 11A, Women Doubles",sr:competition:17058,doubles,women,"ITF Women",sr:category:213
+sr:competition:17062,"ITF Thailand 11A, Women Singles",sr:competition:17058,singles,women,"ITF Women",sr:category:213
+sr:competition:17066,"ITF Turkey 28B, Women Singles",sr:competition:17064,singles,women,"ITF Women",sr:category:213
+sr:competition:17068,"ITF Turkey 28B, Women Doubles",sr:competition:17064,doubles,women,"ITF Women",sr:category:213
+sr:competition:17148,"ITF Italy 22A, Women Singles",sr:competition:17278,singles,women,"ITF Women",sr:category:213
+sr:competition:17150,"ITF Italy 22A, Women Doubles",sr:competition:17278,doubles,women,"ITF Women",sr:category:213
+sr:competition:17152,"ITF Spain 07B, Women Singles",sr:competition:17146,singles,women,"ITF Women",sr:category:213
+sr:competition:17154,"ITF Poland 04A, Women Singles",sr:competition:17286,singles,women,"ITF Women",sr:category:213
+sr:competition:17156,"ITF Poland 04A, Women Doubles",sr:competition:17286,doubles,women,"ITF Women",sr:category:213
+sr:competition:17158,"ITF Spain 07B, Women Doubles",sr:competition:17146,doubles,women,"ITF Women",sr:category:213
+sr:competition:17234,"ITF Canada 01A, Women Singles",sr:competition:17232,singles,women,"ITF Women",sr:category:213
+sr:competition:17236,"ITF Canada 01A, Women Doubles",sr:competition:17232,doubles,women,"ITF Women",sr:category:213
+sr:competition:17242,"ITF Germany 13A, Women Singles",sr:competition:17238,singles,women,"ITF Women",sr:category:213
+sr:competition:17244,"ITF Germany 13A, Women Doubles",sr:competition:17238,doubles,women,"ITF Women",sr:category:213
+sr:competition:17248,"ITF Switzerland 03A, Women Singles",sr:competition:17246,singles,women,"ITF Women",sr:category:213
+sr:competition:17250,"ITF Switzerland 03A, Women Doubles",sr:competition:17246,doubles,women,"ITF Women",sr:category:213
+sr:competition:17254,"ITF Thailand 12A, Women Singles",sr:competition:17252,singles,women,"ITF Women",sr:category:213
+sr:competition:17256,"ITF Thailand 12A, Women Doubles",sr:competition:17252,doubles,women,"ITF Women",sr:category:213
+sr:competition:17260,"ITF Austria 02A, Women Singles",sr:competition:17258,singles,women,"ITF Women",sr:category:213
+sr:competition:17262,"ITF Austria 02A, Women Doubles",sr:competition:17258,doubles,women,"ITF Women",sr:category:213
+sr:competition:17282,"ITF Netherlands 04A, Women Singles",sr:competition:17280,singles,women,"ITF Women",sr:category:213
+sr:competition:17284,"ITF Netherlands 04A, Women Doubles",sr:competition:17280,doubles,women,"ITF Women",sr:category:213
+sr:competition:17292,"ITF Russia 06A, Women Singles",sr:competition:17290,singles,women,"ITF Women",sr:category:213
+sr:competition:17294,"ITF Russia 06A, Women Doubles",sr:competition:17290,doubles,women,"ITF Women",sr:category:213
+sr:competition:17298,"ITF Spain 13A, Women Singles",sr:competition:17296,singles,women,"ITF Women",sr:category:213
+sr:competition:17300,"ITF Spain 13A, Women Doubles",sr:competition:17296,doubles,women,"ITF Women",sr:category:213
+sr:competition:17378,"ITF Turkiye 30A, Women Singles",sr:competition:17518,singles,women,"ITF Women",sr:category:213
+sr:competition:17380,"ITF Turkiye 30A, Women Doubles",sr:competition:17518,doubles,women,"ITF Women",sr:category:213
+sr:competition:17382,"ITF Poland 05A, Women Singles",sr:competition:17556,singles,women,"ITF Women",sr:category:213
+sr:competition:17384,"ITF Poland 05A, Women Doubles",sr:competition:17556,doubles,women,"ITF Women",sr:category:213
+sr:competition:17522,"ITF Germany 14A, Women Singles",sr:competition:17520,singles,women,"ITF Women",sr:category:213
+sr:competition:17524,"ITF Germany 14A, Women Doubles",sr:competition:17520,doubles,women,"ITF Women",sr:category:213
+sr:competition:17528,"ITF Hungary 06A, Women Singles",sr:competition:17526,singles,women,"ITF Women",sr:category:213
+sr:competition:17530,"ITF Hungary 06A, Women Doubles",sr:competition:17526,doubles,women,"ITF Women",sr:category:213
+sr:competition:17534,"ITF Japan 09A, Women Singles",sr:competition:17532,singles,women,"ITF Women",sr:category:213
+sr:competition:17536,"ITF Japan 09A, Women Doubles",sr:competition:17532,doubles,women,"ITF Women",sr:category:213
+sr:competition:17540,"ITF Belgium 05A, Women Singles",sr:competition:17538,singles,women,"ITF Women",sr:category:213
+sr:competition:17542,"ITF Belgium 05A, Women Doubles",sr:competition:17538,doubles,women,"ITF Women",sr:category:213
+sr:competition:17546,"ITF Italy 23A, Women Singles",sr:competition:17544,singles,women,"ITF Women",sr:category:213
+sr:competition:17548,"ITF Italy 23A, Women Doubles",sr:competition:17544,doubles,women,"ITF Women",sr:category:213
+sr:competition:17552,"ITF Netherlands 05A, Women Singles",sr:competition:17550,singles,women,"ITF Women",sr:category:213
+sr:competition:17554,"ITF Netherlands 05A, Women Doubles",sr:competition:17550,doubles,women,"ITF Women",sr:category:213
+sr:competition:17560,"ITF Romania 09A, Women Singles",sr:competition:17558,singles,women,"ITF Women",sr:category:213
+sr:competition:17562,"ITF Romania 09A, Women Doubles",sr:competition:17558,doubles,women,"ITF Women",sr:category:213
+sr:competition:17566,"ITF Serbia 04A, Women Singles",sr:competition:17564,singles,women,"ITF Women",sr:category:213
+sr:competition:17568,"ITF Serbia 04A, Women Doubles",sr:competition:17564,doubles,women,"ITF Women",sr:category:213
+sr:competition:17572,"ITF Switzerland 04A, Women Singles",sr:competition:17570,singles,women,"ITF Women",sr:category:213
+sr:competition:17574,"ITF Switzerland 04A, Women Doubles",sr:competition:17570,doubles,women,"ITF Women",sr:category:213
+sr:competition:18142,"ITF Poland 06A, Women Singles",sr:competition:18326,singles,women,"ITF Women",sr:category:213
+sr:competition:18144,"ITF Poland 06A, Women Doubles",sr:competition:18326,doubles,women,"ITF Women",sr:category:213
+sr:competition:18148,"ITF Belgium 06A, Women Singles",sr:competition:18146,singles,women,"ITF Women",sr:category:213
+sr:competition:18150,"ITF Belgium 06A, Women Doubles",sr:competition:18146,doubles,women,"ITF Women",sr:category:213
+sr:competition:18154,"ITF Japan 09B, Women Singles",sr:competition:18152,singles,women,"ITF Women",sr:category:213
+sr:competition:18156,"ITF Japan 09B, Women Doubles",sr:competition:18152,doubles,women,"ITF Women",sr:category:213
+sr:competition:18282,"ITF Hungary 07A, Women Singles",sr:competition:18280,singles,women,"ITF Women",sr:category:213
+sr:competition:18284,"ITF Hungary 07A, Women Doubles",sr:competition:18280,doubles,women,"ITF Women",sr:category:213
+sr:competition:18288,"ITF Italy 24A, Women Singles",sr:competition:18286,singles,women,"ITF Women",sr:category:213
+sr:competition:18290,"ITF Italy 24A, Women Doubles",sr:competition:18286,doubles,women,"ITF Women",sr:category:213
+sr:competition:18296,"ITF Kazakhstan 06A, Women Singles",sr:competition:18292,singles,women,"ITF Women",sr:category:213
+sr:competition:18298,"ITF Kazakhstan 06A, Women Doubles",sr:competition:18292,doubles,women,"ITF Women",sr:category:213
+sr:competition:18302,"ITF Romania 10A, Women Singles",sr:competition:18300,singles,women,"ITF Women",sr:category:213
+sr:competition:18304,"ITF Romania 10A, Women Doubles",sr:competition:18300,doubles,women,"ITF Women",sr:category:213
+sr:competition:18308,"ITF Czechia 05A, Women Singles",sr:competition:18306,singles,women,"ITF Women",sr:category:213
+sr:competition:18310,"ITF Czechia 05A, Women Doubles",sr:competition:18306,doubles,women,"ITF Women",sr:category:213
+sr:competition:18314,"ITF South Korea 08A, Women Singles",sr:competition:18312,singles,women,"ITF Women",sr:category:213
+sr:competition:18316,"ITF South Korea 08A, Women Doubles",sr:competition:18312,doubles,women,"ITF Women",sr:category:213
+sr:competition:18322,"ITF Netherlands 06A, Women Singles",sr:competition:18320,singles,women,"ITF Women",sr:category:213
+sr:competition:18324,"ITF Netherlands 06A, Women Doubles",sr:competition:18320,doubles,women,"ITF Women",sr:category:213
+sr:competition:18330,"ITF Switzerland 05A, Women Singles",sr:competition:18328,singles,women,"ITF Women",sr:category:213
+sr:competition:18332,"ITF Switzerland 05A, Women Doubles",sr:competition:18328,doubles,women,"ITF Women",sr:category:213
+sr:competition:18336,"ITF Turkiye 29A, Women Singles",sr:competition:18334,singles,women,"ITF Women",sr:category:213
+sr:competition:18338,"ITF Turkiye 29A, Women Doubles",sr:competition:18334,doubles,women,"ITF Women",sr:category:213
+sr:competition:18586,"ITF Women Nanao, Japan Women Doubles",sr:competition:18584,doubles,women,"ITF Women",sr:category:213
+sr:competition:18600,"ITF Germany 15A, Women Singles",sr:competition:18690,singles,women,"ITF Women",sr:category:213
+sr:competition:18602,"ITF Germany 15A, Women Doubles",sr:competition:18690,doubles,women,"ITF Women",sr:category:213
+sr:competition:18606,"ITF Hungary 08A, Women Singles",sr:competition:18676,singles,women,"ITF Women",sr:category:213
+sr:competition:18608,"ITF Hungary 08A, Women Doubles",sr:competition:18676,doubles,women,"ITF Women",sr:category:213
+sr:competition:18672,"ITF Bulgaria 01A, Women Singles",sr:competition:18670,singles,women,"ITF Women",sr:category:213
+sr:competition:18674,"ITF Bulgaria 01A, Women Doubles",sr:competition:18670,doubles,women,"ITF Women",sr:category:213
+sr:competition:18680,"ITF Czechia 06A, Women Singles",sr:competition:18678,singles,women,"ITF Women",sr:category:213
+sr:competition:18682,"ITF Czechia 06A, Women Doubles",sr:competition:18678,doubles,women,"ITF Women",sr:category:213
+sr:competition:18686,"ITF Egypt 24A, Women Singles",sr:competition:18684,singles,women,"ITF Women",sr:category:213
+sr:competition:18688,"ITF Egypt 24A, Women Doubles",sr:competition:18684,doubles,women,"ITF Women",sr:category:213
+sr:competition:18694,"ITF Italy 25A, Women Singles",sr:competition:18692,singles,women,"ITF Women",sr:category:213
+sr:competition:18696,"ITF Italy 25A, Women Doubles",sr:competition:18692,doubles,women,"ITF Women",sr:category:213
+sr:competition:18700,"ITF Japan 10A, Women Singles",sr:competition:18698,singles,women,"ITF Women",sr:category:213
+sr:competition:18702,"ITF Japan 10A, Women Doubles",sr:competition:18698,doubles,women,"ITF Women",sr:category:213
+sr:competition:18706,"ITF South Korea 09A, Women Singles",sr:competition:18704,singles,women,"ITF Women",sr:category:213
+sr:competition:18708,"ITF South Korea 09A, Women Doubles",sr:competition:18704,doubles,women,"ITF Women",sr:category:213
+sr:competition:18712,"ITF Tunisia 25A, Women Singles",sr:competition:18710,singles,women,"ITF Women",sr:category:213
+sr:competition:18714,"ITF Tunisia 25A, Women Doubles",sr:competition:18710,doubles,women,"ITF Women",sr:category:213
+sr:competition:18718,"ITF Turkey 30B, Women Singles",sr:competition:18716,singles,women,"ITF Women",sr:category:213
+sr:competition:18720,"ITF Turkey 30B, Women Doubles",sr:competition:18716,doubles,women,"ITF Women",sr:category:213
+sr:competition:19214,"ITF Hungary 09A, Women Singles",sr:competition:19426,singles,women,"ITF Women",sr:category:213
+sr:competition:19216,"ITF Hungary 09A, Women Doubles",sr:competition:19426,doubles,women,"ITF Women",sr:category:213
+sr:competition:19298,"ITF France 17A, Women Singles",sr:competition:19296,singles,women,"ITF Women",sr:category:213
+sr:competition:19302,"ITF France 17A, Women Doubles",sr:competition:19296,doubles,women,"ITF Women",sr:category:213
+sr:competition:19316,"ITF USA 29A, Women Singles",sr:competition:19314,singles,women,"ITF Women",sr:category:213
+sr:competition:19318,"ITF USA 29A, Women Doubles",sr:competition:19314,doubles,women,"ITF Women",sr:category:213
+sr:competition:19340,"ITF China 19A, Women Doubles",sr:competition:19332,doubles,women,"ITF Women",sr:category:213
+sr:competition:19342,"ITF China 19A, Women Singles",sr:competition:19332,singles,women,"ITF Women",sr:category:213
+sr:competition:19352,"ITF Georgia 03A, Women Singles",sr:competition:19350,singles,women,"ITF Women",sr:category:213
+sr:competition:19354,"ITF Georgia 03A, Women Doubles",sr:competition:19350,doubles,women,"ITF Women",sr:category:213
+sr:competition:19366,"ITF Italy 26A, Women Singles",sr:competition:19362,singles,women,"ITF Women",sr:category:213
+sr:competition:19372,"ITF Italy 26A, Women Doubles",sr:competition:19362,doubles,women,"ITF Women",sr:category:213
+sr:competition:19384,"ITF USA 28A, Women Singles",sr:competition:19382,singles,women,"ITF Women",sr:category:213
+sr:competition:19388,"ITF USA 28A, Women Doubles",sr:competition:19382,doubles,women,"ITF Women",sr:category:213
+sr:competition:19392,"ITF Argentina 03A, Women Singles",sr:competition:19390,singles,women,"ITF Women",sr:category:213
+sr:competition:19394,"ITF Argentina 03A, Women Doubles",sr:competition:19390,doubles,women,"ITF Women",sr:category:213
+sr:competition:19398,"ITF Turkiye 31A, Women Singles",sr:competition:19396,singles,women,"ITF Women",sr:category:213
+sr:competition:19400,"ITF Turkiye 31A, Women Doubles",sr:competition:19396,doubles,women,"ITF Women",sr:category:213
+sr:competition:19404,"ITF Czech Republic 07A, Women Singles",sr:competition:19402,singles,women,"ITF Women",sr:category:213
+sr:competition:19406,"ITF Czech Republic 07A, Women Doubles",sr:competition:19402,doubles,women,"ITF Women",sr:category:213
+sr:competition:19410,"ITF Tunisia 26A, Women Singles",sr:competition:19408,singles,women,"ITF Women",sr:category:213
+sr:competition:19412,"ITF Tunisia 26A, Women Doubles",sr:competition:19408,doubles,women,"ITF Women",sr:category:213
+sr:competition:19416,"ITF Thailand 07A, Women Singles",sr:competition:19414,singles,women,"ITF Women",sr:category:213
+sr:competition:19418,"ITF Thailand 07A, Women Doubles",sr:competition:19414,doubles,women,"ITF Women",sr:category:213
+sr:competition:19422,"ITF Egypt 25A, Women Singles",sr:competition:19420,singles,women,"ITF Women",sr:category:213
+sr:competition:19424,"ITF Egypt 25A, Women Doubles",sr:competition:19420,doubles,women,"ITF Women",sr:category:213
+sr:competition:19534,"ITF Australia 09A, Women Singles",sr:competition:19532,singles,women,"ITF Women",sr:category:213
+sr:competition:19536,"ITF Australia 09A, Women Doubles",sr:competition:19532,doubles,women,"ITF Women",sr:category:213
+sr:competition:19540,"ITF France 18A, Women Singles",sr:competition:19538,singles,women,"ITF Women",sr:category:213
+sr:competition:19542,"ITF France 18A, Women Doubles",sr:competition:19538,doubles,women,"ITF Women",sr:category:213
+sr:competition:19546,"ITF Russia 04A, Women Singles",sr:competition:19544,singles,women,"ITF Women",sr:category:213
+sr:competition:19548,"ITF Russia 04A, Women Doubles",sr:competition:19544,doubles,women,"ITF Women",sr:category:213
+sr:competition:19632,"ITF Mexico 02A, Women Singles",sr:competition:19630,singles,women,"ITF Women",sr:category:213
+sr:competition:19634,"ITF Mexico 02A, Women Doubles",sr:competition:19630,doubles,women,"ITF Women",sr:category:213
+sr:competition:19638,"ITF USA 30A, Women Singles",sr:competition:19636,singles,women,"ITF Women",sr:category:213
+sr:competition:19640,"ITF USA 30A, Women Doubles",sr:competition:19636,doubles,women,"ITF Women",sr:category:213
+sr:competition:19644,"ITF Italy 27A, Women Singles",sr:competition:19642,singles,women,"ITF Women",sr:category:213
+sr:competition:19646,"ITF Italy 27A, Women Doubles",sr:competition:19642,doubles,women,"ITF Women",sr:category:213
+sr:competition:19650,"ITF Montenegro 01A, Women Singles",sr:competition:19648,singles,women,"ITF Women",sr:category:213
+sr:competition:19652,"ITF Montenegro 01A, Women Doubles",sr:competition:19648,doubles,women,"ITF Women",sr:category:213
+sr:competition:19656,"ITF USA 31A, Women Singles",sr:competition:19654,singles,women,"ITF Women",sr:category:213
+sr:competition:19658,"ITF USA 31A, Women Doubles",sr:competition:19654,doubles,women,"ITF Women",sr:category:213
+sr:competition:19662,"ITF Bulgaria 03A, Women Singles",sr:competition:19660,singles,women,"ITF Women",sr:category:213
+sr:competition:19664,"ITF Bulgaria 03A, Women Doubles",sr:competition:19660,doubles,women,"ITF Women",sr:category:213
+sr:competition:19668,"ITF Egypt 26A, Women Singles",sr:competition:19666,singles,women,"ITF Women",sr:category:213
+sr:competition:19670,"ITF Egypt 26A, Women Doubles",sr:competition:19666,doubles,women,"ITF Women",sr:category:213
+sr:competition:19674,"ITF Kazakhstan 07A, Women Singles",sr:competition:19672,singles,women,"ITF Women",sr:category:213
+sr:competition:19676,"ITF Kazakhstan 07A, Women Doubles",sr:competition:19672,doubles,women,"ITF Women",sr:category:213
+sr:competition:19682,"ITF Spain 15A, Women Singles",sr:competition:19680,singles,women,"ITF Women",sr:category:213
+sr:competition:19684,"ITF Spain 15A, Women Doubles",sr:competition:19680,doubles,women,"ITF Women",sr:category:213
+sr:competition:19688,"ITF Thailand 08A, Women Singles",sr:competition:19686,singles,women,"ITF Women",sr:category:213
+sr:competition:19690,"ITF Thailand 08A, Women Doubles",sr:competition:19686,doubles,women,"ITF Women",sr:category:213
+sr:competition:19694,"ITF Tunisia 27A, Women Singles",sr:competition:19692,singles,women,"ITF Women",sr:category:213
+sr:competition:19696,"ITF Tunisia 27A, Women Doubles",sr:competition:19692,doubles,women,"ITF Women",sr:category:213
+sr:competition:19700,"ITF Turkiye 32A, Women Singles",sr:competition:19698,singles,women,"ITF Women",sr:category:213
+sr:competition:19702,"ITF Turkiye 32A, Women Doubles",sr:competition:19698,doubles,women,"ITF Women",sr:category:213
+sr:competition:19706,"ITF Ukraine 02A, Women Singles",sr:competition:19704,singles,women,"ITF Women",sr:category:213
+sr:competition:19708,"ITF Ukraine 02A, Women Doubles",sr:competition:19704,doubles,women,"ITF Women",sr:category:213
+sr:competition:19764,"ITF France 23A, Women Singles",sr:competition:19762,singles,women,"ITF Women",sr:category:213
+sr:competition:19766,"ITF France 23A, Women Doubles",sr:competition:19762,doubles,women,"ITF Women",sr:category:213
+sr:competition:19770,"ITF Women Penrith, Australia Women Doubles",sr:competition:19768,doubles,women,"ITF Women",sr:category:213
+sr:competition:19774,"ITF Lebanon 01A, Women Singles",sr:competition:19772,singles,women,"ITF Women",sr:category:213
+sr:competition:19776,"ITF Lebanon 01A, Women Doubles",sr:competition:19772,doubles,women,"ITF Women",sr:category:213
+sr:competition:19780,"ITF Ukraine 03A, Women Singles",sr:competition:19778,singles,women,"ITF Women",sr:category:213
+sr:competition:19782,"ITF Ukraine 03A, Women Doubles",sr:competition:19778,doubles,women,"ITF Women",sr:category:213
+sr:competition:19786,"ITF USA 32A, Women Singles",sr:competition:19784,singles,women,"ITF Women",sr:category:213
+sr:competition:19788,"ITF USA 32A, Women Doubles",sr:competition:19784,doubles,women,"ITF Women",sr:category:213
+sr:competition:19874,"ITF Australia 10A, Women Singles",sr:competition:19872,singles,women,"ITF Women",sr:category:213
+sr:competition:19876,"ITF Australia 10A, Women Doubles",sr:competition:19872,doubles,women,"ITF Women",sr:category:213
+sr:competition:19880,"ITF Italy 28A, Women Singles",sr:competition:19878,singles,women,"ITF Women",sr:category:213
+sr:competition:19882,"ITF Italy 28A, Women Doubles",sr:competition:19878,doubles,women,"ITF Women",sr:category:213
+sr:competition:19886,"ITF Thailand 09A, Women Singles",sr:competition:19884,singles,women,"ITF Women",sr:category:213
+sr:competition:19888,"ITF Thailand 09A, Women Doubles",sr:competition:19884,doubles,women,"ITF Women",sr:category:213
+sr:competition:19892,"ITF USA 33A, Women Singles",sr:competition:19890,singles,women,"ITF Women",sr:category:213
+sr:competition:19894,"ITF USA 33A, Women Doubles",sr:competition:19890,doubles,women,"ITF Women",sr:category:213
+sr:competition:19898,"ITF Czech Republic 08A, Women Singles",sr:competition:19896,singles,women,"ITF Women",sr:category:213
+sr:competition:19900,"ITF Czech Republic 08A, Women Doubles",sr:competition:19896,doubles,women,"ITF Women",sr:category:213
+sr:competition:19904,"ITF Egypt 27A, Women Singles",sr:competition:19902,singles,women,"ITF Women",sr:category:213
+sr:competition:19906,"ITF Egypt 27A, Women Doubles",sr:competition:19902,doubles,women,"ITF Women",sr:category:213
+sr:competition:19910,"ITF Kazakhstan 08A, Women Singles",sr:competition:19908,singles,women,"ITF Women",sr:category:213
+sr:competition:19912,"ITF Kazakhstan 08A, Women Doubles",sr:competition:19908,doubles,women,"ITF Women",sr:category:213
+sr:competition:19916,"ITF Spain 16A, Women Singles",sr:competition:19914,singles,women,"ITF Women",sr:category:213
+sr:competition:19918,"ITF Spain 16A, Women Doubles",sr:competition:19914,doubles,women,"ITF Women",sr:category:213
+sr:competition:19922,"ITF Tunisia 28A, Women Singles",sr:competition:19920,singles,women,"ITF Women",sr:category:213
+sr:competition:19924,"ITF Tunisia 28A, Women Doubles",sr:competition:19920,doubles,women,"ITF Women",sr:category:213
+sr:competition:19928,"ITF Turkiye 33A, Women Singles",sr:competition:19926,singles,women,"ITF Women",sr:category:213
+sr:competition:19930,"ITF Turkiye 33A, Women Doubles",sr:competition:19926,doubles,women,"ITF Women",sr:category:213
+sr:competition:19934,"ITF USA 34A, Women Singles",sr:competition:19932,singles,women,"ITF Women",sr:category:213
+sr:competition:19936,"ITF USA 34A, Women Doubles",sr:competition:19932,doubles,women,"ITF Women",sr:category:213
+sr:competition:19958,"ITF Lebanon 02A, Women Singles",sr:competition:19956,singles,women,"ITF Women",sr:category:213
+sr:competition:19960,"ITF Lebanon 02A, Women Doubles",sr:competition:19956,doubles,women,"ITF Women",sr:category:213
+sr:competition:19964,"ITF Sri Lanka 01A, Women Singles",sr:competition:19962,singles,women,"ITF Women",sr:category:213
+sr:competition:19966,"ITF Sri Lanka 01A, Women Doubles",sr:competition:19962,doubles,women,"ITF Women",sr:category:213
+sr:competition:19970,"ITF Spain 17A, Women Singles",sr:competition:19968,singles,women,"ITF Women",sr:category:213
+sr:competition:19972,"ITF Spain 17A, Women Doubles",sr:competition:19968,doubles,women,"ITF Women",sr:category:213
+sr:competition:20038,"ITF Australia 11A, Women Singles",sr:competition:20036,singles,women,"ITF Women",sr:category:213
+sr:competition:20040,"ITF Australia 11A, Women Doubles",sr:competition:20036,doubles,women,"ITF Women",sr:category:213
+sr:competition:20044,"ITF Italy 29A, Women Singles",sr:competition:20042,singles,women,"ITF Women",sr:category:213
+sr:competition:20046,"ITF Italy 29A, Women Doubles",sr:competition:20042,doubles,women,"ITF Women",sr:category:213
+sr:competition:20050,"ITF Argentina 04A, Women Singles",sr:competition:20048,singles,women,"ITF Women",sr:category:213
+sr:competition:20052,"ITF Argentina 04A, Women Doubles",sr:competition:20048,doubles,women,"ITF Women",sr:category:213
+sr:competition:20056,"ITF Bulgaria 04A, Women Singles",sr:competition:20054,singles,women,"ITF Women",sr:category:213
+sr:competition:20058,"ITF Bulgaria 04A, Women Doubles",sr:competition:20054,doubles,women,"ITF Women",sr:category:213
+sr:competition:20062,"ITF Egypt 28A, Women Singles",sr:competition:20060,singles,women,"ITF Women",sr:category:213
+sr:competition:20064,"ITF Egypt 28A, Women Doubles",sr:competition:20060,doubles,women,"ITF Women",sr:category:213
+sr:competition:20068,"ITF Portugal 15A, Women Singles",sr:competition:20066,singles,women,"ITF Women",sr:category:213
+sr:competition:20070,"ITF Portugal 15A, Women Doubles",sr:competition:20066,doubles,women,"ITF Women",sr:category:213
+sr:competition:20074,"ITF Thailand 13A, Women Singles",sr:competition:20072,singles,women,"ITF Women",sr:category:213
+sr:competition:20076,"ITF Thailand 13A, Women Doubles",sr:competition:20072,doubles,women,"ITF Women",sr:category:213
+sr:competition:20080,"ITF Tunisia 29A, Women Singles",sr:competition:20078,singles,women,"ITF Women",sr:category:213
+sr:competition:20082,"ITF Tunisia 29A, Women Doubles",sr:competition:20078,doubles,women,"ITF Women",sr:category:213
+sr:competition:20086,"ITF Turkiye 34A, Women Singles",sr:competition:20084,singles,women,"ITF Women",sr:category:213
+sr:competition:20088,"ITF Turkiye 34A, Women Doubles",sr:competition:20084,doubles,women,"ITF Women",sr:category:213
+sr:competition:20092,"ITF USA 35A, Women Singles",sr:competition:20090,singles,women,"ITF Women",sr:category:213
+sr:competition:20094,"ITF USA 35A, Women Doubles",sr:competition:20090,doubles,women,"ITF Women",sr:category:213
+sr:competition:20122,"ITF Sri Lanka 02A, Women Singles",sr:competition:20120,singles,women,"ITF Women",sr:category:213
+sr:competition:20126,"ITF France 24A, Women Singles",sr:competition:20124,singles,women,"ITF Women",sr:category:213
+sr:competition:20128,"ITF France 24A, Women Doubles",sr:competition:20124,doubles,women,"ITF Women",sr:category:213
+sr:competition:20130,"ITF Sri Lanka 02A, Women Doubles",sr:competition:20120,doubles,women,"ITF Women",sr:category:213
+sr:competition:20204,"ITF Turkiye 35A, Women Singles",sr:competition:20202,singles,women,"ITF Women",sr:category:213
+sr:competition:20206,"ITF Turkiye 35A, Women Doubles",sr:competition:20202,doubles,women,"ITF Women",sr:category:213
+sr:competition:20210,"ITF Tunisia 30A, Women Singles",sr:competition:20208,singles,women,"ITF Women",sr:category:213
+sr:competition:20212,"ITF Tunisia 30A, Women Doubles",sr:competition:20208,doubles,women,"ITF Women",sr:category:213
+sr:competition:20216,"ITF Thailand 14A, Women Singles",sr:competition:20214,singles,women,"ITF Women",sr:category:213
+sr:competition:20218,"ITF Thailand 14A, Women Doubles",sr:competition:20214,doubles,women,"ITF Women",sr:category:213
+sr:competition:20222,"ITF Egypt 29A, Women Singles",sr:competition:20220,singles,women,"ITF Women",sr:category:213
+sr:competition:20224,"ITF Egypt 29A, Women Doubles",sr:competition:20220,doubles,women,"ITF Women",sr:category:213
+sr:competition:20230,"ITF Argentina 05A, Women Singles",sr:competition:20228,singles,women,"ITF Women",sr:category:213
+sr:competition:20232,"ITF Argentina 05A, Women Doubles",sr:competition:20228,doubles,women,"ITF Women",sr:category:213
+sr:competition:20236,"ITF USA 36A, Women Singles",sr:competition:20234,singles,women,"ITF Women",sr:category:213
+sr:competition:20238,"ITF USA 36A, Women Doubles",sr:competition:20234,doubles,women,"ITF Women",sr:category:213
+sr:competition:20242,"ITF Spain 18A, Women Singles",sr:competition:20240,singles,women,"ITF Women",sr:category:213
+sr:competition:20244,"ITF Spain 18A, Women Doubles",sr:competition:20240,doubles,women,"ITF Women",sr:category:213
+sr:competition:20248,"ITF Portugal 12A, Women Singles",sr:competition:20246,singles,women,"ITF Women",sr:category:213
+sr:competition:20250,"ITF Portugal 12A, Women Doubles",sr:competition:20246,doubles,women,"ITF Women",sr:category:213
+sr:competition:20260,"ITF Nigeria 01A, Women Singles",sr:competition:20258,singles,women,"ITF Women",sr:category:213
+sr:competition:20262,"ITF Nigeria 01A, Women Doubles",sr:competition:20258,doubles,women,"ITF Women",sr:category:213
+sr:competition:20272,"ITF Japan 11A, Women Singles",sr:competition:20268,singles,women,"ITF Women",sr:category:213
+sr:competition:20274,"ITF Japan 11A, Women Doubles",sr:competition:20268,doubles,women,"ITF Women",sr:category:213
+sr:competition:20278,"ITF Italy 30A, Women Singles",sr:competition:20276,singles,women,"ITF Women",sr:category:213
+sr:competition:20280,"ITF Italy 30A, Women Doubles",sr:competition:20276,doubles,women,"ITF Women",sr:category:213
+sr:competition:20284,"ITF Australia 12A, Women Singles",sr:competition:20282,singles,women,"ITF Women",sr:category:213
+sr:competition:20286,"ITF Australia 12A, Women Doubles",sr:competition:20282,doubles,women,"ITF Women",sr:category:213
+sr:competition:20302,"ITF Sri Lanka 03A, Women Singles",sr:competition:20300,singles,women,"ITF Women",sr:category:213
+sr:competition:20304,"ITF Sri Lanka 03A, Women Doubles",sr:competition:20300,doubles,women,"ITF Women",sr:category:213
+sr:competition:20308,"ITF Spain 18B, Women Singles",sr:competition:20306,singles,women,"ITF Women",sr:category:213
+sr:competition:20310,"ITF Spain 18B, Women Doubles",sr:competition:20306,doubles,women,"ITF Women",sr:category:213
+sr:competition:20328,"ITF China 16A, Women Singles",sr:competition:20326,singles,women,"ITF Women",sr:category:213
+sr:competition:20330,"ITF China 16A, Women Doubles",sr:competition:20326,doubles,women,"ITF Women",sr:category:213
+sr:competition:20334,"ITF France 25A, Women Singles",sr:competition:20332,singles,women,"ITF Women",sr:category:213
+sr:competition:20336,"ITF France 25A, Women Doubles",sr:competition:20332,doubles,women,"ITF Women",sr:category:213
+sr:competition:20340,"ITF Japan 12A, Women Singles",sr:competition:20338,singles,women,"ITF Women",sr:category:213
+sr:competition:20342,"ITF Japan 12A, Women Doubles",sr:competition:20338,doubles,women,"ITF Women",sr:category:213
+sr:competition:20346,"ITF Italy 31A, Women Singles",sr:competition:20344,singles,women,"ITF Women",sr:category:213
+sr:competition:20348,"ITF Italy 31A, Women Doubles",sr:competition:20344,doubles,women,"ITF Women",sr:category:213
+sr:competition:20352,"ITF Nigeria 02A, Women Singles",sr:competition:20350,singles,women,"ITF Women",sr:category:213
+sr:competition:20354,"ITF Nigeria 02A, Women Doubles",sr:competition:20350,doubles,women,"ITF Women",sr:category:213
+sr:competition:20358,"ITF Portugal 13A, Women Doubles",sr:competition:20356,doubles,women,"ITF Women",sr:category:213
+sr:competition:20360,"ITF Portugal 13A, Women Singles",sr:competition:20356,singles,women,"ITF Women",sr:category:213
+sr:competition:20364,"ITF USA 37A, Women Singles",sr:competition:20362,singles,women,"ITF Women",sr:category:213
+sr:competition:20366,"ITF USA 37A, Women Doubles",sr:competition:20362,doubles,women,"ITF Women",sr:category:213
+sr:competition:20370,"ITF Egypt 30A, Women Singles",sr:competition:20368,singles,women,"ITF Women",sr:category:213
+sr:competition:20372,"ITF Egypt 30A, Women Doubles",sr:competition:20368,doubles,women,"ITF Women",sr:category:213
+sr:competition:20376,"ITF Tunisia 31A, Women Singles",sr:competition:20374,singles,women,"ITF Women",sr:category:213
+sr:competition:20378,"ITF Tunisia 31A, Women Doubles",sr:competition:20374,doubles,women,"ITF Women",sr:category:213
+sr:competition:20382,"ITF Turkiye 36A, Women Singles",sr:competition:20380,singles,women,"ITF Women",sr:category:213
+sr:competition:20384,"ITF Turkiye 36A, Women Doubles",sr:competition:20380,doubles,women,"ITF Women",sr:category:213
+sr:competition:20438,"ITF Hong Kong 01A, Women Singles",sr:competition:20436,singles,women,"ITF Women",sr:category:213
+sr:competition:20440,"ITF Hong Kong 01A, Women Doubles",sr:competition:20436,doubles,women,"ITF Women",sr:category:213
+sr:competition:20444,"ITF USA 01A, Women Singles",sr:competition:20442,singles,women,"ITF Women",sr:category:213
+sr:competition:20446,"ITF USA 01A, Women Doubles",sr:competition:20442,doubles,women,"ITF Women",sr:category:213
+sr:competition:20450,"ITF France 01A, Women Singles",sr:competition:20448,singles,women,"ITF Women",sr:category:213
+sr:competition:20452,"ITF France 01A, Women Doubles",sr:competition:20448,doubles,women,"ITF Women",sr:category:213
+sr:competition:20492,"ITF Tunisia 01A, Women Singles",sr:competition:20490,singles,women,"ITF Women",sr:category:213
+sr:competition:20494,"ITF Tunisia 01A, Women Doubles",sr:competition:20490,doubles,women,"ITF Women",sr:category:213
+sr:competition:20534,"ITF France 21A, Women Singles",sr:competition:20532,singles,women,"ITF Women",sr:category:213
+sr:competition:20536,"ITF France 21A, Women Doubles",sr:competition:20532,doubles,women,"ITF Women",sr:category:213
+sr:competition:20542,"ITF USA 38A, Women Singles",sr:competition:20540,singles,women,"ITF Women",sr:category:213
+sr:competition:20544,"ITF USA 38A, Women Doubles",sr:competition:20540,doubles,women,"ITF Women",sr:category:213
+sr:competition:20550,"ITF Canada 07A, Women Singles",sr:competition:20548,singles,women,"ITF Women",sr:category:213
+sr:competition:20552,"ITF Canada 07A, Women Doubles",sr:competition:20548,doubles,women,"ITF Women",sr:category:213
+sr:competition:20556,"ITF China 17A, Women Singles",sr:competition:20554,singles,women,"ITF Women",sr:category:213
+sr:competition:20558,"ITF China 17A, Women Doubles",sr:competition:20554,doubles,women,"ITF Women",sr:category:213
+sr:competition:20564,"ITF Italy 32A, Women Singles",sr:competition:20562,singles,women,"ITF Women",sr:category:213
+sr:competition:20566,"ITF Italy 32A, Women Doubles",sr:competition:20562,doubles,women,"ITF Women",sr:category:213
+sr:competition:20570,"ITF Portugal 14A, Women Singles",sr:competition:20568,singles,women,"ITF Women",sr:category:213
+sr:competition:20572,"ITF Portugal 14A, Women Doubles",sr:competition:20568,doubles,women,"ITF Women",sr:category:213
+sr:competition:20592,"ITF Turkiye 37A, Women Singles",sr:competition:20590,singles,women,"ITF Women",sr:category:213
+sr:competition:20594,"ITF Turkiye 37A, Women Doubles",sr:competition:20590,doubles,women,"ITF Women",sr:category:213
+sr:competition:20598,"ITF Egypt 31A, Women Singles",sr:competition:20596,singles,women,"ITF Women",sr:category:213
+sr:competition:20600,"ITF Egypt 31A, Women Doubles",sr:competition:20596,doubles,women,"ITF Women",sr:category:213
+sr:competition:20604,"ITF Great Britain 14A, Women Singles",sr:competition:20602,singles,women,"ITF Women",sr:category:213
+sr:competition:20606,"ITF Great Britain 14A, Women Doubles",sr:competition:20602,doubles,women,"ITF Women",sr:category:213
+sr:competition:20610,"ITF Greece 06A, Women Singles",sr:competition:20608,singles,women,"ITF Women",sr:category:213
+sr:competition:20612,"ITF Greece 06A, Women Doubles",sr:competition:20608,doubles,women,"ITF Women",sr:category:213
+sr:competition:20616,"ITF Paraguay 01B, Women Singles",sr:competition:20614,singles,women,"ITF Women",sr:category:213
+sr:competition:20618,"ITF Paraguay 01B, Women Doubles",sr:competition:20614,doubles,women,"ITF Women",sr:category:213
+sr:competition:20622,"ITF Sweden 04A, Women Singles",sr:competition:20620,singles,women,"ITF Women",sr:category:213
+sr:competition:20624,"ITF Sweden 04A, Women Doubles",sr:competition:20620,doubles,women,"ITF Women",sr:category:213
+sr:competition:20628,"ITF Tunisia 32A, Women Singles",sr:competition:20626,singles,women,"ITF Women",sr:category:213
+sr:competition:20630,"ITF Tunisia 32A, Women Doubles",sr:competition:20626,doubles,women,"ITF Women",sr:category:213
+sr:competition:20654,"ITF Turkey 01A, Women Singles",sr:competition:20652,singles,women,"ITF Women",sr:category:213
+sr:competition:20656,"ITF Turkey 01A, Women Doubles",sr:competition:20652,doubles,women,"ITF Women",sr:category:213
+sr:competition:20660,"ITF USA 02A, Women Singles",sr:competition:20658,singles,women,"ITF Women",sr:category:213
+sr:competition:20662,"ITF USA 02A, Women Doubles",sr:competition:20658,doubles,women,"ITF Women",sr:category:213
+sr:competition:20666,"ITF Egypt 01A, Women Singles",sr:competition:20664,singles,women,"ITF Women",sr:category:213
+sr:competition:20668,"ITF Egypt 01A, Women Doubles",sr:competition:20664,doubles,women,"ITF Women",sr:category:213
+sr:competition:20672,"ITF France 02A, Women Singles",sr:competition:20670,singles,women,"ITF Women",sr:category:213
+sr:competition:20674,"ITF France 02A, Women Doubles",sr:competition:20670,doubles,women,"ITF Women",sr:category:213
+sr:competition:20684,"ITF Germany 01A, Women Singles",sr:competition:20682,singles,women,"ITF Women",sr:category:213
+sr:competition:20686,"ITF Germany 01A, Women Doubles",sr:competition:20682,doubles,women,"ITF Women",sr:category:213
+sr:competition:20690,"ITF Tunisia 02A, Women Singles",sr:competition:20688,singles,women,"ITF Women",sr:category:213
+sr:competition:20692,"ITF Tunisia 02A, Women Doubles",sr:competition:20688,doubles,women,"ITF Women",sr:category:213
+sr:competition:20696,"ITF Turkey 02A, Women Singles",sr:competition:20694,singles,women,"ITF Women",sr:category:213
+sr:competition:20698,"ITF Turkey 02A, Women Doubles",sr:competition:20694,doubles,women,"ITF Women",sr:category:213
+sr:competition:20702,"ITF France 05A, Women Singles",sr:competition:20700,singles,women,"ITF Women",sr:category:213
+sr:competition:20704,"ITF France 05A, Women Doubles",sr:competition:20700,doubles,women,"ITF Women",sr:category:213
+sr:competition:20708,"ITF USA 03A, Women Singles",sr:competition:20706,singles,women,"ITF Women",sr:category:213
+sr:competition:20710,"ITF USA 03A, Women Doubles",sr:competition:20706,doubles,women,"ITF Women",sr:category:213
+sr:competition:20714,"ITF Egypt 02A, Women Singles",sr:competition:20712,singles,women,"ITF Women",sr:category:213
+sr:competition:20716,"ITF Egypt 02A, Women Doubles",sr:competition:20712,doubles,women,"ITF Women",sr:category:213
+sr:competition:20720,"ITF France 03A, Women Singles",sr:competition:20718,singles,women,"ITF Women",sr:category:213
+sr:competition:20722,"ITF France 03A, Women Doubles",sr:competition:20718,doubles,women,"ITF Women",sr:category:213
+sr:competition:20726,"ITF Kazakhstan 01A, Women Singles",sr:competition:20724,singles,women,"ITF Women",sr:category:213
+sr:competition:20728,"ITF Kazakhstan 01A, Women Doubles",sr:competition:20724,doubles,women,"ITF Women",sr:category:213
+sr:competition:20776,"ITF USA 39A, Women Singles",sr:competition:20774,singles,women,"ITF Women",sr:category:213
+sr:competition:20778,"ITF USA 39A, Women Doubles",sr:competition:20774,doubles,women,"ITF Women",sr:category:213
+sr:competition:20818,"ITF Australia 07A, Women Singles",sr:competition:20816,singles,women,"ITF Women",sr:category:213
+sr:competition:20820,"ITF Australia 07A, Women Doubles",sr:competition:20816,doubles,women,"ITF Women",sr:category:213
+sr:competition:20824,"ITF Canada 04A, Women Singles",sr:competition:20822,singles,women,"ITF Women",sr:category:213
+sr:competition:20826,"ITF Canada 04A, Women Doubles",sr:competition:20822,doubles,women,"ITF Women",sr:category:213
+sr:competition:20830,"ITF France 22A, Women Singles",sr:competition:20828,singles,women,"ITF Women",sr:category:213
+sr:competition:20832,"ITF France 22A, Women Doubles",sr:competition:20828,doubles,women,"ITF Women",sr:category:213
+sr:competition:20836,"ITF Spain 19A, Women Singles",sr:competition:20834,singles,women,"ITF Women",sr:category:213
+sr:competition:20838,"ITF Spain 19A, Women Doubles",sr:competition:20834,doubles,women,"ITF Women",sr:category:213
+sr:competition:20842,"ITF Colombia 01A, Women Singles",sr:competition:20840,singles,women,"ITF Women",sr:category:213
+sr:competition:20844,"ITF Colombia 01A, Women Doubles",sr:competition:20840,doubles,women,"ITF Women",sr:category:213
+sr:competition:20848,"ITF Great Britain 15A, Women Singles",sr:competition:20846,singles,women,"ITF Women",sr:category:213
+sr:competition:20850,"ITF Great Britain 15A, Women Doubles",sr:competition:20846,doubles,women,"ITF Women",sr:category:213
+sr:competition:20854,"ITF Luxembourg 01A, Women Singles",sr:competition:20852,singles,women,"ITF Women",sr:category:213
+sr:competition:20856,"ITF Luxembourg 01A, Women Doubles",sr:competition:20852,doubles,women,"ITF Women",sr:category:213
+sr:competition:20860,"ITF Morocco 01A, Women Singles",sr:competition:20858,singles,women,"ITF Women",sr:category:213
+sr:competition:20862,"ITF Morocco 01A, Women Doubles",sr:competition:20858,doubles,women,"ITF Women",sr:category:213
+sr:competition:20866,"ITF Paraguay 01A, Women Singles",sr:competition:20864,singles,women,"ITF Women",sr:category:213
+sr:competition:20868,"ITF Paraguay 01A, Women Doubles",sr:competition:20864,doubles,women,"ITF Women",sr:category:213
+sr:competition:20872,"ITF Sweden 05A, Women Singles",sr:competition:20870,singles,women,"ITF Women",sr:category:213
+sr:competition:20874,"ITF Sweden 05A, Women Doubles",sr:competition:20870,doubles,women,"ITF Women",sr:category:213
+sr:competition:20878,"ITF Italy 33A, Women Singles",sr:competition:20876,singles,women,"ITF Women",sr:category:213
+sr:competition:20880,"ITF Italy 33A, Women Doubles",sr:competition:20876,doubles,women,"ITF Women",sr:category:213
+sr:competition:20884,"ITF Egypt 32A, Women Singles",sr:competition:20882,singles,women,"ITF Women",sr:category:213
+sr:competition:20886,"ITF Egypt 32A, Women Doubles",sr:competition:20882,doubles,women,"ITF Women",sr:category:213
+sr:competition:20890,"ITF Greece 07A, Women Singles",sr:competition:20888,singles,women,"ITF Women",sr:category:213
+sr:competition:20892,"ITF Greece 07A, Women Doubles",sr:competition:20888,doubles,women,"ITF Women",sr:category:213
+sr:competition:20896,"ITF Tunisia 33A, Women Singles",sr:competition:20894,singles,women,"ITF Women",sr:category:213
+sr:competition:20898,"ITF Tunisia 33A, Women Doubles",sr:competition:20894,doubles,women,"ITF Women",sr:category:213
+sr:competition:20902,"ITF Turkiye 38A, Women Singles",sr:competition:20900,singles,women,"ITF Women",sr:category:213
+sr:competition:20904,"ITF Turkiye 38A, Women Doubles",sr:competition:20900,doubles,women,"ITF Women",sr:category:213
+sr:competition:20942,"ITF Morocco 02A, Women Singles",sr:competition:20940,singles,women,"ITF Women",sr:category:213
+sr:competition:20944,"ITF Morocco 02A, Women Doubles",sr:competition:20940,doubles,women,"ITF Women",sr:category:213
+sr:competition:20948,"ITF Paraguay 02A, Women Singles",sr:competition:20946,singles,women,"ITF Women",sr:category:213
+sr:competition:20950,"ITF Paraguay 02A, Women Doubles",sr:competition:20946,doubles,women,"ITF Women",sr:category:213
+sr:competition:20956,"ITF Tunisia 03A, Women Singles",sr:competition:20954,singles,women,"ITF Women",sr:category:213
+sr:competition:20958,"ITF Tunisia 03A, Women Doubles",sr:competition:20954,doubles,women,"ITF Women",sr:category:213
+sr:competition:20962,"ITF Turkey 03A, Women Singles",sr:competition:20960,singles,women,"ITF Women",sr:category:213
+sr:competition:20964,"ITF Turkey 03A, Women Doubles",sr:competition:20960,doubles,women,"ITF Women",sr:category:213
+sr:competition:20968,"ITF China 18B, Women Singles",sr:competition:20966,singles,women,"ITF Women",sr:category:213
+sr:competition:20970,"ITF China 18B, Women Doubles",sr:competition:20966,doubles,women,"ITF Women",sr:category:213
+sr:competition:20974,"ITF Japan 14A, Women Singles",sr:competition:20972,singles,women,"ITF Women",sr:category:213
+sr:competition:20976,"ITF Japan 14A, Women Doubles",sr:competition:20972,doubles,women,"ITF Women",sr:category:213
+sr:competition:20980,"ITF USA 40A, Women Singles",sr:competition:20978,singles,women,"ITF Women",sr:category:213
+sr:competition:20982,"ITF USA 40A, Women Doubles",sr:competition:20978,doubles,women,"ITF Women",sr:category:213
+sr:competition:20986,"ITF Australia 08A, Women Singles",sr:competition:20984,singles,women,"ITF Women",sr:category:213
+sr:competition:20988,"ITF Australia 08A, Women Doubles",sr:competition:20984,doubles,women,"ITF Women",sr:category:213
+sr:competition:20992,"ITF Great Britain 16A, Women Singles",sr:competition:20990,singles,women,"ITF Women",sr:category:213
+sr:competition:20994,"ITF Great Britain 16A, Women Doubles",sr:competition:20990,doubles,women,"ITF Women",sr:category:213
+sr:competition:20998,"ITF India 03A, Women Singles",sr:competition:20996,singles,women,"ITF Women",sr:category:213
+sr:competition:21000,"ITF India 03A, Women Doubles",sr:competition:20996,doubles,women,"ITF Women",sr:category:213
+sr:competition:21028,"ITF Colombia 02A, Women Singles",,singles,women,"ITF Women",sr:category:213
+sr:competition:21030,"ITF Colombia 02A, Women Doubles",sr:competition:21026,doubles,women,"ITF Women",sr:category:213
+sr:competition:21040,"ITF Egypt 33A, Women Singles",sr:competition:21038,singles,women,"ITF Women",sr:category:213
+sr:competition:21042,"ITF Egypt 33A, Women Doubles",sr:competition:21038,doubles,women,"ITF Women",sr:category:213
+sr:competition:21052,"ITF Greece 08A, Women Singles",sr:competition:21050,singles,women,"ITF Women",sr:category:213
+sr:competition:21054,"ITF Greece 08A, Women Doubles",sr:competition:21050,doubles,women,"ITF Women",sr:category:213
+sr:competition:21064,"ITF Italy 34A, Women Doubles",sr:competition:21062,doubles,women,"ITF Women",sr:category:213
+sr:competition:21066,"ITF Italy 34A, Women Singles",sr:competition:21062,singles,women,"ITF Women",sr:category:213
+sr:competition:21082,"ITF Spain 20A, Women Singles",sr:competition:21080,singles,women,"ITF Women",sr:category:213
+sr:competition:21084,"ITF Spain 20A, Women Doubles",sr:competition:21080,doubles,women,"ITF Women",sr:category:213
+sr:competition:21088,"ITF Tunisia 34A, Women Singles",sr:competition:21086,singles,women,"ITF Women",sr:category:213
+sr:competition:21090,"ITF Tunisia 34A, Women Doubles",sr:competition:21086,doubles,women,"ITF Women",sr:category:213
+sr:competition:21094,"ITF Turkey 39A, Women Singles",sr:competition:21092,singles,women,"ITF Women",sr:category:213
+sr:competition:21096,"ITF Turkey 39A, Women Doubles",sr:competition:21092,doubles,women,"ITF Women",sr:category:213
+sr:competition:21128,"ITF Australia 03A, Women Singles",sr:competition:21126,singles,women,"ITF Women",sr:category:213
+sr:competition:21130,"ITF Australia 03A, Women Doubles",sr:competition:21126,doubles,women,"ITF Women",sr:category:213
+sr:competition:21134,"ITF Brazil 01A, Women Singles",sr:competition:21132,singles,women,"ITF Women",sr:category:213
+sr:competition:21136,"ITF Brazil 01A, Women Doubles",sr:competition:21132,doubles,women,"ITF Women",sr:category:213
+sr:competition:21140,"ITF Australia 01C, Women Singles",sr:competition:21138,singles,women,"ITF Women",sr:category:213
+sr:competition:21142,"ITF Australia 01C, Women Doubles",sr:competition:21138,doubles,women,"ITF Women",sr:category:213
+sr:competition:21146,"ITF China 03A, Women Singles",sr:competition:21144,singles,women,"ITF Women",sr:category:213
+sr:competition:21148,"ITF China 03A, Women Doubles",sr:competition:21144,doubles,women,"ITF Women",sr:category:213
+sr:competition:21152,"ITF France 04A, Women Singles",sr:competition:21150,singles,women,"ITF Women",sr:category:213
+sr:competition:21154,"ITF France 04A, Women Doubles",sr:competition:21150,doubles,women,"ITF Women",sr:category:213
+sr:competition:21176,"ITF Morocco 03A, Women Singles",sr:competition:21174,singles,women,"ITF Women",sr:category:213
+sr:competition:21178,"ITF Morocco 03A, Women Doubles",sr:competition:21174,doubles,women,"ITF Women",sr:category:213
+sr:competition:21182,"ITF USA 41A, Women Singles",sr:competition:21180,singles,women,"ITF Women",sr:category:213
+sr:competition:21184,"ITF USA 41A, Women Doubles",sr:competition:21180,doubles,women,"ITF Women",sr:category:213
+sr:competition:21190,"ITF Egypt 03A, Women Singles",sr:competition:21188,singles,women,"ITF Women",sr:category:213
+sr:competition:21192,"ITF Egypt 03A, Women Doubles",sr:competition:21188,doubles,women,"ITF Women",sr:category:213
+sr:competition:21196,"ITF Great Britain 01A, Women Singles",sr:competition:21194,singles,women,"ITF Women",sr:category:213
+sr:competition:21198,"ITF Great Britain 01A, Women Doubles",sr:competition:21194,doubles,women,"ITF Women",sr:category:213
+sr:competition:21202,"ITF Kazakhstan 02A, Women Singles",sr:competition:21200,singles,women,"ITF Women",sr:category:213
+sr:competition:21204,"ITF Kazakhstan 02A, Women Doubles",sr:competition:21200,doubles,women,"ITF Women",sr:category:213
+sr:competition:21214,"ITF Tunisia 04A, Women Singles",sr:competition:21212,singles,women,"ITF Women",sr:category:213
+sr:competition:21216,"ITF Tunisia 04A, Women Doubles",sr:competition:21212,doubles,women,"ITF Women",sr:category:213
+sr:competition:21220,"ITF Turkey 04A, Women Singles",sr:competition:21218,singles,women,"ITF Women",sr:category:213
+sr:competition:21222,"ITF Turkey 04A, Women Doubles",sr:competition:21218,doubles,women,"ITF Women",sr:category:213
+sr:competition:21226,"ITF Australia 02B, Women Singles",sr:competition:21224,singles,women,"ITF Women",sr:category:213
+sr:competition:21228,"ITF Australia 02B, Women Doubles",,doubles,women,"ITF Women",sr:category:213
+sr:competition:21232,"ITF Egypt 04A, Women Singles",sr:competition:21230,singles,women,"ITF Women",sr:category:213
+sr:competition:21234,"ITF Egypt 04A, Women Doubles",sr:competition:21230,doubles,women,"ITF Women",sr:category:213
+sr:competition:21238,"ITF Great Britain 06A, Women Singles",sr:competition:21236,singles,women,"ITF Women",sr:category:213
+sr:competition:21240,"ITF Great Britain 06A, Women Doubles",sr:competition:21236,doubles,women,"ITF Women",sr:category:213
+sr:competition:21244,"ITF Slovakia 01A, Women Singles",sr:competition:21242,singles,women,"ITF Women",sr:category:213
+sr:competition:21246,"ITF Slovakia 01A, Women Doubles",sr:competition:21242,doubles,women,"ITF Women",sr:category:213
+sr:competition:21252,"ITF Spain 01A, Women Singles",sr:competition:21250,singles,women,"ITF Women",sr:category:213
+sr:competition:21254,"ITF Spain 01A, Women Doubles",sr:competition:21250,doubles,women,"ITF Women",sr:category:213
+sr:competition:21258,"ITF Tunisia 05A, Women Singles",sr:competition:21256,singles,women,"ITF Women",sr:category:213
+sr:competition:21260,"ITF Tunisia 05A, Women Doubles",sr:competition:21256,doubles,women,"ITF Women",sr:category:213
+sr:competition:21264,"ITF Turkey 05A, Women Singles",sr:competition:21262,singles,women,"ITF Women",sr:category:213
+sr:competition:21266,"ITF Turkey 05A, Women Doubles",sr:competition:21262,doubles,women,"ITF Women",sr:category:213
+sr:competition:21270,"ITF Australia 01A, Women Singles",sr:competition:21268,singles,women,"ITF Women",sr:category:213
+sr:competition:21272,"ITF Australia 01A, Women Doubles",sr:competition:21268,doubles,women,"ITF Women",sr:category:213
+sr:competition:21276,"ITF Germany 02A, Women Singles",sr:competition:21274,singles,women,"ITF Women",sr:category:213
+sr:competition:21278,"ITF Germany 02A, Women Doubles",sr:competition:21274,doubles,women,"ITF Women",sr:category:213
+sr:competition:21282,"ITF USA 05A, Women Singles",sr:competition:21280,singles,women,"ITF Women",sr:category:213
+sr:competition:21284,"ITF USA 05A, Women Doubles",sr:competition:21280,doubles,women,"ITF Women",sr:category:213
+sr:competition:21294,"ITF China 01A, Women Singles",sr:competition:21292,singles,women,"ITF Women",sr:category:213
+sr:competition:21296,"ITF China 01A, Women Doubles",sr:competition:21292,doubles,women,"ITF Women",sr:category:213
+sr:competition:21324,"ITF Japan 13A, Women Singles",sr:competition:21322,singles,women,"ITF Women",sr:category:213
+sr:competition:21326,"ITF Japan 13A, Women Doubles",sr:competition:21322,doubles,women,"ITF Women",sr:category:213
+sr:competition:21330,"ITF Poland 07A, Women Singles",sr:competition:21328,singles,women,"ITF Women",sr:category:213
+sr:competition:21332,"ITF Poland 07A, Women Doubles",sr:competition:21328,doubles,women,"ITF Women",sr:category:213
+sr:competition:21338,"ITF Senegal 01A, Women Singles",sr:competition:21336,singles,women,"ITF Women",sr:category:213
+sr:competition:21340,"ITF Senegal 01A, Women Doubles",sr:competition:21336,doubles,women,"ITF Women",sr:category:213
+sr:competition:21362,"ITF Egypt 34A, Women Singles",sr:competition:21360,singles,women,"ITF Women",sr:category:213
+sr:competition:21364,"ITF Egypt 34A, Women Doubles",sr:competition:21360,doubles,women,"ITF Women",sr:category:213
+sr:competition:21368,"ITF Finland 03A, Women Singles",sr:competition:21366,singles,women,"ITF Women",sr:category:213
+sr:competition:21370,"ITF Finland 03A, Women Doubles",sr:competition:21366,doubles,women,"ITF Women",sr:category:213
+sr:competition:21374,"ITF Greece 09A, Women Singles",sr:competition:21372,singles,women,"ITF Women",sr:category:213
+sr:competition:21376,"ITF Greece 09A, Women Doubles",sr:competition:21372,doubles,women,"ITF Women",sr:category:213
+sr:competition:21380,"ITF Norway 01A, Women Singles",sr:competition:21378,singles,women,"ITF Women",sr:category:213
+sr:competition:21382,"ITF Norway 01A, Women Doubles",sr:competition:21378,doubles,women,"ITF Women",sr:category:213
+sr:competition:21388,"ITF Spain 21A, Women Singles",sr:competition:21386,singles,women,"ITF Women",sr:category:213
+sr:competition:21390,"ITF Spain 21A, Women Doubles",sr:competition:21386,doubles,women,"ITF Women",sr:category:213
+sr:competition:21394,"ITF Tunisia 35A, Women Singles",sr:competition:21392,singles,women,"ITF Women",sr:category:213
+sr:competition:21396,"ITF Tunisia 35A, Women Doubles",sr:competition:21392,doubles,women,"ITF Women",sr:category:213
+sr:competition:21400,"ITF Turkey 40A, Women Singles",sr:competition:21398,singles,women,"ITF Women",sr:category:213
+sr:competition:21402,"ITF Turkey 40A, Women Doubles",sr:competition:21398,doubles,women,"ITF Women",sr:category:213
+sr:competition:21432,"ITF Egypt 05A, Women Singles",sr:competition:21430,singles,women,"ITF Women",sr:category:213
+sr:competition:21434,"ITF Egypt 05A, Women Doubles",sr:competition:21430,doubles,women,"ITF Women",sr:category:213
+sr:competition:21438,"ITF Great Britain 07A, Women Singles",sr:competition:21436,singles,women,"ITF Women",sr:category:213
+sr:competition:21440,"ITF Great Britain 07A, Women Doubles",sr:competition:21436,doubles,women,"ITF Women",sr:category:213
+sr:competition:21444,"ITF Tunisia 06A, Women Singles",sr:competition:21442,singles,women,"ITF Women",sr:category:213
+sr:competition:21446,"ITF Tunisia 06A, Women Doubles",sr:competition:21442,doubles,women,"ITF Women",sr:category:213
+sr:competition:21450,"ITF Australia 02A, Women Singles",sr:competition:21448,singles,women,"ITF Women",sr:category:213
+sr:competition:21452,"ITF Australia 02A, Women Doubles",sr:competition:21448,doubles,women,"ITF Women",sr:category:213
+sr:competition:21468,"ITF Russia 01A, Women Singles",sr:competition:21466,singles,women,"ITF Women",sr:category:213
+sr:competition:21470,"ITF Russia 01A, Women Doubles",sr:competition:21466,doubles,women,"ITF Women",sr:category:213
+sr:competition:21474,"ITF USA 06A, Women Singles",sr:competition:21472,singles,women,"ITF Women",sr:category:213
+sr:competition:21476,"ITF USA 06A, Women Doubles",sr:competition:21472,doubles,women,"ITF Women",sr:category:213
+sr:competition:21480,"ITF China 02A, Women Singles",sr:competition:21478,singles,women,"ITF Women",sr:category:213
+sr:competition:21482,"ITF China 02A, Women Doubles",sr:competition:21478,doubles,women,"ITF Women",sr:category:213
+sr:competition:21486,"ITF Egypt 06A, Women Singles",sr:competition:21484,singles,women,"ITF Women",sr:category:213
+sr:competition:21488,"ITF Egypt 06A, Women Doubles",sr:competition:21484,doubles,women,"ITF Women",sr:category:213
+sr:competition:21492,"ITF Spain 03A, Women Singles",sr:competition:21490,singles,women,"ITF Women",sr:category:213
+sr:competition:21494,"ITF Spain 03A, Women Doubles",sr:competition:21490,doubles,women,"ITF Women",sr:category:213
+sr:competition:21498,"ITF Tunisia 07A, Women Singles",sr:competition:21496,singles,women,"ITF Women",sr:category:213
+sr:competition:21500,"ITF Tunisia 07A, Women Doubles",sr:competition:21496,doubles,women,"ITF Women",sr:category:213
+sr:competition:21514,"ITF Turkey 06A, Women Singles",sr:competition:21512,singles,women,"ITF Women",sr:category:213
+sr:competition:21516,"ITF Turkey 06A, Women Doubles",sr:competition:21512,doubles,women,"ITF Women",sr:category:213
+sr:competition:21520,"ITF Turkey 07A, Women Singles",sr:competition:21518,singles,women,"ITF Women",sr:category:213
+sr:competition:21522,"ITF Turkey 07A, Women Doubles",sr:competition:21518,doubles,women,"ITF Women",sr:category:213
+sr:competition:21584,"ITF Spain 24A, Women Singles",sr:competition:21582,singles,women,"ITF Women",sr:category:213
+sr:competition:21586,"ITF Spain 24A, Women Doubles",sr:competition:21582,doubles,women,"ITF Women",sr:category:213
+sr:competition:21590,"ITF Belarus 03A, Women Singles",sr:competition:21588,singles,women,"ITF Women",sr:category:213
+sr:competition:21592,"ITF Belarus 03A, Women Doubles",sr:competition:21588,doubles,women,"ITF Women",sr:category:213
+sr:competition:21596,"ITF Egypt 35A, Women Singles",sr:competition:21594,singles,women,"ITF Women",sr:category:213
+sr:competition:21598,"ITF Egypt 35A, Women Doubles",sr:competition:21594,doubles,women,"ITF Women",sr:category:213
+sr:competition:21602,"ITF Greece 10A, Women Singles",sr:competition:21600,singles,women,"ITF Women",sr:category:213
+sr:competition:21604,"ITF Greece 10A, Women Doubles",sr:competition:21600,doubles,women,"ITF Women",sr:category:213
+sr:competition:21608,"ITF South Africa 01A, Women Singles",sr:competition:21606,singles,women,"ITF Women",sr:category:213
+sr:competition:21610,"ITF South Africa 01A, Women Doubles",sr:competition:21606,doubles,women,"ITF Women",sr:category:213
+sr:competition:21614,"ITF Tunisia 36A, Women Singles",sr:competition:21612,singles,women,"ITF Women",sr:category:213
+sr:competition:21616,"ITF Tunisia 36A, Women Doubles",sr:competition:21612,doubles,women,"ITF Women",sr:category:213
+sr:competition:21620,"ITF Turkey 41A, Women Singles",sr:competition:21618,singles,women,"ITF Women",sr:category:213
+sr:competition:21622,"ITF Turkey 41A, Women Doubles",sr:competition:21618,doubles,women,"ITF Women",sr:category:213
+sr:competition:21710,"ITF Brazil 09B, Women Singles",sr:competition:21708,singles,women,"ITF Women",sr:category:213
+sr:competition:21712,"ITF Brazil 09B, Women Doubles",sr:competition:21708,doubles,women,"ITF Women",sr:category:213
+sr:competition:21716,"ITF Ecuador 01A, Women Singles",sr:competition:21714,singles,women,"ITF Women",sr:category:213
+sr:competition:21718,"ITF Ecuador 01A, Women Doubles",sr:competition:21714,doubles,women,"ITF Women",sr:category:213
+sr:competition:21722,"ITF Czech Republic 09A, Women Singles",sr:competition:21720,singles,women,"ITF Women",sr:category:213
+sr:competition:21724,"ITF Czech Republic 09A, Women Doubles",sr:competition:21720,doubles,women,"ITF Women",sr:category:213
+sr:competition:21756,"ITF Chile 01A, Women Singles",sr:competition:21754,singles,women,"ITF Women",sr:category:213
+sr:competition:21758,"ITF Chile 01A, Women Doubles",sr:competition:21754,doubles,women,"ITF Women",sr:category:213
+sr:competition:21812,"ITF Egypt 36A, Women Singles",sr:competition:21810,singles,women,"ITF Women",sr:category:213
+sr:competition:21814,"ITF Egypt 36A, Women Doubles",sr:competition:21810,doubles,women,"ITF Women",sr:category:213
+sr:competition:21818,"ITF India 07A, Women Singles",sr:competition:21816,singles,women,"ITF Women",sr:category:213
+sr:competition:21820,"ITF India 07A, Women Doubles",sr:competition:21816,doubles,women,"ITF Women",sr:category:213
+sr:competition:21824,"ITF South Africa 02A, Women Singles",sr:competition:21822,singles,women,"ITF Women",sr:category:213
+sr:competition:21826,"ITF South Africa 02A, Women Doubles",sr:competition:21822,doubles,women,"ITF Women",sr:category:213
+sr:competition:21830,"ITF Spain 22A, Women Singles",sr:competition:21828,singles,women,"ITF Women",sr:category:213
+sr:competition:21832,"ITF Spain 22A, Women Doubles",sr:competition:21828,doubles,women,"ITF Women",sr:category:213
+sr:competition:21836,"ITF Tunisia 37A, Women Singles",sr:competition:21834,singles,women,"ITF Women",sr:category:213
+sr:competition:21838,"ITF Tunisia 37A, Women Doubles",sr:competition:21834,doubles,women,"ITF Women",sr:category:213
+sr:competition:21842,"ITF Turkey 42A, Women Singles",sr:competition:21840,singles,women,"ITF Women",sr:category:213
+sr:competition:21844,"ITF Turkey 42A, Women Doubles",sr:competition:21840,doubles,women,"ITF Women",sr:category:213
+sr:competition:21864,"ITF Egypt 07A, Women Singles",sr:competition:21862,singles,women,"ITF Women",sr:category:213
+sr:competition:21866,"ITF Egypt 07A, Women Doubles",sr:competition:21862,doubles,women,"ITF Women",sr:category:213
+sr:competition:21870,"ITF France 04B, Women Singles",sr:competition:21868,singles,women,"ITF Women",sr:category:213
+sr:competition:21872,"ITF France 04B, Women Doubles",sr:competition:21868,doubles,women,"ITF Women",sr:category:213
+sr:competition:21880,"ITF Spain 04A, Women Singles",sr:competition:21878,singles,women,"ITF Women",sr:category:213
+sr:competition:21882,"ITF Spain 04A, Women Doubles",sr:competition:21878,doubles,women,"ITF Women",sr:category:213
+sr:competition:21886,"ITF Tunisia 08A, Women Singles",sr:competition:21884,singles,women,"ITF Women",sr:category:213
+sr:competition:21888,"ITF Tunisia 08A, Women Doubles",sr:competition:21884,doubles,women,"ITF Women",sr:category:213
+sr:competition:21892,"ITF Turkey 08A, Women Singles",sr:competition:21890,singles,women,"ITF Women",sr:category:213
+sr:competition:21894,"ITF Turkey 08A, Women Doubles",sr:competition:21890,doubles,women,"ITF Women",sr:category:213
+sr:competition:21898,"ITF China 03C, Women Singles",sr:competition:21896,singles,women,"ITF Women",sr:category:213
+sr:competition:21900,"ITF China 03C, Women Doubles",sr:competition:21896,doubles,women,"ITF Women",sr:category:213
+sr:competition:21904,"ITF Australia 04A, Women Singles",sr:competition:21902,singles,women,"ITF Women",sr:category:213
+sr:competition:21906,"ITF Australia 04A, Women Doubles",sr:competition:21902,doubles,women,"ITF Women",sr:category:213
+sr:competition:21910,"ITF Brazil 02A, Women Singles",sr:competition:21908,singles,women,"ITF Women",sr:category:213
+sr:competition:21912,"ITF Brazil 02A, Women Doubles",sr:competition:21908,doubles,women,"ITF Women",sr:category:213
+sr:competition:21916,"ITF France 09A, Women Singles",sr:competition:21914,singles,women,"ITF Women",sr:category:213
+sr:competition:21918,"ITF France 09A, Women Doubles",sr:competition:21914,doubles,women,"ITF Women",sr:category:213
+sr:competition:21922,"ITF Egypt 08A, Women Singles",sr:competition:21920,singles,women,"ITF Women",sr:category:213
+sr:competition:21924,"ITF Egypt 08A, Women Doubles",sr:competition:21920,doubles,women,"ITF Women",sr:category:213
+sr:competition:21928,"ITF Greece 01A, Women Singles",sr:competition:21926,singles,women,"ITF Women",sr:category:213
+sr:competition:21930,"ITF Greece 01A, Women Doubles",sr:competition:21926,doubles,women,"ITF Women",sr:category:213
+sr:competition:21934,"ITF Italy 03A, Women Singles",sr:competition:21932,singles,women,"ITF Women",sr:category:213
+sr:competition:21936,"ITF Italy 03A, Women Doubles",sr:competition:21932,doubles,women,"ITF Women",sr:category:213
+sr:competition:21940,"ITF Tunisia 09A, Women Singles",sr:competition:21938,singles,women,"ITF Women",sr:category:213
+sr:competition:21942,"ITF Tunisia 09A, Women Doubles",sr:competition:21938,doubles,women,"ITF Women",sr:category:213
+sr:competition:21946,"ITF Turkey 09A, Women Singles",sr:competition:21944,singles,women,"ITF Women",sr:category:213
+sr:competition:21950,"ITF Turkey 12A, Women Singles",sr:competition:21948,singles,women,"ITF Women",sr:category:213
+sr:competition:21952,"ITF Turkey 12A, Women Doubles",sr:competition:21948,doubles,women,"ITF Women",sr:category:213
+sr:competition:21954,"ITF Turkey 09A, Women Doubles",sr:competition:21944,doubles,women,"ITF Women",sr:category:213
+sr:competition:21958,"ITF Tunisia 13A, Women Singles",sr:competition:21956,singles,women,"ITF Women",sr:category:213
+sr:competition:21960,"ITF Tunisia 13A, Women Doubles",sr:competition:21956,doubles,women,"ITF Women",sr:category:213
+sr:competition:21966,"ITF Portugal 02A, Women Singles",sr:competition:21964,singles,women,"ITF Women",sr:category:213
+sr:competition:21968,"ITF Portugal 02A, Women Doubles",sr:competition:21964,doubles,women,"ITF Women",sr:category:213
+sr:competition:21972,"ITF USA 07A, Women Singles",sr:competition:21970,singles,women,"ITF Women",sr:category:213
+sr:competition:21974,"ITF USA 07A, Women Doubles",sr:competition:21970,doubles,women,"ITF Women",sr:category:213
+sr:competition:21978,"ITF Greece 04A, Women Singles",sr:competition:21976,singles,women,"ITF Women",sr:category:213
+sr:competition:21980,"ITF Greece 04A, Women Doubles",sr:competition:21976,doubles,women,"ITF Women",sr:category:213
+sr:competition:21984,"ITF Egypt 11A, Women Singles",sr:competition:21982,singles,women,"ITF Women",sr:category:213
+sr:competition:21986,"ITF Egypt 11A, Women Doubles",sr:competition:21982,doubles,women,"ITF Women",sr:category:213
+sr:competition:21990,"ITF China 03B, Women Singles",sr:competition:21988,singles,women,"ITF Women",sr:category:213
+sr:competition:21992,"ITF China 03B, Women Doubles",sr:competition:21988,doubles,women,"ITF Women",sr:category:213
+sr:competition:21996,"ITF Egypt 09A, Women Singles",sr:competition:21994,singles,women,"ITF Women",sr:category:213
+sr:competition:21998,"ITF Egypt 09A, Women Doubles",sr:competition:21994,doubles,women,"ITF Women",sr:category:213
+sr:competition:22002,"ITF Brazil 03A, Women Singles",sr:competition:22000,singles,women,"ITF Women",sr:category:213
+sr:competition:22004,"ITF Brazil 03A, Women Doubles",sr:competition:22000,doubles,women,"ITF Women",sr:category:213
+sr:competition:22020,"ITF Japan 02A, Women Singles",sr:competition:22012,singles,women,"ITF Women",sr:category:213
+sr:competition:22022,"ITF Japan 02A, Women Doubles",sr:competition:22012,doubles,women,"ITF Women",sr:category:213
+sr:competition:22026,"ITF Italy 02A, Women Singles",sr:competition:22024,singles,women,"ITF Women",sr:category:213
+sr:competition:22028,"ITF Italy 02A, Women Doubles",sr:competition:22024,doubles,women,"ITF Women",sr:category:213
+sr:competition:22032,"ITF Australia 06A, Women Singles",sr:competition:22030,singles,women,"ITF Women",sr:category:213
+sr:competition:22034,"ITF Australia 06A, Women Doubles",sr:competition:22030,doubles,women,"ITF Women",sr:category:213
+sr:competition:22038,"ITF France 06A, Women Singles",sr:competition:22036,singles,women,"ITF Women",sr:category:213
+sr:competition:22040,"ITF France 06A, Women Doubles",sr:competition:22036,doubles,women,"ITF Women",sr:category:213
+sr:competition:22044,"ITF Greece 02A, Women Singles",sr:competition:22042,singles,women,"ITF Women",sr:category:213
+sr:competition:22046,"ITF Greece 02A, Women Doubles",sr:competition:22042,doubles,women,"ITF Women",sr:category:213
+sr:competition:22050,"ITF Italy 04A, Women Singles",sr:competition:22048,singles,women,"ITF Women",sr:category:213
+sr:competition:22052,"ITF Italy 04A, Women Doubles",sr:competition:22048,doubles,women,"ITF Women",sr:category:213
+sr:competition:22056,"ITF Tunisia 11A, Women Singles",sr:competition:22054,singles,women,"ITF Women",sr:category:213
+sr:competition:22058,"ITF Tunisia 11A, Women Doubles",sr:competition:22054,doubles,women,"ITF Women",sr:category:213
+sr:competition:22062,"ITF Turkey 10A, Women Singles",sr:competition:22060,singles,women,"ITF Women",sr:category:213
+sr:competition:22064,"ITF Turkey 10A, Women Doubles",sr:competition:22060,doubles,women,"ITF Women",sr:category:213
+sr:competition:22068,"ITF Australia 05A, Women Singles",sr:competition:22066,singles,women,"ITF Women",sr:category:213
+sr:competition:22070,"ITF Australia 05A, Women Doubles",sr:competition:22066,doubles,women,"ITF Women",sr:category:213
+sr:competition:22074,"ITF Italy 01A, Women Singles",sr:competition:22072,singles,women,"ITF Women",sr:category:213
+sr:competition:22076,"ITF Italy 01A, Women Doubles",sr:competition:22072,doubles,women,"ITF Women",sr:category:213
+sr:competition:22080,"ITF France 08A, Women Singles",sr:competition:22078,singles,women,"ITF Women",sr:category:213
+sr:competition:22082,"ITF France 08A, Women Doubles",sr:competition:22078,doubles,women,"ITF Women",sr:category:213
+sr:competition:22086,"ITF China 04B, Women Singles",sr:competition:22084,singles,women,"ITF Women",sr:category:213
+sr:competition:22088,"ITF China 04B, Women Doubles",sr:competition:22084,doubles,women,"ITF Women",sr:category:213
+sr:competition:22092,"ITF Egypt 10A, Women Singles",sr:competition:22090,singles,women,"ITF Women",sr:category:213
+sr:competition:22094,"ITF Egypt 10A, Women Doubles",sr:competition:22090,doubles,women,"ITF Women",sr:category:213
+sr:competition:22098,"ITF Turkey 11A, Women Singles",sr:competition:22096,singles,women,"ITF Women",sr:category:213
+sr:competition:22100,"ITF Turkey 11A, Women Doubles",sr:competition:22096,doubles,women,"ITF Women",sr:category:213
+sr:competition:22104,"ITF Tunisia 12A, Women Singles",sr:competition:22102,singles,women,"ITF Women",sr:category:213
+sr:competition:22106,"ITF Tunisia 12A, Women Doubles",sr:competition:22102,doubles,women,"ITF Women",sr:category:213
+sr:competition:22110,"ITF France 07A, Women Singles",sr:competition:22108,singles,women,"ITF Women",sr:category:213
+sr:competition:22112,"ITF France 07A, Women Doubles",sr:competition:22108,doubles,women,"ITF Women",sr:category:213
+sr:competition:22116,"ITF Japan 01A, Women Singles",sr:competition:22114,singles,women,"ITF Women",sr:category:213
+sr:competition:22118,"ITF Japan 01A, Women Doubles",sr:competition:22114,doubles,women,"ITF Women",sr:category:213
+sr:competition:22122,"ITF Turkey 16A, Women Singles",sr:competition:22120,singles,women,"ITF Women",sr:category:213
+sr:competition:22124,"ITF Turkey 16A, Women Doubles",sr:competition:22120,doubles,women,"ITF Women",sr:category:213
+sr:competition:22128,"ITF Greece 03A, Women Singles",sr:competition:22126,singles,women,"ITF Women",sr:category:213
+sr:competition:22130,"ITF Greece 03A, Women Doubles",sr:competition:22126,doubles,women,"ITF Women",sr:category:213
+sr:competition:22170,"ITF Ecuador 02A, Women Singles",sr:competition:22168,singles,women,"ITF Women",sr:category:213
+sr:competition:22172,"ITF Ecuador 02A, Women Doubles",sr:competition:22168,doubles,women,"ITF Women",sr:category:213
+sr:competition:22176,"ITF Thailand 01A, Women Singles",sr:competition:22174,singles,women,"ITF Women",sr:category:213
+sr:competition:22178,"ITF Thailand 01A, Women Doubles",sr:competition:22174,doubles,women,"ITF Women",sr:category:213
+sr:competition:22182,"ITF Italy 05A, Women Singles",sr:competition:22180,singles,women,"ITF Women",sr:category:213
+sr:competition:22184,"ITF Italy 05A, Women Doubles",sr:competition:22180,doubles,women,"ITF Women",sr:category:213
+sr:competition:22188,"ITF Chile 02A, Women Singles",sr:competition:22186,singles,women,"ITF Women",sr:category:213
+sr:competition:22190,"ITF Chile 02A, Women Doubles",sr:competition:22186,doubles,women,"ITF Women",sr:category:213
+sr:competition:22194,"ITF Spain 23A, Women Singles",sr:competition:22192,singles,women,"ITF Women",sr:category:213
+sr:competition:22196,"ITF Spain 23A, Women Doubles",sr:competition:22192,doubles,women,"ITF Women",sr:category:213
+sr:competition:22200,"ITF Czech Republic 10A, Women Singles",sr:competition:22198,singles,women,"ITF Women",sr:category:213
+sr:competition:22202,"ITF Czech Republic 10A, Women Doubles",sr:competition:22198,doubles,women,"ITF Women",sr:category:213
+sr:competition:22206,"ITF Japan 03A, Women Singles",sr:competition:22204,singles,women,"ITF Women",sr:category:213
+sr:competition:22208,"ITF Japan 03A, Women Doubles",sr:competition:22204,doubles,women,"ITF Women",sr:category:213
+sr:competition:22212,"ITF Egypt 37A, Women Singles",sr:competition:22210,singles,women,"ITF Women",sr:category:213
+sr:competition:22214,"ITF Egypt 37A, Women Doubles",sr:competition:22210,doubles,women,"ITF Women",sr:category:213
+sr:competition:22218,"ITF Turkey 13A, Women Singles",sr:competition:22216,singles,women,"ITF Women",sr:category:213
+sr:competition:22220,"ITF Turkey 13A, Women Doubles",sr:competition:22216,doubles,women,"ITF Women",sr:category:213
+sr:competition:22228,"ITF USA 09A, Women Singles",sr:competition:22226,singles,women,"ITF Women",sr:category:213
+sr:competition:22230,"ITF USA 09A, Women Doubles",sr:competition:22226,doubles,women,"ITF Women",sr:category:213
+sr:competition:22236,"ITF Brazil 03B, Women Singles",sr:competition:22234,singles,women,"ITF Women",sr:category:213
+sr:competition:22238,"ITF Brazil 03B, Women Doubles",sr:competition:22234,doubles,women,"ITF Women",sr:category:213
+sr:competition:22244,"ITF India 04A, Women Singles",sr:competition:22242,singles,women,"ITF Women",sr:category:213
+sr:competition:22246,"ITF India 04A, Women Doubles",sr:competition:22242,doubles,women,"ITF Women",sr:category:213
+sr:competition:22250,"ITF South Africa 03A, Women Singles",sr:competition:22248,singles,women,"ITF Women",sr:category:213
+sr:competition:22252,"ITF South Africa 03A, Women Doubles",sr:competition:22248,doubles,women,"ITF Women",sr:category:213
+sr:competition:22256,"ITF Tunisia 38A, Women Singles",sr:competition:22254,singles,women,"ITF Women",sr:category:213
+sr:competition:22258,"ITF Tunisia 38A, Women Doubles",sr:competition:22254,doubles,women,"ITF Women",sr:category:213
+sr:competition:22262,"ITF Turkey 43A, Women Singles",sr:competition:22260,singles,women,"ITF Women",sr:category:213
+sr:competition:22264,"ITF Turkey 43A, Women Doubles",sr:competition:22260,doubles,women,"ITF Women",sr:category:213
+sr:competition:22286,"ITF Croatia 01A, Women Singles",sr:competition:22284,singles,women,"ITF Women",sr:category:213
+sr:competition:22288,"ITF Croatia 01A, Women Doubles",sr:competition:22284,doubles,women,"ITF Women",sr:category:213
+sr:competition:22304,"ITF Egypt 12A, Women Singles",sr:competition:22302,singles,women,"ITF Women",sr:category:213
+sr:competition:22306,"ITF Egypt 12A, Women Doubles",sr:competition:22302,doubles,women,"ITF Women",sr:category:213
+sr:competition:22322,"ITF France 10A, Women Singles",sr:competition:22320,singles,women,"ITF Women",sr:category:213
+sr:competition:22324,"ITF France 10A, Women Doubles",sr:competition:22320,doubles,women,"ITF Women",sr:category:213
+sr:competition:22328,"ITF Egypt 15A, Women Singles",sr:competition:22326,singles,women,"ITF Women",sr:category:213
+sr:competition:22330,"ITF Egypt 15A, Women Doubles",sr:competition:22326,doubles,women,"ITF Women",sr:category:213
+sr:competition:22334,"ITF Uzbekistan 01A, Women Singles",,singles,women,"ITF Women",sr:category:213
+sr:competition:22336,"ITF Uzbekistan 01A, Women Doubles",sr:competition:22332,doubles,women,"ITF Women",sr:category:213
+sr:competition:22340,"ITF Greece 05A, Women Singles",sr:competition:22338,singles,women,"ITF Women",sr:category:213
+sr:competition:22342,"ITF Greece 05A, Women Doubles",sr:competition:22338,doubles,women,"ITF Women",sr:category:213
+sr:competition:22346,"ITF Tunisia 14A, Women Singles",sr:competition:22344,singles,women,"ITF Women",sr:category:213
+sr:competition:22348,"ITF Tunisia 14A, Women Doubles",sr:competition:22344,doubles,women,"ITF Women",sr:category:213
+sr:competition:22354,"ITF Italy 08A, Women Singles",sr:competition:22352,singles,women,"ITF Women",sr:category:213
+sr:competition:22356,"ITF Italy 08A, Women Doubles",sr:competition:22352,doubles,women,"ITF Women",sr:category:213
+sr:competition:22360,"ITF USA 10A, Women Singles",sr:competition:22358,singles,women,"ITF Women",sr:category:213
+sr:competition:22362,"ITF USA 10A, Women Doubles",sr:competition:22358,doubles,women,"ITF Women",sr:category:213
+sr:competition:22366,"ITF USA 13A, Women Singles",sr:competition:22364,singles,women,"ITF Women",sr:category:213
+sr:competition:22368,"ITF USA 13A, Women Doubles",sr:competition:22364,doubles,women,"ITF Women",sr:category:213
+sr:competition:22372,"ITF Turkey 14A, Women Singles",sr:competition:22370,singles,women,"ITF Women",sr:category:213
+sr:competition:22374,"ITF Turkey 14A, Women Doubles",sr:competition:22370,doubles,women,"ITF Women",sr:category:213
+sr:competition:22378,"ITF China 06A, Women Singles",sr:competition:22376,singles,women,"ITF Women",sr:category:213
+sr:competition:22380,"ITF China 06A, Women Doubles",sr:competition:22376,doubles,women,"ITF Women",sr:category:213
+sr:competition:22384,"ITF Italy 06A, Women Singles",sr:competition:22382,singles,women,"ITF Women",sr:category:213
+sr:competition:22386,"ITF Italy 06A, Women Doubles",sr:competition:22382,doubles,women,"ITF Women",sr:category:213
+sr:competition:22390,"ITF Mexico 01A, Women Singles",sr:competition:22388,singles,women,"ITF Women",sr:category:213
+sr:competition:22392,"ITF Mexico 01A, Women Doubles",sr:competition:22388,doubles,women,"ITF Women",sr:category:213
+sr:competition:22396,"ITF USA 11A, Women Singles",sr:competition:22394,singles,women,"ITF Women",sr:category:213
+sr:competition:22398,"ITF USA 11A, Women Doubles",sr:competition:22394,doubles,women,"ITF Women",sr:category:213
+sr:competition:22404,"ITF Egypt 13A, Women Singles",sr:competition:22400,singles,women,"ITF Women",sr:category:213
+sr:competition:22406,"ITF Egypt 13A, Women Doubles",sr:competition:22400,doubles,women,"ITF Women",sr:category:213
+sr:competition:22410,"ITF Kazakhstan 02B, Women Singles",sr:competition:22408,singles,women,"ITF Women",sr:category:213
+sr:competition:22412,"ITF Kazakhstan 02B, Women Doubles",sr:competition:22408,doubles,women,"ITF Women",sr:category:213
+sr:competition:22416,"ITF Tunisia 15A, Women Singles",sr:competition:22414,singles,women,"ITF Women",sr:category:213
+sr:competition:22418,"ITF Tunisia 15A, Women Doubles",sr:competition:22414,doubles,women,"ITF Women",sr:category:213
+sr:competition:22422,"ITF Italy 07A, Women Singles",sr:competition:22420,singles,women,"ITF Women",sr:category:213
+sr:competition:22424,"ITF Italy 07A, Women Doubles",sr:competition:22420,doubles,women,"ITF Women",sr:category:213
+sr:competition:22426,"ITF USA 12A, Women Singles",sr:competition:22402,singles,women,"ITF Women",sr:category:213
+sr:competition:22428,"ITF USA 12A, Women Doubles",sr:competition:22402,doubles,women,"ITF Women",sr:category:213
+sr:competition:22432,"ITF Switzerland 01A, Women Singles",sr:competition:22430,singles,women,"ITF Women",sr:category:213
+sr:competition:22434,"ITF Switzerland 01A, Women Doubles",sr:competition:22430,doubles,women,"ITF Women",sr:category:213
+sr:competition:22438,"ITF Egypt 14A, Women Singles",sr:competition:22436,singles,women,"ITF Women",sr:category:213
+sr:competition:22440,"ITF Egypt 14A, Women Doubles",sr:competition:22436,doubles,women,"ITF Women",sr:category:213
+sr:competition:22444,"ITF Kazakhstan 03A, Women Singles",sr:competition:22442,singles,women,"ITF Women",sr:category:213
+sr:competition:22446,"ITF Kazakhstan 03A, Women Doubles",sr:competition:22442,doubles,women,"ITF Women",sr:category:213
+sr:competition:22450,"ITF Tunisia 16A, Women Singles",sr:competition:22448,singles,women,"ITF Women",sr:category:213
+sr:competition:22452,"ITF Tunisia 16A, Women Doubles",sr:competition:22448,doubles,women,"ITF Women",sr:category:213
+sr:competition:22456,"ITF Turkey 15A, Women Singles",sr:competition:22454,singles,women,"ITF Women",sr:category:213
+sr:competition:22458,"ITF Turkey 15A, Women Doubles",sr:competition:22454,doubles,women,"ITF Women",sr:category:213
+sr:competition:22462,"ITF China 05A, Women Singles",sr:competition:22460,singles,women,"ITF Women",sr:category:213
+sr:competition:22464,"ITF China 05A, Women Doubles",sr:competition:22460,doubles,women,"ITF Women",sr:category:213
+sr:competition:22468,"ITF Tunisia 10A, Women Singles",sr:competition:22466,singles,women,"ITF Women",sr:category:213
+sr:competition:22470,"ITF Tunisia 10A, Women Doubles",sr:competition:22466,doubles,women,"ITF Women",sr:category:213
+sr:competition:22474,"ITF Japan 04A, Women Singles",sr:competition:22472,singles,women,"ITF Women",sr:category:213
+sr:competition:22476,"ITF Japan 04A, Women Doubles",sr:competition:22472,doubles,women,"ITF Women",sr:category:213
+sr:competition:22480,"ITF USA 14A, Women Singles",sr:competition:22478,singles,women,"ITF Women",sr:category:213
+sr:competition:22482,"ITF USA 14A, Women Doubles",sr:competition:22478,doubles,women,"ITF Women",sr:category:213
+sr:competition:22486,"ITF Germany 03A, Women Singles",sr:competition:22484,singles,women,"ITF Women",sr:category:213
+sr:competition:22488,"ITF Germany 03A, Women Doubles",sr:competition:22484,doubles,women,"ITF Women",sr:category:213
+sr:competition:22492,"ITF Russia 02A, Women Singles",sr:competition:22490,singles,women,"ITF Women",sr:category:213
+sr:competition:22494,"ITF Russia 02A, Women Doubles",sr:competition:22490,doubles,women,"ITF Women",sr:category:213
+sr:competition:22498,"ITF Tunisia 18A, Women Singles",sr:competition:22496,singles,women,"ITF Women",sr:category:213
+sr:competition:22500,"ITF Tunisia 18A, Women Doubles",sr:competition:22496,doubles,women,"ITF Women",sr:category:213
+sr:competition:22504,"ITF Egypt 16A, Women Singles",sr:competition:22502,singles,women,"ITF Women",sr:category:213
+sr:competition:22506,"ITF Egypt 16A, Women Doubles",sr:competition:22502,doubles,women,"ITF Women",sr:category:213
+sr:competition:22510,"ITF Hungary 01A, Women Singles",sr:competition:22508,singles,women,"ITF Women",sr:category:213
+sr:competition:22512,"ITF Hungary 01A, Women Doubles",sr:competition:22508,doubles,women,"ITF Women",sr:category:213
+sr:competition:22516,"ITF Israel 01A, Women Singles",sr:competition:22514,singles,women,"ITF Women",sr:category:213
+sr:competition:22518,"ITF Israel 01A, Women Doubles",sr:competition:22514,doubles,women,"ITF Women",sr:category:213
+sr:competition:22522,"ITF Italy 09A, Women Singles",sr:competition:22520,singles,women,"ITF Women",sr:category:213
+sr:competition:22524,"ITF Italy 09A, Women Doubles",sr:competition:22520,doubles,women,"ITF Women",sr:category:213
+sr:competition:22528,"ITF Thailand 02A, Women Singles",sr:competition:22526,singles,women,"ITF Women",sr:category:213
+sr:competition:22530,"ITF Thailand 02A, Women Doubles",sr:competition:22526,doubles,women,"ITF Women",sr:category:213
+sr:competition:22534,"ITF Turkey 17A, Women Singles",sr:competition:22532,singles,women,"ITF Women",sr:category:213
+sr:competition:22536,"ITF Turkey 17A, Women Doubles",sr:competition:22532,doubles,women,"ITF Women",sr:category:213
+sr:competition:22540,"ITF France 11A, Women Singles",sr:competition:22538,singles,women,"ITF Women",sr:category:213
+sr:competition:22542,"ITF France 11A, Women Doubles",sr:competition:22538,doubles,women,"ITF Women",sr:category:213
+sr:competition:22548,"ITF Japan 05A, Women Singles",sr:competition:22546,singles,women,"ITF Women",sr:category:213
+sr:competition:22550,"ITF Japan 05A, Women Doubles",sr:competition:22546,doubles,women,"ITF Women",sr:category:213
+sr:competition:22554,"ITF China 07A, Women Singles",sr:competition:22552,singles,women,"ITF Women",sr:category:213
+sr:competition:22556,"ITF China 07A, Women Doubles",sr:competition:22552,doubles,women,"ITF Women",sr:category:213
+sr:competition:22560,"ITF Italy 10A, Women Singles",sr:competition:22558,singles,women,"ITF Women",sr:category:213
+sr:competition:22562,"ITF Italy 10A, Women Doubles",sr:competition:22558,doubles,women,"ITF Women",sr:category:213
+sr:competition:22566,"ITF South Korea 01A, Women Singles",sr:competition:22564,singles,women,"ITF Women",sr:category:213
